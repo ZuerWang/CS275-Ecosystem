@@ -143,7 +143,7 @@ MonoBehaviour:
     y: 0
   diet: 4
   currentAction: 0
-  maleColour: {r: 0, g: 0, b: 0, a: 0}
-  femaleColour: {r: 0, g: 0, b: 0, a: 0}
+  maleColour: {r: 0.22352943, g: 0.1254902, b: 0.1254902, a: 1}
+  femaleColour: {r: 0.7924528, g: 0.18316127, b: 0.18316127, a: 0}
   hunger: 0
   thirst: 0
