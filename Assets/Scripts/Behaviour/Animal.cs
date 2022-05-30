@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using NumSharp;
 
 public class Animal : LivingEntity {
 
@@ -56,7 +57,8 @@ public class Animal : LivingEntity {
     public override void Init (Coord coord) {
         base.Init (coord);
         moveFromCoord = coord;
-        genes = Genes.RandomGenes (1);
+        genes = Genes.RandomGenes (3,2);
+        moveSpeed = genes.speed;
 
         material.color = (genes.isMale) ? maleColour : femaleColour;
 
@@ -93,6 +95,36 @@ public class Animal : LivingEntity {
     // Animals choose their next action after each movement step (1 tile),
     // or, when not moving (e.g interacting with food etc), at a fixed time interval
     protected virtual void ChooseNextAction () {
+        // HardcodeAction ();
+        EvolvedAction ();
+    }
+
+    protected virtual void EvolvedAction () {
+        lastActionChooseTime = Time.time;
+        // Get info about surroundings
+
+        // Decide next action by neural net:
+        NDArray input = np.zeros((genes.inputSize, 1));
+        bool currentlyEating = currentAction == CreatureAction.Eating && foodTarget && hunger > 0;
+        input[0,0] = hunger;
+        input[1,0] = thirst;
+        input[2,0] = currentlyEating ? 0 : 1;
+        NDArray output = genes.getNNOuput(input);
+        int choice = np.argmax(output);
+
+        switch (choice) {
+            case 0:
+                FindFood ();
+                break;
+            case 1:
+                FindWater ();
+                break;
+        }
+
+        Act ();
+    }
+
+    protected virtual void HardcodeAction () {
         lastActionChooseTime = Time.time;
         // Get info about surroundings
 
@@ -110,6 +142,7 @@ public class Animal : LivingEntity {
         Act ();
 
     }
+
 
     protected virtual void FindFood () {
         LivingEntity foodSource = Environment.SenseFood (coord, this, FoodPreferencePenalty);

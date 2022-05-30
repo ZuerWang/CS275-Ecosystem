@@ -184,119 +184,121 @@ public class Environment : MonoBehaviour {
 
     // Call terrain generator and cache useful info
     void Init () {
-        var sw = System.Diagnostics.Stopwatch.StartNew ();
+        for (int epoch = 0; epoch < 2; epoch ++) {
+            var sw = System.Diagnostics.Stopwatch.StartNew ();
 
-        var terrainGenerator = FindObjectOfType<TerrainGenerator> ();
-        terrainData = terrainGenerator.Generate ();
+            var terrainGenerator = FindObjectOfType<TerrainGenerator> ();
+            terrainData = terrainGenerator.Generate ();
 
-        tileCentres = terrainData.tileCentres;
-        walkable = terrainData.walkable;
-        size = terrainData.size;
+            tileCentres = terrainData.tileCentres;
+            walkable = terrainData.walkable;
+            size = terrainData.size;
 
-        int numSpecies = System.Enum.GetNames (typeof (Species)).Length;
-        preyBySpecies = new Dictionary<Species, List<Species>> ();
-        predatorsBySpecies = new Dictionary<Species, List<Species>> ();
+            int numSpecies = System.Enum.GetNames (typeof (Species)).Length;
+            preyBySpecies = new Dictionary<Species, List<Species>> ();
+            predatorsBySpecies = new Dictionary<Species, List<Species>> ();
 
-        // Init species maps
-        speciesMaps = new Dictionary<Species, Map> ();
-        for (int i = 0; i < numSpecies; i++) {
-            Species species = (Species) (1 << i);
-            speciesMaps.Add (species, new Map (size, mapRegionSize));
+            // Init species maps
+            speciesMaps = new Dictionary<Species, Map> ();
+            for (int i = 0; i < numSpecies; i++) {
+                Species species = (Species) (1 << i);
+                speciesMaps.Add (species, new Map (size, mapRegionSize));
 
-            preyBySpecies.Add (species, new List<Species> ());
-            predatorsBySpecies.Add (species, new List<Species> ());
-        }
+                preyBySpecies.Add (species, new List<Species> ());
+                predatorsBySpecies.Add (species, new List<Species> ());
+            }
 
-        // Store predator/prey relationships for all species
-        for (int i = 0; i < initialPopulations.Length; i++) {
+            // Store predator/prey relationships for all species
+            for (int i = 0; i < initialPopulations.Length; i++) {
 
-            if (initialPopulations[i].prefab is Animal) {
-                Animal hunter = (Animal) initialPopulations[i].prefab;
-                Species diet = hunter.diet;
+                if (initialPopulations[i].prefab is Animal) {
+                    Animal hunter = (Animal) initialPopulations[i].prefab;
+                    Species diet = hunter.diet;
 
-                for (int huntedSpeciesIndex = 0; huntedSpeciesIndex < numSpecies; huntedSpeciesIndex++) {
-                    int bit = ((int) diet >> huntedSpeciesIndex) & 1;
-                    // this bit of diet mask set (i.e. the hunter eats this species)
-                    if (bit == 1) {
-                        int huntedSpecies = 1 << huntedSpeciesIndex;
-                        preyBySpecies[hunter.species].Add ((Species) huntedSpecies);
-                        predatorsBySpecies[(Species) huntedSpecies].Add (hunter.species);
+                    for (int huntedSpeciesIndex = 0; huntedSpeciesIndex < numSpecies; huntedSpeciesIndex++) {
+                        int bit = ((int) diet >> huntedSpeciesIndex) & 1;
+                        // this bit of diet mask set (i.e. the hunter eats this species)
+                        if (bit == 1) {
+                            int huntedSpecies = 1 << huntedSpeciesIndex;
+                            preyBySpecies[hunter.species].Add ((Species) huntedSpecies);
+                            predatorsBySpecies[(Species) huntedSpecies].Add (hunter.species);
+                        }
                     }
                 }
             }
-        }
 
-        //LogPredatorPreyRelationships ();
+            //LogPredatorPreyRelationships ();
 
-        SpawnTrees ();
+            SpawnTrees ();
 
-        walkableNeighboursMap = new Coord[size, size][];
+            walkableNeighboursMap = new Coord[size, size][];
 
-        // Find and store all walkable neighbours for each walkable tile on the map
-        for (int y = 0; y < terrainData.size; y++) {
-            for (int x = 0; x < terrainData.size; x++) {
-                if (walkable[x, y]) {
-                    List<Coord> walkableNeighbours = new List<Coord> ();
-                    for (int offsetY = -1; offsetY <= 1; offsetY++) {
-                        for (int offsetX = -1; offsetX <= 1; offsetX++) {
-                            if (offsetX != 0 || offsetY != 0) {
-                                int neighbourX = x + offsetX;
-                                int neighbourY = y + offsetY;
-                                if (neighbourX >= 0 && neighbourX < size && neighbourY >= 0 && neighbourY < size) {
-                                    if (walkable[neighbourX, neighbourY]) {
-                                        walkableNeighbours.Add (new Coord (neighbourX, neighbourY));
+            // Find and store all walkable neighbours for each walkable tile on the map
+            for (int y = 0; y < terrainData.size; y++) {
+                for (int x = 0; x < terrainData.size; x++) {
+                    if (walkable[x, y]) {
+                        List<Coord> walkableNeighbours = new List<Coord> ();
+                        for (int offsetY = -1; offsetY <= 1; offsetY++) {
+                            for (int offsetX = -1; offsetX <= 1; offsetX++) {
+                                if (offsetX != 0 || offsetY != 0) {
+                                    int neighbourX = x + offsetX;
+                                    int neighbourY = y + offsetY;
+                                    if (neighbourX >= 0 && neighbourX < size && neighbourY >= 0 && neighbourY < size) {
+                                        if (walkable[neighbourX, neighbourY]) {
+                                            walkableNeighbours.Add (new Coord (neighbourX, neighbourY));
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                        walkableNeighboursMap[x, y] = walkableNeighbours.ToArray ();
+                    }
+                }
+            }
+
+            // Generate offsets within max view distance, sorted by distance ascending
+            // Used to speed up per-tile search for closest water tile
+            List<Coord> viewOffsets = new List<Coord> ();
+            int viewRadius = Animal.maxViewDistance;
+            int sqrViewRadius = viewRadius * viewRadius;
+            for (int offsetY = -viewRadius; offsetY <= viewRadius; offsetY++) {
+                for (int offsetX = -viewRadius; offsetX <= viewRadius; offsetX++) {
+                    int sqrOffsetDst = offsetX * offsetX + offsetY * offsetY;
+                    if ((offsetX != 0 || offsetY != 0) && sqrOffsetDst <= sqrViewRadius) {
+                        viewOffsets.Add (new Coord (offsetX, offsetY));
+                    }
+                }
+            }
+            viewOffsets.Sort ((a, b) => (a.x * a.x + a.y * a.y).CompareTo (b.x * b.x + b.y * b.y));
+            Coord[] viewOffsetsArr = viewOffsets.ToArray ();
+
+            // Find closest accessible water tile for each tile on the map:
+            closestVisibleWaterMap = new Coord[size, size];
+            for (int y = 0; y < terrainData.size; y++) {
+                for (int x = 0; x < terrainData.size; x++) {
+                    bool foundWater = false;
+                    if (walkable[x, y]) {
+                        for (int i = 0; i < viewOffsets.Count; i++) {
+                            int targetX = x + viewOffsetsArr[i].x;
+                            int targetY = y + viewOffsetsArr[i].y;
+                            if (targetX >= 0 && targetX < size && targetY >= 0 && targetY < size) {
+                                if (terrainData.shore[targetX, targetY]) {
+                                    if (EnvironmentUtility.TileIsVisibile (x, y, targetX, targetY)) {
+                                        closestVisibleWaterMap[x, y] = new Coord (targetX, targetY);
+                                        foundWater = true;
+                                        break;
                                     }
                                 }
                             }
                         }
                     }
-                    walkableNeighboursMap[x, y] = walkableNeighbours.ToArray ();
-                }
-            }
-        }
-
-        // Generate offsets within max view distance, sorted by distance ascending
-        // Used to speed up per-tile search for closest water tile
-        List<Coord> viewOffsets = new List<Coord> ();
-        int viewRadius = Animal.maxViewDistance;
-        int sqrViewRadius = viewRadius * viewRadius;
-        for (int offsetY = -viewRadius; offsetY <= viewRadius; offsetY++) {
-            for (int offsetX = -viewRadius; offsetX <= viewRadius; offsetX++) {
-                int sqrOffsetDst = offsetX * offsetX + offsetY * offsetY;
-                if ((offsetX != 0 || offsetY != 0) && sqrOffsetDst <= sqrViewRadius) {
-                    viewOffsets.Add (new Coord (offsetX, offsetY));
-                }
-            }
-        }
-        viewOffsets.Sort ((a, b) => (a.x * a.x + a.y * a.y).CompareTo (b.x * b.x + b.y * b.y));
-        Coord[] viewOffsetsArr = viewOffsets.ToArray ();
-
-        // Find closest accessible water tile for each tile on the map:
-        closestVisibleWaterMap = new Coord[size, size];
-        for (int y = 0; y < terrainData.size; y++) {
-            for (int x = 0; x < terrainData.size; x++) {
-                bool foundWater = false;
-                if (walkable[x, y]) {
-                    for (int i = 0; i < viewOffsets.Count; i++) {
-                        int targetX = x + viewOffsetsArr[i].x;
-                        int targetY = y + viewOffsetsArr[i].y;
-                        if (targetX >= 0 && targetX < size && targetY >= 0 && targetY < size) {
-                            if (terrainData.shore[targetX, targetY]) {
-                                if (EnvironmentUtility.TileIsVisibile (x, y, targetX, targetY)) {
-                                    closestVisibleWaterMap[x, y] = new Coord (targetX, targetY);
-                                    foundWater = true;
-                                    break;
-                                }
-                            }
-                        }
+                    if (!foundWater) {
+                        closestVisibleWaterMap[x, y] = Coord.invalid;
                     }
                 }
-                if (!foundWater) {
-                    closestVisibleWaterMap[x, y] = Coord.invalid;
-                }
             }
+            Debug.Log ("Init time: " + sw.ElapsedMilliseconds);
         }
-        Debug.Log ("Init time: " + sw.ElapsedMilliseconds);
     }
 
     void SpawnTrees () {
