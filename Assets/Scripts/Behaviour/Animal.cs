@@ -57,7 +57,7 @@ public class Animal : LivingEntity {
     public override void Init (Coord coord) {
         base.Init (coord);
         moveFromCoord = coord;
-        genes = Genes.RandomGenes (3,2);
+        genes = Genes.RandomGenes (2,3);
         moveSpeed = genes.speed;
 
         material.color = (genes.isMale) ? maleColour : femaleColour;
