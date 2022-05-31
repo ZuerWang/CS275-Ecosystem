@@ -67,6 +67,10 @@ public class Environment : MonoBehaviour {
         speciesMaps[entity.species].Remove (entity, entity.coord);
     }
 
+    public static void RegisterBirth (LivingEntity entity) {
+        speciesMaps[entity.species].Add (entity, entity.coord);
+    }
+
     public static Coord SenseWater (Coord coord) {
         var closestWaterCoord = closestVisibleWaterMap[coord.x, coord.y];
         if (closestWaterCoord != Coord.invalid) {

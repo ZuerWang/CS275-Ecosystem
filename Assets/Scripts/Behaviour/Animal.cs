@@ -20,6 +20,7 @@ public class Animal : LivingEntity {
     float moveSpeed = 1.5f;
     float timeToDeathByHunger = 200;
     float timeToDeathByThirst = 200;
+    float timeToReproduce = 100;
 
     float drinkDuration = 6;
     float eatDuration = 10;
@@ -34,6 +35,7 @@ public class Animal : LivingEntity {
     public float hunger;
     public float thirst;
     public float reprod;
+    public int newBaby;
 
     protected LivingEntity foodTarget;
     protected LivingEntity mateTarget;
@@ -74,6 +76,7 @@ public class Animal : LivingEntity {
         // Increase hunger and thirst over time
         hunger += Time.deltaTime * 1 / timeToDeathByHunger;
         thirst += Time.deltaTime * 1 / timeToDeathByThirst;
+        reprod += Time.deltaTime * 1 / timeToReproduce;
 
         // Animate movement. After moving a single tile, the animal will be able to choose its next action
         if (animatingMovement) {
@@ -91,6 +94,9 @@ public class Animal : LivingEntity {
             Die (CauseOfDeath.Hunger);
         } else if (thirst >= 1) {
             Die (CauseOfDeath.Thirst);
+        } else if (newBaby == 1){
+            Baby();
+            newBaby = 0;
         }
     }
 
@@ -214,6 +220,15 @@ public class Animal : LivingEntity {
                     pathIndex++;
                 }
                 break;
+            case CreatureAction.SearchingForMate:
+                if (Coord.AreNeighbours (coord, mateTarget.coord)) {
+                    LookAt (mateTarget.coord);
+                    currentAction = CreatureAction.Mating;
+                } else {
+                    StartMoveToCoord (path[pathIndex]);
+                    pathIndex++;
+                }
+                break;
         }
     }
 
@@ -258,6 +273,12 @@ public class Animal : LivingEntity {
             if (thirst > 0) {
                 thirst -= Time.deltaTime * 1 / drinkDuration;
                 thirst = Mathf.Clamp01 (thirst);
+            }
+        } else if (currentAction == CreatureAction.Mating) {
+            if (mateTarget && reprod > 0){
+                reprod = 0;
+                // do something to clone a copy
+                newBaby = 1;
             }
         }
     }

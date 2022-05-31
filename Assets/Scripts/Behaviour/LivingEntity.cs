@@ -40,6 +40,11 @@ public class LivingEntity : MonoBehaviour {
         }
     }
 
+    protected virtual void Baby () {
+        Environment.RegisterBirth (this);
+        // Create (gameObject);
+    }
+
     // add Consume function from Plant
     public float Consume (float amount) {
         float amountConsumed = Mathf.Max (0, Mathf.Min (amountRemaining, amount));
