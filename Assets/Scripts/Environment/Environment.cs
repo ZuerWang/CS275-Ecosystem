@@ -184,7 +184,7 @@ public class Environment : MonoBehaviour {
 
     // Call terrain generator and cache useful info
     void Init () {
-        for (int epoch = 0; epoch < 2; epoch ++) {
+        for (int epoch = 0; epoch < 1; epoch ++) {
             var sw = System.Diagnostics.Stopwatch.StartNew ();
 
             var terrainGenerator = FindObjectOfType<TerrainGenerator> ();

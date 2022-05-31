@@ -33,8 +33,10 @@ public class Animal : LivingEntity {
     [Header ("State")]
     public float hunger;
     public float thirst;
+    public float reprod;
 
     protected LivingEntity foodTarget;
+    protected LivingEntity mateTarget;
     protected Coord waterTarget;
 
     // Move data:
@@ -57,7 +59,7 @@ public class Animal : LivingEntity {
     public override void Init (Coord coord) {
         base.Init (coord);
         moveFromCoord = coord;
-        genes = Genes.RandomGenes (2,3);
+        genes = Genes.RandomGenes (2,4);
         moveSpeed = genes.speed;
 
         material.color = (genes.isMale) ? maleColour : femaleColour;
@@ -109,6 +111,7 @@ public class Animal : LivingEntity {
         input[0,0] = hunger;
         input[1,0] = thirst;
         input[2,0] = currentlyEating ? 0 : 1;
+        input[3,0] = reprod;
         NDArray output = genes.getNNOuput(input);
         int choice = np.argmax(output);
 
@@ -118,6 +121,9 @@ public class Animal : LivingEntity {
                 break;
             case 1:
                 FindWater ();
+                break;
+            case 2:
+                FindMate ();
                 break;
         }
 
@@ -162,6 +168,18 @@ public class Animal : LivingEntity {
             currentAction = CreatureAction.GoingToWater;
             waterTarget = waterTile;
             CreatePath (waterTarget);
+
+        } else {
+            currentAction = CreatureAction.Exploring;
+        }
+    }
+
+    protected virtual void FindMate () {
+        LivingEntity nearestFriend = Environment.SensePotentialMates(coord, this)[0];
+        if (nearestFriend) {
+            currentAction = CreatureAction.SearchingForMate;
+            mateTarget = nearestFriend;
+            CreatePath (mateTarget.coord);
 
         } else {
             currentAction = CreatureAction.Exploring;
