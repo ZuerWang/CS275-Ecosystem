@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using NumSharp;
@@ -61,7 +62,7 @@ public class Animal : LivingEntity {
     public override void Init (Coord coord) {
         base.Init (coord);
         moveFromCoord = coord;
-        genes = Genes.RandomGenes (2,4);
+        genes = Genes.RandomGenes (3,4);
         moveSpeed = genes.speed;
 
         material.color = (genes.isMale) ? maleColour : femaleColour;
@@ -181,8 +182,9 @@ public class Animal : LivingEntity {
     }
 
     protected virtual void FindMate () {
-        LivingEntity nearestFriend = Environment.SensePotentialMates(coord, this)[0];
-        if (nearestFriend) {
+        List<Animal> mates = Environment.SensePotentialMates(coord, this);
+        if (mates.Count > 0) {
+            Animal nearestFriend = mates[0];
             currentAction = CreatureAction.SearchingForMate;
             mateTarget = nearestFriend;
             CreatePath (mateTarget.coord);
