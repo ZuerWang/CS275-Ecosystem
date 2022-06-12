@@ -96,7 +96,10 @@ public class Animal : LivingEntity {
         } else if (thirst >= 1) {
             Die (CauseOfDeath.Thirst);
         } else if (newBaby == 1){
-            Baby();
+            //Baby();
+            //Animal child = (Animal) this.MemberwiseClone();
+            //Environment.RegisterBirth (child);
+            Environment.RegisterBirth (this);
             newBaby = 0;
         }
     }
@@ -182,16 +185,22 @@ public class Animal : LivingEntity {
     }
 
     protected virtual void FindMate () {
-        List<Animal> mates = Environment.SensePotentialMates(coord, this);
-        if (mates.Count > 0) {
-            Animal nearestFriend = mates[0];
-            currentAction = CreatureAction.SearchingForMate;
-            mateTarget = nearestFriend;
-            CreatePath (mateTarget.coord);
+        //Debug.Log ("Action: find mate");
+        // asexual reproduction
+        currentAction = CreatureAction.AsexualReproduction;
 
-        } else {
-            currentAction = CreatureAction.Exploring;
-        }
+        // bisexual reproduction
+        // List<Animal> mates = Environment.SensePotentialMates(coord, this);
+        // if (mates.Count > 0) {
+        //     Debug.Log ("Action: mate count > 0");
+        //     Animal nearestFriend = mates[0];
+        //     currentAction = CreatureAction.SearchingForMate;
+        //     mateTarget = nearestFriend;
+        //     CreatePath (mateTarget.coord);
+
+        // } else {
+        //     currentAction = CreatureAction.Exploring;
+        // }
     }
 
     // When choosing from multiple food sources, the one with the lowest penalty will be selected
@@ -230,6 +239,8 @@ public class Animal : LivingEntity {
                     StartMoveToCoord (path[pathIndex]);
                     pathIndex++;
                 }
+                break;
+            case CreatureAction.AsexualReproduction:
                 break;
         }
     }
@@ -282,6 +293,10 @@ public class Animal : LivingEntity {
                 // do something to clone a copy
                 newBaby = 1;
             }
+        } else if (currentAction == CreatureAction.AsexualReproduction) {
+            reprod = 0;
+            // do something to clone a copy
+            newBaby = 1;
         }
     }
 

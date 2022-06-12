@@ -64,11 +64,22 @@ public class Environment : MonoBehaviour {
     }
 
     public static void RegisterDeath (LivingEntity entity) {
+        // Debug.Log ("RegisterDeath: " + entity.species);
         speciesMaps[entity.species].Remove (entity, entity.coord);
     }
 
-    public static void RegisterBirth (LivingEntity entity) {
-        speciesMaps[entity.species].Add (entity, entity.coord);
+    public static void RegisterBirth (Animal entity) {
+        Debug.Log ("RegisterBirth: " + entity.species + " Population: " + speciesMaps[entity.species].numEntities);
+        if (speciesMaps[entity.species].numEntities < 1000) {
+            
+            Animal childEntity = entity;
+
+            var child = Instantiate (childEntity);
+            Coord spawnCoord = GetNextTileRandom(entity.coord);
+            child.Init (spawnCoord);
+
+            speciesMaps[entity.species].Add (entity, spawnCoord);
+        }
     }
 
     public static Coord SenseWater (Coord coord) {

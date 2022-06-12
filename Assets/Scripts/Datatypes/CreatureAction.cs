@@ -7,5 +7,6 @@
     Eating,
     Drinking,
     SearchingForMate,
-    Mating
+    Mating,
+    AsexualReproduction
 }

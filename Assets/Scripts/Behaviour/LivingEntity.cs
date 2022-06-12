@@ -41,7 +41,9 @@ public class LivingEntity : MonoBehaviour {
     }
 
     protected virtual void Baby () {
-        Environment.RegisterBirth (this);
+        //LivingEntity child = (LivingEntity) this.MemberwiseClone();
+        //Environment.RegisterBirth (child);
+        // Environment.RegisterBirth (this);
         // Create (gameObject);
     }
 
