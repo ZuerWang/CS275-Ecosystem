@@ -70,10 +70,10 @@ public class Environment : MonoBehaviour {
 
     public static void RegisterBirth (Animal entity) {
         Debug.Log ("RegisterBirth: " + entity.species + " Population: " + speciesMaps[entity.species].numEntities);
-        if (speciesMaps[entity.species].numEntities < 1000) {
+        if (speciesMaps[entity.species].numEntities < 200) {
             
             Animal childEntity = entity;
-
+            childEntity.genes.mutate();
             var child = Instantiate (childEntity);
             Coord spawnCoord = GetNextTileRandom(entity.coord);
             child.Init (spawnCoord);
@@ -123,11 +123,14 @@ public class Environment : MonoBehaviour {
         Map speciesMap = speciesMaps[self.species];
         List<LivingEntity> visibleEntities = speciesMap.GetEntities (coord, Animal.maxViewDistance);
         var potentialMates = new List<Animal> ();
-
+        //Debug.Log ("SensePotentialMates");
         for (int i = 0; i < visibleEntities.Count; i++) {
+            //Debug.Log ("Check entity " + i);
             var visibleAnimal = (Animal) visibleEntities[i];
-            if (visibleAnimal != self && visibleAnimal.genes.isMale != self.genes.isMale) {
-                if (visibleAnimal.currentAction == CreatureAction.SearchingForMate) {
+            if (visibleAnimal.genes.isMale != self.genes.isMale) {
+                //Debug.Log ("entity " + i + " pass first test");
+                if (visibleAnimal.wantToMate == 1) {
+                    //Debug.Log ("entity " + i + " pass second test");
                     potentialMates.Add (visibleAnimal);
                 }
             }

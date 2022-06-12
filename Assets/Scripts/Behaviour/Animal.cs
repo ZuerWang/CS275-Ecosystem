@@ -15,13 +15,14 @@ public class Animal : LivingEntity {
     public Genes genes;
     public Color maleColour;
     public Color femaleColour;
+    public int wantToMate = 0;
 
     // Settings:
     float timeBetweenActionChoices = 1;
     float moveSpeed = 1.5f;
     float timeToDeathByHunger = 200;
     float timeToDeathByThirst = 200;
-    float timeToReproduce = 100;
+    float timeToReproduce = 10;
 
     float drinkDuration = 6;
     float eatDuration = 10;
@@ -97,9 +98,8 @@ public class Animal : LivingEntity {
             Die (CauseOfDeath.Thirst);
         } else if (newBaby == 1){
             //Baby();
-            //Animal child = (Animal) this.MemberwiseClone();
-            //Environment.RegisterBirth (child);
             Environment.RegisterBirth (this);
+            wantToMate = 0;
             newBaby = 0;
         }
     }
@@ -187,20 +187,19 @@ public class Animal : LivingEntity {
     protected virtual void FindMate () {
         //Debug.Log ("Action: find mate");
         // asexual reproduction
-        currentAction = CreatureAction.AsexualReproduction;
+        //currentAction = CreatureAction.AsexualReproduction;
 
         // bisexual reproduction
-        // List<Animal> mates = Environment.SensePotentialMates(coord, this);
-        // if (mates.Count > 0) {
-        //     Debug.Log ("Action: mate count > 0");
-        //     Animal nearestFriend = mates[0];
-        //     currentAction = CreatureAction.SearchingForMate;
-        //     mateTarget = nearestFriend;
-        //     CreatePath (mateTarget.coord);
-
-        // } else {
-        //     currentAction = CreatureAction.Exploring;
-        // }
+        wantToMate = 1;
+        List<Animal> mates = Environment.SensePotentialMates(coord, this);
+        if (mates.Count > 0) {
+            Animal nearestFriend = mates[0];
+            currentAction = CreatureAction.SearchingForMate;
+            mateTarget = nearestFriend;
+            CreatePath (mateTarget.coord);
+        } else {
+            currentAction = CreatureAction.Exploring;
+        }
     }
 
     // When choosing from multiple food sources, the one with the lowest penalty will be selected
@@ -288,7 +287,7 @@ public class Animal : LivingEntity {
                 thirst = Mathf.Clamp01 (thirst);
             }
         } else if (currentAction == CreatureAction.Mating) {
-            if (mateTarget && reprod > 0){
+            if (mateTarget && reprod > 1 && !genes.isMale){
                 reprod = 0;
                 // do something to clone a copy
                 newBaby = 1;
