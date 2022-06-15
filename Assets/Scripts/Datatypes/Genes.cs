@@ -7,9 +7,9 @@ public class Genes {
     const float maxMutationAmount = .3f;
     static readonly System.Random prng = new System.Random ();
 
-    public readonly bool isMale;
+    public bool isMale;
     //public readonly float[] values;
-    public readonly bool isCarnivore;
+    public bool isCarnivore;
     public float size;
     public float speed;
     public float aggressiveness;
@@ -95,6 +95,22 @@ public class Genes {
             }
         }
         this.consumptionRate = speed/1.5f;
+    }
+
+    public void inheritGenes(Genes g1, Genes g2) {
+        this.isMale = RandomValue () < 0.5f;
+        this.isCarnivore = g1.isCarnivore;
+        this.size = (g1.size+g2.size)/2;
+        this.speed = (g1.speed+g2.speed)/2;
+        this.aggressiveness = (g1.aggressiveness+g2.aggressiveness)/2;
+        this.inputSize = g1.inputSize;
+        this.outputSize = g1.outputSize;
+        this.weights = (g1.weights+g2.weights)/2;
+        float[] colors = getColor();
+        this.colorR = colors[0];
+        this.colorG = colors[1];
+        this.colorB = colors[2];
+        mutate();
     }
 
 

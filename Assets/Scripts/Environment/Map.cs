@@ -12,6 +12,11 @@ public class Map {
     public int numEntities;
 
     public float avgSpeed = 0;
+    public float avgHungerLevel = 0;
+    public float avgThirstLevel = 0;
+    public int numBirth = 0;
+    public int numDeath = 0;
+
 
     public Map (int size, int regionSize) {
         this.regionSize = regionSize;
@@ -28,6 +33,29 @@ public class Map {
                 map[x, y] = new List<LivingEntity> ();
             }
         }
+    }
+
+    public void updatInfor() {
+        float totalHunger = 0;
+        float totalThirst = 0;
+        float totalSpeed = 0;
+        for (int y = 0; y < numRegions; y++) {
+            for (int x = 0; x < numRegions; x++) {
+                for(int i = 0; i < map[x, y].Count; i++) {
+                    totalHunger += ((Animal) map[x, y][i]).hunger;
+                    totalThirst += ((Animal) map[x, y][i]).thirst;
+                    totalSpeed += ((Animal) map[x, y][i]).genes.speed;
+                }
+            }
+        }
+        avgHungerLevel = totalHunger/numEntities;
+        avgThirstLevel = totalThirst/numEntities;
+        avgSpeed = totalSpeed/numEntities;
+    }
+
+    public void updateAfterReport() {
+        numBirth = 0;
+        numDeath = 0;
     }
 
     public List<LivingEntity> GetEntities (Coord origin, float viewDistance) {
@@ -126,13 +154,8 @@ public class Map {
         e.mapCoord = coord;
         map[regionX, regionY].Add (e);
 
-        // update speed
-        if (e is Animal) {
-            Animal tmp = (Animal) e;
-            avgSpeed = (numEntities*avgSpeed + tmp.genes.speed)/(numEntities + 1);
-        }
-
         numEntities++;
+        numBirth++;
     }
 
     public void Remove (LivingEntity e, Coord coord) {
@@ -150,6 +173,7 @@ public class Map {
         // Remove last entity from the list
         map[regionX, regionY].RemoveAt (lastElementIndex);
         numEntities--;
+        numDeath++;
     }
 
     public void Move (LivingEntity e, Coord fromCoord, Coord toCoord) {

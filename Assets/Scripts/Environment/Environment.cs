@@ -83,44 +83,47 @@ public class Environment : MonoBehaviour {
     public static void reportPopulation () {
         float timeSinceLastReport = Time.time - lastReportTime;
         if (timeSinceLastReport > 1) {
+
+            string plantLog = "Plant " + speciesMaps[(Species) (1 << 1)].numEntities;
+            writeLogToFile(plantLog, true);
+            
+            foreach(Species spe in speciesMaps.Keys)
+            {
+                if (spe != (Species) (1 << 1) && spe != (Species) (1 << 0)) {
+                    speciesMaps[spe].updatInfor();
+                    string speLog = spe + " " + speciesMaps[spe].numEntities
+                                    + " Speed " + speciesMaps[spe].avgSpeed
+                                    + " Hunger " + speciesMaps[spe].avgHungerLevel
+                                    + " Thirst " + speciesMaps[spe].avgThirstLevel
+                                    + " Birth " + speciesMaps[spe].numBirth
+                                    + " Death " + speciesMaps[spe].numDeath;
+                    speciesMaps[spe].updateAfterReport();
+                    writeLogToFile(speLog, true);
+                }
+            }
+
             string logString = "Plant: " + speciesMaps[(Species) (1 << 1)].numEntities 
                   + " Rabbit: " + speciesMaps[(Species) (1 << 2)].numEntities 
                   + " Fox: " + speciesMaps[(Species) (1 << 3)].numEntities
                   + " Eagle_Elite: " + speciesMaps[(Species) (1 << 4)].numEntities;
             Debug.Log (logString);
-            string plantLog = "Plant " + speciesMaps[(Species) (1 << 1)].numEntities;
 
-            string rabbitLog = "Rabbit " + speciesMaps[(Species) (1 << 2)].numEntities
-                                + " Speed " + speciesMaps[(Species) (1 << 2)].avgSpeed;
-
-            string foxLog = "Fox " + speciesMaps[(Species) (1 << 3)].numEntities
-                            + " Speed " + speciesMaps[(Species) (1 << 3)].avgSpeed;
-
-            string eagleLog = "Eagle_Elite " + speciesMaps[(Species) (1 << 4)].numEntities
-                            + " Speed " + speciesMaps[(Species) (1 << 4)].avgSpeed;
-
-
-            
-            writeLogToFile(plantLog, true);
-            writeLogToFile(rabbitLog, true);
-            writeLogToFile(foxLog, true);
-            writeLogToFile(eagleLog, true);
             lastReportTime = Time.time;
         }
         
     }
 
     public static void RegisterBirth (Animal entity) {
-        //Debug.Log ("RegisterBirth: " + entity.species + " Population: " + speciesMaps[entity.species].numEntities);
+        Debug.Log ("RegisterBirth: " + entity.species + " Population: " + speciesMaps[entity.species].numEntities);
         // reportPopulation();
-        if (speciesMaps[entity.species].numEntities < 200) {
+        if (speciesMaps[entity.species].numEntities < 10000) {
             
             Animal childEntity = entity;
             childEntity.reprod = 0;
             //Animal childEntity = new Animal();
             //childEntity.species = entity.species;
             //childEntity.genes = entity.genes;
-            childEntity.genes.mutate();
+            childEntity.genes.inheritGenes(entity.genes, entity.partnerGenes);
             var child = Instantiate (childEntity);
             Coord spawnCoord = GetNextTileRandom(entity.coord);
             child.Init (spawnCoord);

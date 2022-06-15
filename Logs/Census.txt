@@ -1,517 +1,2141 @@
 Start Simulation
-Plant 500
-Rabbit 50 Speed 1.502438
-Fox 50 Speed 1.499195
-Eagle_Elite 50 Speed 1.495301
-Plant 500
-Rabbit 50 Speed 1.506802
-Fox 50 Speed 1.492611
-Eagle_Elite 50 Speed 1.493847
-Plant 500
-Rabbit 50 Speed 1.512656
-Fox 50 Speed 1.480759
-Eagle_Elite 50 Speed 1.489483
-Plant 500
-Rabbit 50 Speed 1.512615
-Fox 50 Speed 1.49414
-Eagle_Elite 50 Speed 1.499208
-Plant 500
-Rabbit 50 Speed 1.515117
-Fox 50 Speed 1.485577
-Eagle_Elite 50 Speed 1.496312
-Plant 500
-Rabbit 50 Speed 1.506937
-Fox 50 Speed 1.488089
-Eagle_Elite 50 Speed 1.494295
-Plant 500
-Rabbit 50 Speed 1.505317
-Fox 50 Speed 1.488988
-Eagle_Elite 50 Speed 1.496217
-Plant 500
-Rabbit 50 Speed 1.511934
-Fox 50 Speed 1.493712
-Eagle_Elite 50 Speed 1.499716
-Plant 500
-Rabbit 50 Speed 1.516135
-Fox 50 Speed 1.48597
-Eagle_Elite 50 Speed 1.490698
-Plant 500
-Rabbit 50 Speed 1.508386
-Fox 50 Speed 1.491004
-Eagle_Elite 50 Speed 1.48999
-Plant 500
-Rabbit 50 Speed 1.510822
-Fox 50 Speed 1.489672
-Eagle_Elite 50 Speed 1.497652
-Plant 500
-Rabbit 50 Speed 1.509285
-Fox 50 Speed 1.4849
-Eagle_Elite 50 Speed 1.494562
-Plant 499
-Rabbit 50 Speed 1.509556
-Fox 50 Speed 1.48754
-Eagle_Elite 50 Speed 1.486005
-Plant 499
-Rabbit 50 Speed 1.507418
-Fox 50 Speed 1.482897
-Eagle_Elite 50 Speed 1.4914
-Plant 499
-Rabbit 50 Speed 1.508261
-Fox 50 Speed 1.489408
-Eagle_Elite 50 Speed 1.493143
-Plant 499
-Rabbit 50 Speed 1.508453
-Fox 50 Speed 1.487237
-Eagle_Elite 50 Speed 1.491586
-Plant 499
-Rabbit 50 Speed 1.515258
-Fox 50 Speed 1.487688
-Eagle_Elite 50 Speed 1.496139
-Plant 499
-Rabbit 50 Speed 1.52454
-Fox 50 Speed 1.48991
-Eagle_Elite 50 Speed 1.49145
-Plant 499
-Rabbit 50 Speed 1.522513
-Fox 50 Speed 1.493706
-Eagle_Elite 50 Speed 1.498371
-Plant 499
-Rabbit 50 Speed 1.524761
-Fox 50 Speed 1.496231
-Eagle_Elite 50 Speed 1.503309
-Plant 498
-Rabbit 50 Speed 1.521058
-Fox 50 Speed 1.496075
-Eagle_Elite 50 Speed 1.495363
-Plant 497
-Rabbit 49 Speed 1.52138
-Fox 50 Speed 1.492978
-Eagle_Elite 50 Speed 1.495174
-Plant 497
-Rabbit 48 Speed 1.526715
-Fox 50 Speed 1.496224
-Eagle_Elite 50 Speed 1.497679
-Plant 495
-Rabbit 47 Speed 1.53298
-Fox 49 Speed 1.495508
-Eagle_Elite 50 Speed 1.496628
-Plant 492
-Rabbit 46 Speed 1.533489
-Fox 49 Speed 1.498094
-Eagle_Elite 50 Speed 1.506496
-Plant 489
-Rabbit 46 Speed 1.529465
-Fox 49 Speed 1.498501
-Eagle_Elite 50 Speed 1.504489
-Plant 488
-Rabbit 45 Speed 1.528369
-Fox 49 Speed 1.503627
-Eagle_Elite 50 Speed 1.506427
-Plant 488
-Rabbit 45 Speed 1.520141
-Fox 49 Speed 1.507236
-Eagle_Elite 50 Speed 1.500674
-Plant 486
-Rabbit 45 Speed 1.520855
-Fox 49 Speed 1.500947
-Eagle_Elite 50 Speed 1.501414
-Plant 486
-Rabbit 45 Speed 1.511667
-Fox 49 Speed 1.497033
-Eagle_Elite 50 Speed 1.504437
-Plant 486
-Rabbit 44 Speed 1.508719
-Fox 49 Speed 1.500644
-Eagle_Elite 50 Speed 1.503531
-Plant 486
-Rabbit 44 Speed 1.517436
-Fox 49 Speed 1.501945
-Eagle_Elite 50 Speed 1.501206
-Plant 486
-Rabbit 44 Speed 1.513343
-Fox 47 Speed 1.49759
-Eagle_Elite 50 Speed 1.509181
-Plant 486
-Rabbit 44 Speed 1.510358
-Fox 46 Speed 1.499661
-Eagle_Elite 50 Speed 1.509363
-Plant 486
-Rabbit 44 Speed 1.514699
-Fox 46 Speed 1.502413
-Eagle_Elite 50 Speed 1.503485
-Plant 485
-Rabbit 44 Speed 1.519171
-Fox 45 Speed 1.50969
-Eagle_Elite 50 Speed 1.509185
-Plant 485
-Rabbit 44 Speed 1.52098
-Fox 45 Speed 1.507814
-Eagle_Elite 50 Speed 1.500171
-Plant 485
-Rabbit 44 Speed 1.515692
-Fox 45 Speed 1.502635
-Eagle_Elite 50 Speed 1.502068
-Plant 485
-Rabbit 43 Speed 1.514512
-Fox 45 Speed 1.510095
-Eagle_Elite 50 Speed 1.499916
-Plant 485
-Rabbit 43 Speed 1.523645
-Fox 44 Speed 1.508921
-Eagle_Elite 50 Speed 1.507417
-Plant 485
-Rabbit 43 Speed 1.531031
-Fox 44 Speed 1.509248
-Eagle_Elite 50 Speed 1.504558
-Plant 484
-Rabbit 43 Speed 1.53155
-Fox 44 Speed 1.509666
-Eagle_Elite 50 Speed 1.498683
-Plant 484
-Rabbit 43 Speed 1.538117
-Fox 44 Speed 1.511651
-Eagle_Elite 50 Speed 1.505425
-Plant 483
-Rabbit 42 Speed 1.537408
-Fox 44 Speed 1.504308
-Eagle_Elite 50 Speed 1.507639
-Plant 483
-Rabbit 43 Speed 1.545137
-Fox 44 Speed 1.502784
-Eagle_Elite 50 Speed 1.503817
-Plant 483
-Rabbit 43 Speed 1.553333
-Fox 44 Speed 1.506463
-Eagle_Elite 50 Speed 1.507185
-Plant 482
-Rabbit 44 Speed 1.553769
-Fox 44 Speed 1.508566
-Eagle_Elite 50 Speed 1.500936
-Plant 481
-Rabbit 44 Speed 1.557363
-Fox 45 Speed 1.508522
-Eagle_Elite 50 Speed 1.503203
-Plant 480
-Rabbit 44 Speed 1.561434
-Fox 45 Speed 1.504759
-Eagle_Elite 50 Speed 1.499387
-Plant 480
-Rabbit 44 Speed 1.548851
-Fox 45 Speed 1.503839
-Eagle_Elite 50 Speed 1.495682
-Plant 477
-Rabbit 44 Speed 1.548972
-Fox 45 Speed 1.512875
-Eagle_Elite 50 Speed 1.499489
-Plant 476
-Rabbit 43 Speed 1.541244
-Fox 44 Speed 1.516178
-Eagle_Elite 50 Speed 1.501883
-Plant 475
-Rabbit 43 Speed 1.529583
-Fox 44 Speed 1.5118
-Eagle_Elite 50 Speed 1.502643
-Plant 474
-Rabbit 43 Speed 1.528603
-Fox 44 Speed 1.513114
-Eagle_Elite 50 Speed 1.500647
-Plant 473
-Rabbit 43 Speed 1.53168
-Fox 44 Speed 1.507048
-Eagle_Elite 50 Speed 1.501893
-Plant 473
-Rabbit 43 Speed 1.525288
-Fox 44 Speed 1.512558
-Eagle_Elite 50 Speed 1.505129
-Plant 469
-Rabbit 43 Speed 1.53525
-Fox 45 Speed 1.515693
-Eagle_Elite 50 Speed 1.501048
-Plant 469
-Rabbit 43 Speed 1.528469
-Fox 45 Speed 1.511966
-Eagle_Elite 50 Speed 1.503799
-Plant 469
-Rabbit 43 Speed 1.52299
-Fox 45 Speed 1.510809
-Eagle_Elite 50 Speed 1.498901
-Plant 468
-Rabbit 43 Speed 1.526664
-Fox 45 Speed 1.512138
-Eagle_Elite 50 Speed 1.501893
-Plant 468
-Rabbit 43 Speed 1.522152
-Fox 45 Speed 1.518133
-Eagle_Elite 50 Speed 1.497782
-Plant 468
-Rabbit 43 Speed 1.522408
-Fox 45 Speed 1.517483
-Eagle_Elite 50 Speed 1.495921
-Plant 467
-Rabbit 43 Speed 1.525936
-Fox 45 Speed 1.5142
-Eagle_Elite 50 Speed 1.497937
-Plant 467
-Rabbit 43 Speed 1.533386
-Fox 45 Speed 1.511216
-Eagle_Elite 50 Speed 1.495019
-Plant 467
-Rabbit 43 Speed 1.533025
-Fox 45 Speed 1.520199
-Eagle_Elite 50 Speed 1.500682
-Plant 466
-Rabbit 43 Speed 1.5412
-Fox 45 Speed 1.518752
-Eagle_Elite 50 Speed 1.501304
-Plant 466
-Rabbit 43 Speed 1.54645
-Fox 47 Speed 1.516426
-Eagle_Elite 50 Speed 1.502791
-Plant 466
-Rabbit 43 Speed 1.553372
-Fox 47 Speed 1.523021
-Eagle_Elite 50 Speed 1.503788
-Plant 466
-Rabbit 44 Speed 1.554965
-Fox 47 Speed 1.515593
-Eagle_Elite 50 Speed 1.496887
-Plant 466
-Rabbit 43 Speed 1.557355
-Fox 47 Speed 1.519228
-Eagle_Elite 50 Speed 1.499786
-Plant 466
-Rabbit 43 Speed 1.562419
-Fox 47 Speed 1.519806
-Eagle_Elite 50 Speed 1.499476
-Plant 462
-Rabbit 44 Speed 1.567636
-Fox 47 Speed 1.517271
-Eagle_Elite 50 Speed 1.496921
-Plant 462
-Rabbit 44 Speed 1.558927
-Fox 47 Speed 1.517406
-Eagle_Elite 50 Speed 1.499929
-Plant 460
-Rabbit 44 Speed 1.562681
-Fox 47 Speed 1.518243
-Eagle_Elite 50 Speed 1.497749
-Plant 460
-Rabbit 44 Speed 1.557647
-Fox 47 Speed 1.514582
-Eagle_Elite 50 Speed 1.497496
-Plant 459
-Rabbit 44 Speed 1.560596
-Fox 47 Speed 1.516477
-Eagle_Elite 50 Speed 1.497665
-Plant 459
-Rabbit 44 Speed 1.547818
-Fox 49 Speed 1.517408
-Eagle_Elite 50 Speed 1.496519
-Plant 458
-Rabbit 44 Speed 1.561529
-Fox 49 Speed 1.518599
-Eagle_Elite 50 Speed 1.498189
-Plant 458
-Rabbit 44 Speed 1.553563
-Fox 49 Speed 1.516754
-Eagle_Elite 50 Speed 1.498981
-Plant 457
-Rabbit 45 Speed 1.549864
-Fox 49 Speed 1.516715
-Eagle_Elite 50 Speed 1.505587
-Plant 457
-Rabbit 46 Speed 1.547302
-Fox 49 Speed 1.520189
-Eagle_Elite 50 Speed 1.503806
-Plant 456
-Rabbit 45 Speed 1.554129
-Fox 49 Speed 1.508973
-Eagle_Elite 50 Speed 1.502161
-Plant 456
-Rabbit 45 Speed 1.554848
-Fox 49 Speed 1.518587
-Eagle_Elite 50 Speed 1.508575
-Plant 455
-Rabbit 45 Speed 1.540209
-Fox 49 Speed 1.520028
-Eagle_Elite 50 Speed 1.502542
-Plant 454
-Rabbit 45 Speed 1.545614
-Fox 49 Speed 1.512782
-Eagle_Elite 50 Speed 1.500584
-Plant 454
-Rabbit 45 Speed 1.541379
-Fox 51 Speed 1.517354
-Eagle_Elite 50 Speed 1.501034
-Plant 452
-Rabbit 44 Speed 1.543055
-Fox 51 Speed 1.51249
-Eagle_Elite 50 Speed 1.49615
-Plant 452
-Rabbit 44 Speed 1.5436
-Fox 51 Speed 1.512775
-Eagle_Elite 50 Speed 1.5001
-Plant 452
-Rabbit 44 Speed 1.543349
-Fox 51 Speed 1.519525
-Eagle_Elite 50 Speed 1.499686
-Plant 452
-Rabbit 44 Speed 1.543152
-Fox 51 Speed 1.517643
-Eagle_Elite 50 Speed 1.504625
-Plant 452
-Rabbit 45 Speed 1.542592
-Fox 51 Speed 1.518804
-Eagle_Elite 50 Speed 1.497712
-Plant 452
-Rabbit 46 Speed 1.533807
-Fox 51 Speed 1.514614
-Eagle_Elite 50 Speed 1.492552
-Plant 452
-Rabbit 46 Speed 1.54179
-Fox 51 Speed 1.513745
-Eagle_Elite 50 Speed 1.49875
-Plant 452
-Rabbit 46 Speed 1.534022
-Fox 51 Speed 1.510763
-Eagle_Elite 50 Speed 1.500306
-Plant 451
-Rabbit 47 Speed 1.548535
-Fox 53 Speed 1.518241
-Eagle_Elite 50 Speed 1.502824
-Plant 450
-Rabbit 47 Speed 1.552435
-Fox 52 Speed 1.521288
-Eagle_Elite 50 Speed 1.497947
-Plant 450
-Rabbit 47 Speed 1.553235
-Fox 52 Speed 1.520409
-Eagle_Elite 50 Speed 1.499182
-Plant 448
-Rabbit 47 Speed 1.55085
-Fox 52 Speed 1.517542
-Eagle_Elite 50 Speed 1.502034
-Plant 447
-Rabbit 47 Speed 1.551938
-Fox 52 Speed 1.520394
-Eagle_Elite 50 Speed 1.497513
-Plant 446
-Rabbit 49 Speed 1.540746
-Fox 52 Speed 1.52548
-Eagle_Elite 50 Speed 1.499859
-Plant 446
-Rabbit 49 Speed 1.532976
-Fox 52 Speed 1.521777
-Eagle_Elite 50 Speed 1.501567
-Plant 445
-Rabbit 48 Speed 1.533255
-Fox 52 Speed 1.524319
-Eagle_Elite 50 Speed 1.500979
-Plant 443
-Rabbit 48 Speed 1.528898
-Fox 52 Speed 1.528149
-Eagle_Elite 50 Speed 1.501699
-Plant 443
-Rabbit 48 Speed 1.533579
-Fox 52 Speed 1.521734
-Eagle_Elite 50 Speed 1.498033
-Plant 443
-Rabbit 48 Speed 1.535789
-Fox 54 Speed 1.525295
-Eagle_Elite 50 Speed 1.504813
-Plant 443
-Rabbit 48 Speed 1.529767
-Fox 53 Speed 1.519601
-Eagle_Elite 50 Speed 1.497085
-Plant 442
-Rabbit 48 Speed 1.523409
-Fox 53 Speed 1.525318
-Eagle_Elite 50 Speed 1.498172
-Plant 439
-Rabbit 48 Speed 1.529515
-Fox 53 Speed 1.523834
-Eagle_Elite 50 Speed 1.501337
-Plant 439
-Rabbit 49 Speed 1.535835
-Fox 53 Speed 1.519668
-Eagle_Elite 50 Speed 1.499125
-Plant 439
-Rabbit 51 Speed 1.541196
-Fox 53 Speed 1.516173
-Eagle_Elite 50 Speed 1.497932
-Plant 439
-Rabbit 52 Speed 1.544069
-Fox 53 Speed 1.518991
-Eagle_Elite 50 Speed 1.501339
-Plant 439
-Rabbit 52 Speed 1.534414
-Fox 53 Speed 1.524691
-Eagle_Elite 50 Speed 1.499922
-Plant 438
-Rabbit 53 Speed 1.542013
-Fox 53 Speed 1.518799
-Eagle_Elite 50 Speed 1.499336
-Plant 437
-Rabbit 54 Speed 1.540879
-Fox 57 Speed 1.52472
-Eagle_Elite 50 Speed 1.505488
-Plant 437
-Rabbit 53 Speed 1.52149
-Fox 57 Speed 1.528069
-Eagle_Elite 50 Speed 1.498587
-Plant 437
-Rabbit 53 Speed 1.520426
-Fox 56 Speed 1.524813
-Eagle_Elite 50 Speed 1.496893
-Plant 437
-Rabbit 53 Speed 1.524747
-Fox 56 Speed 1.528758
-Eagle_Elite 50 Speed 1.494228
-Plant 437
-Rabbit 53 Speed 1.522055
-Fox 56 Speed 1.527224
-Eagle_Elite 50 Speed 1.498558
-Plant 437
-Rabbit 54 Speed 1.526733
-Fox 56 Speed 1.530651
-Eagle_Elite 50 Speed 1.497782
-Plant 436
-Rabbit 54 Speed 1.532288
-Fox 56 Speed 1.535202
-Eagle_Elite 50 Speed 1.497772
-Plant 435
-Rabbit 55 Speed 1.535545
-Fox 56 Speed 1.535241
-Eagle_Elite 50 Speed 1.495903
-Plant 435
-Rabbit 55 Speed 1.534241
-Fox 56 Speed 1.534352
-Eagle_Elite 50 Speed 1.501449
-Plant 435
-Rabbit 55 Speed 1.527647
-Fox 56 Speed 1.539415
-Eagle_Elite 50 Speed 1.496993
-Plant 435
-Rabbit 55 Speed 1.530739
-Fox 59 Speed 1.537691
-Eagle_Elite 50 Speed 1.501937
-Plant 434
-Rabbit 55 Speed 1.531544
-Fox 59 Speed 1.538721
-Eagle_Elite 50 Speed 1.496828
-Plant 434
-Rabbit 55 Speed 1.526232
-Fox 59 Speed 1.539635
-Eagle_Elite 50 Speed 1.504494
-Plant 434
-Rabbit 55 Speed 1.526735
-Fox 59 Speed 1.528595
-Eagle_Elite 50 Speed 1.502572
-Plant 433
-Rabbit 55 Speed 1.526365
-Fox 59 Speed 1.532766
-Eagle_Elite 50 Speed 1.510053
-Plant 432
-Rabbit 56 Speed 1.53221
-Fox 59 Speed 1.532438
-Eagle_Elite 50 Speed 1.509434
+Plant 5000
+Rabbit 1000 Speed 1.503924 Hunger 0.004526434 Thirst 0.004673426 Birth 1803 Death 803
+Fox 400 Speed 1.50199 Hunger 0.00454911 Thirst 0.004635469 Birth 715 Death 315
+Eagle_Elite 200 Speed 1.485921 Hunger 0.004769707 Thirst 0.004583577 Birth 352 Death 152
+Plant 5000
+Rabbit 1000 Speed 1.503924 Hunger 0.007713994 Thirst 0.00921357 Birth 872 Death 872
+Fox 400 Speed 1.50199 Hunger 0.008770276 Thirst 0.008966768 Birth 365 Death 365
+Eagle_Elite 200 Speed 1.485921 Hunger 0.009282931 Thirst 0.00903381 Birth 207 Death 207
+Plant 5000
+Rabbit 1000 Speed 1.503924 Hunger 0.01055361 Thirst 0.01385149 Birth 792 Death 792
+Fox 400 Speed 1.50199 Hunger 0.01311303 Thirst 0.01343079 Birth 378 Death 378
+Eagle_Elite 200 Speed 1.485921 Hunger 0.01382983 Thirst 0.01378016 Birth 204 Death 204
+Plant 5000
+Rabbit 1000 Speed 1.503924 Hunger 0.01366572 Thirst 0.0182343 Birth 667 Death 667
+Fox 400 Speed 1.50199 Hunger 0.01684177 Thirst 0.0174941 Birth 369 Death 369
+Eagle_Elite 200 Speed 1.485921 Hunger 0.01848148 Thirst 0.01797593 Birth 202 Death 202
+Plant 5000
+Rabbit 1000 Speed 1.503924 Hunger 0.01678994 Thirst 0.02258271 Birth 595 Death 595
+Fox 400 Speed 1.50199 Hunger 0.01977689 Thirst 0.02139004 Birth 325 Death 325
+Eagle_Elite 200 Speed 1.485921 Hunger 0.0231212 Thirst 0.02231407 Birth 191 Death 191
+Plant 5000
+Rabbit 1000 Speed 1.503924 Hunger 0.02030174 Thirst 0.02697951 Birth 573 Death 573
+Fox 400 Speed 1.50199 Hunger 0.02369272 Thirst 0.02568131 Birth 313 Death 313
+Eagle_Elite 200 Speed 1.485922 Hunger 0.02735939 Thirst 0.02664974 Birth 205 Death 205
+Plant 5000
+Rabbit 1000 Speed 1.503924 Hunger 0.02344646 Thirst 0.03067609 Birth 499 Death 499
+Fox 400 Speed 1.50199 Hunger 0.02674582 Thirst 0.02957438 Birth 270 Death 270
+Eagle_Elite 200 Speed 1.485922 Hunger 0.03137244 Thirst 0.03072512 Birth 164 Death 164
+Plant 4999
+Rabbit 1000 Speed 1.503924 Hunger 0.02655719 Thirst 0.0345766 Birth 481 Death 481
+Fox 400 Speed 1.50199 Hunger 0.02996581 Thirst 0.03368726 Birth 261 Death 261
+Eagle_Elite 200 Speed 1.485922 Hunger 0.03518193 Thirst 0.03511721 Birth 191 Death 191
+Plant 4999
+Rabbit 1000 Speed 1.503924 Hunger 0.02962581 Thirst 0.03878257 Birth 417 Death 417
+Fox 400 Speed 1.50199 Hunger 0.03282598 Thirst 0.03734285 Birth 251 Death 251
+Eagle_Elite 200 Speed 1.485921 Hunger 0.03968271 Thirst 0.03930539 Birth 163 Death 163
+Plant 4999
+Rabbit 1082 Speed 1.502542 Hunger 0.04570135 Thirst 0.05509639 Birth 490 Death 408
+Fox 413 Speed 1.501032 Hunger 0.04091469 Thirst 0.04588959 Birth 242 Death 229
+Eagle_Elite 206 Speed 1.490263 Hunger 0.04784599 Thirst 0.04809044 Birth 165 Death 159
+Plant 4996
+Rabbit 1090 Speed 1.50233 Hunger 0.0471196 Thirst 0.05824671 Birth 614 Death 606
+Fox 417 Speed 1.501981 Hunger 0.04548846 Thirst 0.05151132 Birth 314 Death 310
+Eagle_Elite 207 Speed 1.483784 Hunger 0.05089975 Thirst 0.0513517 Birth 199 Death 198
+Plant 4985
+Rabbit 1095 Speed 1.501587 Hunger 0.0509867 Thirst 0.0634692 Birth 648 Death 643
+Fox 420 Speed 1.502835 Hunger 0.04916858 Thirst 0.05690105 Birth 321 Death 318
+Eagle_Elite 208 Speed 1.483032 Hunger 0.05610565 Thirst 0.05715168 Birth 210 Death 209
+Plant 4973
+Rabbit 1097 Speed 1.501773 Hunger 0.0554479 Thirst 0.06902358 Birth 692 Death 690
+Fox 418 Speed 1.503376 Hunger 0.05331289 Thirst 0.06103197 Birth 308 Death 310
+Eagle_Elite 208 Speed 1.483685 Hunger 0.05979377 Thirst 0.06221697 Birth 216 Death 216
+Plant 4965
+Rabbit 1101 Speed 1.501422 Hunger 0.05883999 Thirst 0.07381781 Birth 648 Death 644
+Fox 421 Speed 1.502883 Hunger 0.05895368 Thirst 0.066351 Birth 316 Death 313
+Eagle_Elite 211 Speed 1.485345 Hunger 0.06580203 Thirst 0.06957301 Birth 190 Death 187
+Plant 4959
+Rabbit 1106 Speed 1.50105 Hunger 0.06373319 Thirst 0.07965279 Birth 626 Death 621
+Fox 421 Speed 1.50065 Hunger 0.06283955 Thirst 0.06983133 Birth 321 Death 321
+Eagle_Elite 211 Speed 1.485424 Hunger 0.06951364 Thirst 0.07356326 Birth 191 Death 191
+Plant 4954
+Rabbit 1107 Speed 1.501608 Hunger 0.06680895 Thirst 0.08443482 Birth 606 Death 605
+Fox 421 Speed 1.500697 Hunger 0.06633168 Thirst 0.07429729 Birth 313 Death 313
+Eagle_Elite 211 Speed 1.485424 Hunger 0.07427891 Thirst 0.07900676 Birth 202 Death 202
+Plant 4947
+Rabbit 1110 Speed 1.501128 Hunger 0.07040647 Thirst 0.08985679 Birth 576 Death 573
+Fox 422 Speed 1.500821 Hunger 0.07005399 Thirst 0.0796924 Birth 322 Death 321
+Eagle_Elite 212 Speed 1.484097 Hunger 0.08025143 Thirst 0.0853103 Birth 196 Death 195
+Plant 4937
+Rabbit 1157 Speed 1.498726 Hunger 0.08565398 Thirst 0.1046406 Birth 594 Death 547
+Fox 432 Speed 1.502473 Hunger 0.0794627 Thirst 0.08933318 Birth 305 Death 295
+Eagle_Elite 215 Speed 1.483533 Hunger 0.08838596 Thirst 0.09354613 Birth 193 Death 190
+Plant 4921
+Rabbit 1156 Speed 1.499711 Hunger 0.08697483 Thirst 0.1073835 Birth 625 Death 626
+Fox 435 Speed 1.504207 Hunger 0.08404817 Thirst 0.09444986 Birth 315 Death 312
+Eagle_Elite 216 Speed 1.484941 Hunger 0.09432054 Thirst 0.09674343 Birth 207 Death 206
+Plant 4866
+Rabbit 1153 Speed 1.498531 Hunger 0.09135745 Thirst 0.1123765 Birth 675 Death 678
+Fox 435 Speed 1.504107 Hunger 0.08872705 Thirst 0.09934834 Birth 310 Death 310
+Eagle_Elite 218 Speed 1.483524 Hunger 0.09960449 Thirst 0.09974138 Birth 198 Death 196
+Plant 4775
+Rabbit 1142 Speed 1.501374 Hunger 0.09716742 Thirst 0.1175284 Birth 662 Death 673
+Fox 427 Speed 1.502177 Hunger 0.09231205 Thirst 0.1046165 Birth 314 Death 322
+Eagle_Elite 220 Speed 1.484651 Hunger 0.1043521 Thirst 0.1074644 Birth 201 Death 199
+Plant 4689
+Rabbit 1125 Speed 1.501873 Hunger 0.1016238 Thirst 0.1218194 Birth 682 Death 699
+Fox 416 Speed 1.503275 Hunger 0.09633447 Thirst 0.1098889 Birth 325 Death 336
+Eagle_Elite 220 Speed 1.483258 Hunger 0.1078098 Thirst 0.1114288 Birth 212 Death 212
+Plant 4635
+Rabbit 1117 Speed 1.501404 Hunger 0.1055475 Thirst 0.1261037 Birth 681 Death 689
+Fox 408 Speed 1.502886 Hunger 0.1009445 Thirst 0.1148302 Birth 311 Death 319
+Eagle_Elite 220 Speed 1.482558 Hunger 0.1115384 Thirst 0.1152586 Birth 205 Death 205
+Plant 4615
+Rabbit 1112 Speed 1.501656 Hunger 0.1095413 Thirst 0.131589 Birth 635 Death 640
+Fox 404 Speed 1.503663 Hunger 0.1063002 Thirst 0.1202027 Birth 300 Death 304
+Eagle_Elite 220 Speed 1.482558 Hunger 0.1147079 Thirst 0.1201434 Birth 211 Death 211
+Plant 4599
+Rabbit 1113 Speed 1.500568 Hunger 0.1130162 Thirst 0.1363923 Birth 594 Death 593
+Fox 397 Speed 1.50363 Hunger 0.1105453 Thirst 0.1241381 Birth 302 Death 309
+Eagle_Elite 220 Speed 1.482558 Hunger 0.1188542 Thirst 0.1245514 Birth 204 Death 204
+Plant 4584
+Rabbit 1116 Speed 1.500685 Hunger 0.1173004 Thirst 0.1410223 Birth 563 Death 560
+Fox 396 Speed 1.504984 Hunger 0.1162862 Thirst 0.129536 Birth 271 Death 272
+Eagle_Elite 220 Speed 1.482558 Hunger 0.1239504 Thirst 0.129855 Birth 185 Death 185
+Plant 4579
+Rabbit 1117 Speed 1.500922 Hunger 0.1213195 Thirst 0.1460157 Birth 560 Death 559
+Fox 397 Speed 1.506318 Hunger 0.120698 Thirst 0.1339976 Birth 266 Death 265
+Eagle_Elite 223 Speed 1.487167 Hunger 0.1334393 Thirst 0.1388187 Birth 198 Death 195
+Plant 4564
+Rabbit 1118 Speed 1.501637 Hunger 0.1255988 Thirst 0.1499216 Birth 531 Death 530
+Fox 395 Speed 1.50564 Hunger 0.1243699 Thirst 0.1388759 Birth 250 Death 252
+Eagle_Elite 223 Speed 1.486913 Hunger 0.1392046 Thirst 0.1445804 Birth 210 Death 210
+Plant 4548
+Rabbit 1121 Speed 1.501997 Hunger 0.1294963 Thirst 0.1544354 Birth 496 Death 493
+Fox 395 Speed 1.50564 Hunger 0.1280016 Thirst 0.143683 Birth 250 Death 250
+Eagle_Elite 224 Speed 1.485389 Hunger 0.1447924 Thirst 0.1488349 Birth 209 Death 208
+Plant 4528
+Rabbit 1127 Speed 1.500879 Hunger 0.1350005 Thirst 0.1609544 Birth 489 Death 483
+Fox 396 Speed 1.504954 Hunger 0.1321187 Thirst 0.1491245 Birth 248 Death 247
+Eagle_Elite 225 Speed 1.485512 Hunger 0.1497893 Thirst 0.1521598 Birth 210 Death 209
+Plant 4512
+Rabbit 1126 Speed 1.500683 Hunger 0.1383479 Thirst 0.1653591 Birth 488 Death 489
+Fox 394 Speed 1.503956 Hunger 0.1351471 Thirst 0.1521871 Birth 234 Death 236
+Eagle_Elite 226 Speed 1.485169 Hunger 0.1532936 Thirst 0.1570072 Birth 199 Death 198
+Plant 4494
+Rabbit 1125 Speed 1.499632 Hunger 0.1436754 Thirst 0.170735 Birth 527 Death 528
+Fox 394 Speed 1.503409 Hunger 0.1398204 Thirst 0.1578154 Birth 224 Death 224
+Eagle_Elite 226 Speed 1.486708 Hunger 0.1580788 Thirst 0.1610547 Birth 190 Death 190
+Plant 4474
+Rabbit 1151 Speed 1.498567 Hunger 0.1540904 Thirst 0.1806298 Birth 519 Death 493
+Fox 396 Speed 1.504041 Hunger 0.14861 Thirst 0.1672869 Birth 238 Death 236
+Eagle_Elite 228 Speed 1.485744 Hunger 0.1644758 Thirst 0.1687298 Birth 190 Death 188
+Plant 4457
+Rabbit 1146 Speed 1.498538 Hunger 0.1574133 Thirst 0.1838259 Birth 538 Death 543
+Fox 399 Speed 1.5035 Hunger 0.1554039 Thirst 0.1765835 Birth 244 Death 241
+Eagle_Elite 228 Speed 1.484847 Hunger 0.1681279 Thirst 0.1729321 Birth 200 Death 200
+Plant 4440
+Rabbit 1142 Speed 1.4986 Hunger 0.1615852 Thirst 0.1883389 Birth 570 Death 574
+Fox 401 Speed 1.504651 Hunger 0.1596089 Thirst 0.1806852 Birth 246 Death 244
+Eagle_Elite 231 Speed 1.486199 Hunger 0.1770951 Thirst 0.1790963 Birth 193 Death 190
+Plant 4424
+Rabbit 1140 Speed 1.499009 Hunger 0.1647081 Thirst 0.1935941 Birth 504 Death 506
+Fox 402 Speed 1.504373 Hunger 0.165531 Thirst 0.1846065 Birth 260 Death 259
+Eagle_Elite 232 Speed 1.48543 Hunger 0.1817948 Thirst 0.1830152 Birth 195 Death 194
+Plant 4389
+Rabbit 1135 Speed 1.499055 Hunger 0.168474 Thirst 0.1989227 Birth 524 Death 529
+Fox 400 Speed 1.503208 Hunger 0.1677534 Thirst 0.1872254 Birth 243 Death 245
+Eagle_Elite 233 Speed 1.484777 Hunger 0.186934 Thirst 0.186727 Birth 212 Death 211
+Plant 4348
+Rabbit 1134 Speed 1.499378 Hunger 0.1722369 Thirst 0.2045251 Birth 514 Death 515
+Fox 399 Speed 1.504164 Hunger 0.1745337 Thirst 0.1912478 Birth 246 Death 247
+Eagle_Elite 233 Speed 1.484777 Hunger 0.1907635 Thirst 0.1918536 Birth 190 Death 190
+Plant 4301
+Rabbit 1128 Speed 1.498651 Hunger 0.1765763 Thirst 0.2096752 Birth 542 Death 548
+Fox 389 Speed 1.502061 Hunger 0.1792261 Thirst 0.1938374 Birth 238 Death 248
+Eagle_Elite 233 Speed 1.484777 Hunger 0.1944364 Thirst 0.197112 Birth 207 Death 207
+Plant 4264
+Rabbit 1119 Speed 1.499372 Hunger 0.1814223 Thirst 0.2157157 Birth 568 Death 577
+Fox 384 Speed 1.502021 Hunger 0.1835689 Thirst 0.1985871 Birth 217 Death 222
+Eagle_Elite 233 Speed 1.484576 Hunger 0.1994607 Thirst 0.2020655 Birth 216 Death 216
+Plant 4216
+Rabbit 1114 Speed 1.499498 Hunger 0.1843589 Thirst 0.2193292 Birth 562 Death 567
+Fox 380 Speed 1.501267 Hunger 0.1880603 Thirst 0.2016753 Birth 233 Death 237
+Eagle_Elite 233 Speed 1.484576 Hunger 0.204069 Thirst 0.2061449 Birth 213 Death 213
+Plant 4183
+Rabbit 1106 Speed 1.499409 Hunger 0.1893927 Thirst 0.223459 Birth 546 Death 554
+Fox 381 Speed 1.502189 Hunger 0.1941235 Thirst 0.207902 Birth 241 Death 240
+Eagle_Elite 233 Speed 1.484576 Hunger 0.2093193 Thirst 0.2099472 Birth 213 Death 213
+Plant 4147
+Rabbit 1100 Speed 1.499244 Hunger 0.1936446 Thirst 0.2294952 Birth 567 Death 573
+Fox 379 Speed 1.501407 Hunger 0.1977795 Thirst 0.2110816 Birth 234 Death 236
+Eagle_Elite 236 Speed 1.484786 Hunger 0.2162399 Thirst 0.2165835 Birth 216 Death 213
+Plant 4128
+Rabbit 1097 Speed 1.499287 Hunger 0.1974085 Thirst 0.2358679 Birth 562 Death 565
+Fox 379 Speed 1.50328 Hunger 0.2018231 Thirst 0.2157502 Birth 250 Death 250
+Eagle_Elite 237 Speed 1.484955 Hunger 0.2205599 Thirst 0.2195278 Birth 206 Death 205
+Plant 4107
+Rabbit 1094 Speed 1.499363 Hunger 0.2019125 Thirst 0.2408253 Birth 536 Death 539
+Fox 375 Speed 1.500392 Hunger 0.208498 Thirst 0.2227343 Birth 220 Death 224
+Eagle_Elite 237 Speed 1.4854 Hunger 0.2245847 Thirst 0.2237577 Birth 210 Death 210
+Plant 4087
+Rabbit 1091 Speed 1.500381 Hunger 0.2069178 Thirst 0.2474447 Birth 509 Death 512
+Fox 374 Speed 1.500965 Hunger 0.2113407 Thirst 0.2269429 Birth 230 Death 231
+Eagle_Elite 238 Speed 1.486891 Hunger 0.229821 Thirst 0.2290808 Birth 204 Death 203
+Plant 4063
+Rabbit 1088 Speed 1.50036 Hunger 0.2094647 Thirst 0.251561 Birth 526 Death 529
+Fox 373 Speed 1.501662 Hunger 0.2174152 Thirst 0.2330951 Birth 238 Death 239
+Eagle_Elite 239 Speed 1.487183 Hunger 0.2357849 Thirst 0.2339948 Birth 205 Death 204
+Plant 4040
+Rabbit 1097 Speed 1.501182 Hunger 0.2181925 Thirst 0.2609671 Birth 552 Death 543
+Fox 371 Speed 1.50322 Hunger 0.2236275 Thirst 0.2395347 Birth 236 Death 238
+Eagle_Elite 240 Speed 1.488334 Hunger 0.2416165 Thirst 0.2386508 Birth 205 Death 204
+Plant 4010
+Rabbit 1092 Speed 1.49993 Hunger 0.2214895 Thirst 0.2648304 Birth 565 Death 570
+Fox 370 Speed 1.504086 Hunger 0.2282692 Thirst 0.2462868 Birth 232 Death 233
+Eagle_Elite 241 Speed 1.488662 Hunger 0.2462268 Thirst 0.2435112 Birth 213 Death 212
+Plant 3992
+Rabbit 1087 Speed 1.499737 Hunger 0.225197 Thirst 0.2689344 Birth 612 Death 617
+Fox 368 Speed 1.503011 Hunger 0.2330567 Thirst 0.2490205 Birth 244 Death 246
+Eagle_Elite 241 Speed 1.488881 Hunger 0.2512179 Thirst 0.2480853 Birth 196 Death 196
+Plant 3974
+Rabbit 1081 Speed 1.499908 Hunger 0.2280622 Thirst 0.271959 Birth 460 Death 466
+Fox 367 Speed 1.504648 Hunger 0.2349253 Thirst 0.2509643 Birth 172 Death 173
+Eagle_Elite 241 Speed 1.488881 Hunger 0.2549885 Thirst 0.2519616 Birth 158 Death 158
+Plant 3957
+Rabbit 1079 Speed 1.501255 Hunger 0.2317729 Thirst 0.2772691 Birth 571 Death 573
+Fox 368 Speed 1.504763 Hunger 0.2416044 Thirst 0.2567605 Birth 235 Death 234
+Eagle_Elite 244 Speed 1.487822 Hunger 0.2613003 Thirst 0.2586817 Birth 219 Death 216
+Plant 3931
+Rabbit 1078 Speed 1.501507 Hunger 0.236343 Thirst 0.2831891 Birth 534 Death 535
+Fox 367 Speed 1.504166 Hunger 0.2447778 Thirst 0.2618594 Birth 218 Death 219
+Eagle_Elite 247 Speed 1.48655 Hunger 0.2679631 Thirst 0.2636857 Birth 210 Death 207
+Plant 3911
+Rabbit 1073 Speed 1.501377 Hunger 0.2390856 Thirst 0.2866006 Birth 547 Death 552
+Fox 367 Speed 1.504065 Hunger 0.2497207 Thirst 0.2667839 Birth 219 Death 219
+Eagle_Elite 248 Speed 1.486961 Hunger 0.2732339 Thirst 0.2682629 Birth 211 Death 210
+Plant 3883
+Rabbit 1072 Speed 1.501959 Hunger 0.2429875 Thirst 0.2926778 Birth 571 Death 572
+Fox 364 Speed 1.503348 Hunger 0.2532855 Thirst 0.2711551 Birth 227 Death 230
+Eagle_Elite 248 Speed 1.488975 Hunger 0.2774338 Thirst 0.2717364 Birth 203 Death 203
+Plant 3850
+Rabbit 1069 Speed 1.501684 Hunger 0.2467222 Thirst 0.3004555 Birth 588 Death 591
+Fox 360 Speed 1.503536 Hunger 0.2605304 Thirst 0.2765637 Birth 221 Death 225
+Eagle_Elite 250 Speed 1.485577 Hunger 0.2852722 Thirst 0.2798688 Birth 214 Death 212
+Plant 3821
+Rabbit 1063 Speed 1.50198 Hunger 0.2502679 Thirst 0.3065167 Birth 553 Death 559
+Fox 359 Speed 1.504441 Hunger 0.270115 Thirst 0.2841014 Birth 246 Death 247
+Eagle_Elite 251 Speed 1.486905 Hunger 0.2915271 Thirst 0.2862632 Birth 200 Death 199
+Plant 3786
+Rabbit 1063 Speed 1.501336 Hunger 0.2540401 Thirst 0.3118631 Birth 552 Death 552
+Fox 355 Speed 1.504658 Hunger 0.2737316 Thirst 0.289027 Birth 264 Death 268
+Eagle_Elite 252 Speed 1.486899 Hunger 0.2973573 Thirst 0.2921298 Birth 206 Death 205
+Plant 3752
+Rabbit 1059 Speed 1.502708 Hunger 0.2585244 Thirst 0.3178768 Birth 554 Death 558
+Fox 356 Speed 1.508673 Hunger 0.2810777 Thirst 0.2957485 Birth 244 Death 243
+Eagle_Elite 255 Speed 1.486232 Hunger 0.3049976 Thirst 0.2996626 Birth 225 Death 222
+Plant 3716
+Rabbit 1054 Speed 1.502165 Hunger 0.2628648 Thirst 0.3216453 Birth 562 Death 567
+Fox 354 Speed 1.509013 Hunger 0.2860617 Thirst 0.3001894 Birth 259 Death 261
+Eagle_Elite 255 Speed 1.486236 Hunger 0.3099071 Thirst 0.2996414 Birth 230 Death 230
+Plant 3690
+Rabbit 1051 Speed 1.502805 Hunger 0.2676495 Thirst 0.3265893 Birth 575 Death 578
+Fox 347 Speed 1.508498 Hunger 0.293842 Thirst 0.3012089 Birth 245 Death 252
+Eagle_Elite 256 Speed 1.48646 Hunger 0.3154864 Thirst 0.3038051 Birth 230 Death 229
+Plant 3656
+Rabbit 1055 Speed 1.502353 Hunger 0.2715804 Thirst 0.3335466 Birth 556 Death 552
+Fox 344 Speed 1.50931 Hunger 0.2988676 Thirst 0.3061304 Birth 233 Death 236
+Eagle_Elite 256 Speed 1.485765 Hunger 0.3198173 Thirst 0.3073187 Birth 241 Death 241
+Plant 3634
+Rabbit 1056 Speed 1.502215 Hunger 0.2754618 Thirst 0.338887 Birth 587 Death 586
+Fox 339 Speed 1.510034 Hunger 0.3036629 Thirst 0.3113566 Birth 222 Death 227
+Eagle_Elite 258 Speed 1.486996 Hunger 0.3278908 Thirst 0.3135845 Birth 233 Death 231
+Plant 3600
+Rabbit 1049 Speed 1.502126 Hunger 0.2795724 Thirst 0.3427826 Birth 573 Death 580
+Fox 338 Speed 1.511356 Hunger 0.3059928 Thirst 0.3162092 Birth 220 Death 221
+Eagle_Elite 259 Speed 1.486423 Hunger 0.3331554 Thirst 0.3188598 Birth 236 Death 235
+Plant 3576
+Rabbit 1045 Speed 1.502173 Hunger 0.2828571 Thirst 0.3472152 Birth 549 Death 553
+Fox 336 Speed 1.511422 Hunger 0.3118222 Thirst 0.3184064 Birth 207 Death 209
+Eagle_Elite 259 Speed 1.486471 Hunger 0.3412211 Thirst 0.3237778 Birth 256 Death 256
+Plant 3552
+Rabbit 1039 Speed 1.501932 Hunger 0.2864889 Thirst 0.3508919 Birth 556 Death 562
+Fox 336 Speed 1.511712 Hunger 0.3172228 Thirst 0.3223248 Birth 235 Death 235
+Eagle_Elite 259 Speed 1.486505 Hunger 0.3473822 Thirst 0.3278193 Birth 234 Death 234
+Plant 3524
+Rabbit 1029 Speed 1.500932 Hunger 0.2897678 Thirst 0.3560164 Birth 533 Death 543
+Fox 337 Speed 1.511426 Hunger 0.3214784 Thirst 0.3280201 Birth 229 Death 228
+Eagle_Elite 259 Speed 1.486505 Hunger 0.3523461 Thirst 0.332101 Birth 251 Death 251
+Plant 3499
+Rabbit 1027 Speed 1.501321 Hunger 0.2932487 Thirst 0.3603439 Birth 519 Death 521
+Fox 334 Speed 1.511899 Hunger 0.3257776 Thirst 0.3325037 Birth 216 Death 219
+Eagle_Elite 259 Speed 1.487778 Hunger 0.3570385 Thirst 0.3371096 Birth 249 Death 249
+Plant 3478
+Rabbit 1025 Speed 1.501427 Hunger 0.2967554 Thirst 0.3650985 Birth 502 Death 504
+Fox 333 Speed 1.511803 Hunger 0.3312737 Thirst 0.3379461 Birth 210 Death 211
+Eagle_Elite 259 Speed 1.487778 Hunger 0.3624929 Thirst 0.3417565 Birth 222 Death 222
+Plant 3451
+Rabbit 1024 Speed 1.50104 Hunger 0.3033754 Thirst 0.3710641 Birth 480 Death 481
+Fox 332 Speed 1.513523 Hunger 0.3372797 Thirst 0.3410472 Birth 207 Death 208
+Eagle_Elite 260 Speed 1.4883 Hunger 0.3692686 Thirst 0.3476793 Birth 240 Death 239
+Plant 3429
+Rabbit 1027 Speed 1.499599 Hunger 0.3080473 Thirst 0.376817 Birth 468 Death 465
+Fox 331 Speed 1.511933 Hunger 0.3412399 Thirst 0.3460731 Birth 169 Death 170
+Eagle_Elite 262 Speed 1.483965 Hunger 0.3766483 Thirst 0.3543521 Birth 218 Death 216
+Plant 3405
+Rabbit 1021 Speed 1.500156 Hunger 0.3116578 Thirst 0.3812254 Birth 546 Death 552
+Fox 334 Speed 1.514679 Hunger 0.3527018 Thirst 0.3507885 Birth 203 Death 200
+Eagle_Elite 263 Speed 1.485035 Hunger 0.3822132 Thirst 0.3598092 Birth 236 Death 235
+Plant 3387
+Rabbit 1020 Speed 1.500795 Hunger 0.3154199 Thirst 0.3867818 Birth 563 Death 564
+Fox 331 Speed 1.51421 Hunger 0.3586574 Thirst 0.3546596 Birth 204 Death 207
+Eagle_Elite 265 Speed 1.485373 Hunger 0.3879278 Thirst 0.3673402 Birth 241 Death 239
+Plant 3357
+Rabbit 1010 Speed 1.500358 Hunger 0.3171313 Thirst 0.3915955 Birth 551 Death 561
+Fox 327 Speed 1.513839 Hunger 0.3621388 Thirst 0.359655 Birth 190 Death 194
+Eagle_Elite 266 Speed 1.484865 Hunger 0.3918222 Thirst 0.3722405 Birth 242 Death 241
+Plant 3340
+Rabbit 1007 Speed 1.500133 Hunger 0.3194665 Thirst 0.3949357 Birth 553 Death 556
+Fox 329 Speed 1.512755 Hunger 0.3705668 Thirst 0.3676067 Birth 181 Death 179
+Eagle_Elite 266 Speed 1.485683 Hunger 0.3979065 Thirst 0.3767586 Birth 239 Death 239
+Plant 3321
+Rabbit 1005 Speed 1.500143 Hunger 0.3200195 Thirst 0.3994439 Birth 524 Death 526
+Fox 329 Speed 1.513725 Hunger 0.3758025 Thirst 0.3725467 Birth 194 Death 194
+Eagle_Elite 267 Speed 1.484 Hunger 0.4048431 Thirst 0.3813529 Birth 236 Death 235
+Plant 3299
+Rabbit 1004 Speed 1.501006 Hunger 0.3241305 Thirst 0.4045636 Birth 509 Death 510
+Fox 328 Speed 1.51362 Hunger 0.3818872 Thirst 0.3768236 Birth 183 Death 184
+Eagle_Elite 267 Speed 1.484223 Hunger 0.4120617 Thirst 0.3850123 Birth 257 Death 257
+Plant 3273
+Rabbit 999 Speed 1.501123 Hunger 0.3277791 Thirst 0.4083997 Birth 519 Death 524
+Fox 328 Speed 1.51316 Hunger 0.3897616 Thirst 0.3843884 Birth 193 Death 193
+Eagle_Elite 269 Speed 1.485813 Hunger 0.4208287 Thirst 0.3914737 Birth 238 Death 236
+Plant 3249
+Rabbit 999 Speed 1.500998 Hunger 0.3317747 Thirst 0.4161878 Birth 545 Death 545
+Fox 325 Speed 1.513475 Hunger 0.3958268 Thirst 0.3892516 Birth 181 Death 184
+Eagle_Elite 271 Speed 1.483625 Hunger 0.4280271 Thirst 0.3979036 Birth 230 Death 228
+Plant 3226
+Rabbit 993 Speed 1.501255 Hunger 0.3339343 Thirst 0.4201961 Birth 509 Death 515
+Fox 328 Speed 1.516546 Hunger 0.4091452 Thirst 0.3980108 Birth 194 Death 191
+Eagle_Elite 271 Speed 1.48341 Hunger 0.4332276 Thirst 0.4024549 Birth 255 Death 255
+Plant 3199
+Rabbit 993 Speed 1.501805 Hunger 0.3394374 Thirst 0.4249442 Birth 539 Death 539
+Fox 324 Speed 1.515288 Hunger 0.4148522 Thirst 0.3942142 Birth 206 Death 210
+Eagle_Elite 271 Speed 1.48341 Hunger 0.4390821 Thirst 0.4066642 Birth 233 Death 233
+Plant 3179
+Rabbit 987 Speed 1.502201 Hunger 0.3438139 Thirst 0.4281949 Birth 536 Death 542
+Fox 323 Speed 1.515818 Hunger 0.4262591 Thirst 0.3992687 Birth 199 Death 200
+Eagle_Elite 271 Speed 1.484627 Hunger 0.4451111 Thirst 0.4111488 Birth 238 Death 238
+Plant 3143
+Rabbit 981 Speed 1.502267 Hunger 0.3463171 Thirst 0.4338445 Birth 536 Death 542
+Fox 323 Speed 1.514796 Hunger 0.4344041 Thirst 0.408213 Birth 202 Death 202
+Eagle_Elite 271 Speed 1.484708 Hunger 0.4504373 Thirst 0.4162692 Birth 261 Death 261
+Plant 3124
+Rabbit 976 Speed 1.502635 Hunger 0.3493398 Thirst 0.4366324 Birth 542 Death 547
+Fox 319 Speed 1.514351 Hunger 0.4425747 Thirst 0.4084728 Birth 197 Death 201
+Eagle_Elite 272 Speed 1.485427 Hunger 0.4566225 Thirst 0.4219202 Birth 240 Death 239
+Plant 3105
+Rabbit 974 Speed 1.502495 Hunger 0.3538032 Thirst 0.4413901 Birth 530 Death 532
+Fox 319 Speed 1.513881 Hunger 0.4458787 Thirst 0.4152272 Birth 195 Death 195
+Eagle_Elite 274 Speed 1.48717 Hunger 0.4639049 Thirst 0.42835 Birth 239 Death 237
+Plant 3083
+Rabbit 969 Speed 1.502508 Hunger 0.3581802 Thirst 0.4458525 Birth 544 Death 549
+Fox 319 Speed 1.513662 Hunger 0.4507006 Thirst 0.4196843 Birth 194 Death 194
+Eagle_Elite 277 Speed 1.488675 Hunger 0.4710668 Thirst 0.4359159 Birth 259 Death 256
+Plant 3066
+Rabbit 968 Speed 1.502246 Hunger 0.3624588 Thirst 0.4502824 Birth 509 Death 510
+Fox 316 Speed 1.5135 Hunger 0.4553928 Thirst 0.4236054 Birth 183 Death 186
+Eagle_Elite 279 Speed 1.486045 Hunger 0.477977 Thirst 0.4416288 Birth 247 Death 245
+Plant 3044
+Rabbit 958 Speed 1.501609 Hunger 0.3646435 Thirst 0.4538018 Birth 511 Death 521
+Fox 316 Speed 1.51257 Hunger 0.4609761 Thirst 0.4303911 Birth 205 Death 205
+Eagle_Elite 279 Speed 1.487285 Hunger 0.4834397 Thirst 0.4447825 Birth 246 Death 246
+Plant 3026
+Rabbit 955 Speed 1.501587 Hunger 0.3680552 Thirst 0.4580123 Birth 504 Death 507
+Fox 313 Speed 1.512122 Hunger 0.4636958 Thirst 0.4315296 Birth 213 Death 216
+Eagle_Elite 279 Speed 1.486979 Hunger 0.4872615 Thirst 0.446703 Birth 254 Death 254
+Plant 2993
+Rabbit 951 Speed 1.501538 Hunger 0.371601 Thirst 0.4620704 Birth 514 Death 518
+Fox 312 Speed 1.509927 Hunger 0.469372 Thirst 0.4358666 Birth 199 Death 200
+Eagle_Elite 279 Speed 1.486979 Hunger 0.4912171 Thirst 0.4490189 Birth 240 Death 240
+Plant 2976
+Rabbit 944 Speed 1.501395 Hunger 0.372509 Thirst 0.4679853 Birth 525 Death 532
+Fox 307 Speed 1.508922 Hunger 0.4696749 Thirst 0.4379278 Birth 198 Death 203
+Eagle_Elite 279 Speed 1.487285 Hunger 0.4985403 Thirst 0.4529376 Birth 233 Death 233
+Plant 2951
+Rabbit 934 Speed 1.501397 Hunger 0.3773206 Thirst 0.4711467 Birth 513 Death 523
+Fox 304 Speed 1.508167 Hunger 0.470249 Thirst 0.4438551 Birth 187 Death 190
+Eagle_Elite 280 Speed 1.487422 Hunger 0.5048898 Thirst 0.457908 Birth 247 Death 246
+Plant 2933
+Rabbit 928 Speed 1.501501 Hunger 0.3810082 Thirst 0.4751159 Birth 497 Death 503
+Fox 299 Speed 1.509375 Hunger 0.4739412 Thirst 0.4439169 Birth 186 Death 191
+Eagle_Elite 280 Speed 1.487542 Hunger 0.5070534 Thirst 0.46104 Birth 232 Death 232
+Plant 2916
+Rabbit 924 Speed 1.501725 Hunger 0.3845872 Thirst 0.4788242 Birth 471 Death 475
+Fox 295 Speed 1.50996 Hunger 0.4774758 Thirst 0.4479955 Birth 187 Death 191
+Eagle_Elite 280 Speed 1.487506 Hunger 0.5144076 Thirst 0.4659845 Birth 232 Death 232
+Plant 2891
+Rabbit 923 Speed 1.501635 Hunger 0.3880799 Thirst 0.481896 Birth 447 Death 448
+Fox 294 Speed 1.509355 Hunger 0.4834516 Thirst 0.4555213 Birth 201 Death 202
+Eagle_Elite 282 Speed 1.487061 Hunger 0.5229701 Thirst 0.4731501 Birth 256 Death 254
+Plant 2871
+Rabbit 921 Speed 1.501651 Hunger 0.3937004 Thirst 0.4850779 Birth 472 Death 474
+Fox 290 Speed 1.508544 Hunger 0.4890578 Thirst 0.4603268 Birth 189 Death 193
+Eagle_Elite 282 Speed 1.487438 Hunger 0.5276356 Thirst 0.4769441 Birth 256 Death 256
+Plant 2852
+Rabbit 918 Speed 1.501731 Hunger 0.3991651 Thirst 0.4886478 Birth 451 Death 454
+Fox 288 Speed 1.508122 Hunger 0.4940696 Thirst 0.4651711 Birth 200 Death 202
+Eagle_Elite 282 Speed 1.487438 Hunger 0.5328839 Thirst 0.4811176 Birth 243 Death 243
+Plant 2834
+Rabbit 913 Speed 1.502069 Hunger 0.4025007 Thirst 0.4918759 Birth 467 Death 472
+Fox 285 Speed 1.50772 Hunger 0.5033938 Thirst 0.4711872 Birth 208 Death 211
+Eagle_Elite 281 Speed 1.486529 Hunger 0.5365906 Thirst 0.4834666 Birth 260 Death 261
+Plant 2816
+Rabbit 908 Speed 1.501837 Hunger 0.4042111 Thirst 0.4948712 Birth 483 Death 488
+Fox 282 Speed 1.507685 Hunger 0.5029749 Thirst 0.4718495 Birth 183 Death 186
+Eagle_Elite 281 Speed 1.486529 Hunger 0.542619 Thirst 0.4874542 Birth 252 Death 252
+Plant 2794
+Rabbit 907 Speed 1.501775 Hunger 0.4086943 Thirst 0.4991236 Birth 454 Death 455
+Fox 278 Speed 1.507402 Hunger 0.5031086 Thirst 0.4746244 Birth 206 Death 210
+Eagle_Elite 281 Speed 1.487598 Hunger 0.5471005 Thirst 0.4916732 Birth 254 Death 254
+Plant 2773
+Rabbit 907 Speed 1.501811 Hunger 0.4125909 Thirst 0.5028597 Birth 447 Death 447
+Fox 275 Speed 1.508022 Hunger 0.5082272 Thirst 0.4799971 Birth 188 Death 191
+Eagle_Elite 281 Speed 1.487598 Hunger 0.5524229 Thirst 0.4958403 Birth 266 Death 266
+Plant 2747
+Rabbit 902 Speed 1.502052 Hunger 0.4142966 Thirst 0.5061099 Birth 473 Death 478
+Fox 271 Speed 1.506317 Hunger 0.508301 Thirst 0.4822737 Birth 183 Death 187
+Eagle_Elite 282 Speed 1.486653 Hunger 0.5609765 Thirst 0.501811 Birth 252 Death 251
+Plant 2732
+Rabbit 900 Speed 1.502196 Hunger 0.4190037 Thirst 0.5106457 Birth 454 Death 456
+Fox 267 Speed 1.507542 Hunger 0.5131898 Thirst 0.4879606 Birth 161 Death 165
+Eagle_Elite 282 Speed 1.486223 Hunger 0.5652643 Thirst 0.5061558 Birth 253 Death 253
+Plant 2714
+Rabbit 895 Speed 1.502119 Hunger 0.4238086 Thirst 0.5131396 Birth 429 Death 434
+Fox 265 Speed 1.507631 Hunger 0.5186763 Thirst 0.4915485 Birth 185 Death 187
+Eagle_Elite 281 Speed 1.486537 Hunger 0.5716956 Thirst 0.5088394 Birth 272 Death 273
+Plant 2700
+Rabbit 891 Speed 1.501448 Hunger 0.4275095 Thirst 0.5166938 Birth 432 Death 436
+Fox 264 Speed 1.506789 Hunger 0.5261192 Thirst 0.4980842 Birth 176 Death 177
+Eagle_Elite 281 Speed 1.486537 Hunger 0.5773315 Thirst 0.5129402 Birth 240 Death 240
+Plant 2680
+Rabbit 885 Speed 1.501342 Hunger 0.4326578 Thirst 0.519711 Birth 432 Death 438
+Fox 262 Speed 1.506633 Hunger 0.5273359 Thirst 0.5017265 Birth 185 Death 187
+Eagle_Elite 281 Speed 1.486537 Hunger 0.5835391 Thirst 0.5171732 Birth 243 Death 243
+Plant 2660
+Rabbit 879 Speed 1.501407 Hunger 0.4360707 Thirst 0.5235124 Birth 436 Death 442
+Fox 261 Speed 1.50691 Hunger 0.5328385 Thirst 0.5081253 Birth 174 Death 175
+Eagle_Elite 281 Speed 1.486537 Hunger 0.5898003 Thirst 0.5220281 Birth 267 Death 267
+Plant 2641
+Rabbit 876 Speed 1.501641 Hunger 0.4407669 Thirst 0.527793 Birth 460 Death 463
+Fox 257 Speed 1.508566 Hunger 0.5338992 Thirst 0.5127785 Birth 181 Death 185
+Eagle_Elite 281 Speed 1.486849 Hunger 0.5965717 Thirst 0.5274295 Birth 249 Death 249
+Plant 2620
+Rabbit 870 Speed 1.501393 Hunger 0.4438814 Thirst 0.531653 Birth 361 Death 367
+Fox 254 Speed 1.508517 Hunger 0.5387073 Thirst 0.5172716 Birth 160 Death 163
+Eagle_Elite 281 Speed 1.488955 Hunger 0.6024075 Thirst 0.5303169 Birth 229 Death 229
+Plant 2606
+Rabbit 869 Speed 1.5016 Hunger 0.4491056 Thirst 0.5375587 Birth 437 Death 438
+Fox 252 Speed 1.509573 Hunger 0.5414369 Thirst 0.5192121 Birth 172 Death 174
+Eagle_Elite 280 Speed 1.488047 Hunger 0.6065872 Thirst 0.5319505 Birth 251 Death 252
+Plant 2588
+Rabbit 865 Speed 1.501776 Hunger 0.4525951 Thirst 0.5427254 Birth 419 Death 423
+Fox 248 Speed 1.508477 Hunger 0.5464104 Thirst 0.5242066 Birth 189 Death 193
+Eagle_Elite 280 Speed 1.488047 Hunger 0.6123815 Thirst 0.5354674 Birth 237 Death 237
+Plant 2570
+Rabbit 863 Speed 1.50148 Hunger 0.455498 Thirst 0.545164 Birth 427 Death 429
+Fox 244 Speed 1.507794 Hunger 0.5458679 Thirst 0.5248355 Birth 178 Death 182
+Eagle_Elite 279 Speed 1.487714 Hunger 0.6167996 Thirst 0.5387934 Birth 234 Death 235
+Plant 2554
+Rabbit 856 Speed 1.500934 Hunger 0.4625224 Thirst 0.5477823 Birth 427 Death 434
+Fox 243 Speed 1.50839 Hunger 0.5491749 Thirst 0.5307336 Birth 165 Death 166
+Eagle_Elite 278 Speed 1.486861 Hunger 0.6233292 Thirst 0.5413832 Birth 244 Death 245
+Plant 2536
+Rabbit 854 Speed 1.501021 Hunger 0.4662243 Thirst 0.5511517 Birth 426 Death 428
+Fox 240 Speed 1.505469 Hunger 0.5486994 Thirst 0.5362447 Birth 174 Death 177
+Eagle_Elite 276 Speed 1.486999 Hunger 0.6260587 Thirst 0.5443215 Birth 242 Death 244
+Plant 2523
+Rabbit 849 Speed 1.50063 Hunger 0.4681931 Thirst 0.5549522 Birth 449 Death 454
+Fox 239 Speed 1.505226 Hunger 0.5526088 Thirst 0.5386714 Birth 155 Death 156
+Eagle_Elite 275 Speed 1.48704 Hunger 0.6304092 Thirst 0.5490193 Birth 224 Death 225
+Plant 2511
+Rabbit 845 Speed 1.499986 Hunger 0.4693151 Thirst 0.5576956 Birth 389 Death 393
+Fox 238 Speed 1.50517 Hunger 0.5576716 Thirst 0.541557 Birth 165 Death 166
+Eagle_Elite 273 Speed 1.486525 Hunger 0.6330972 Thirst 0.5540848 Birth 229 Death 231
+Plant 2489
+Rabbit 839 Speed 1.500594 Hunger 0.4731553 Thirst 0.5602497 Birth 387 Death 393
+Fox 234 Speed 1.506142 Hunger 0.5582845 Thirst 0.5482348 Birth 169 Death 173
+Eagle_Elite 273 Speed 1.487714 Hunger 0.6379544 Thirst 0.5556078 Birth 223 Death 223
+Plant 2476
+Rabbit 833 Speed 1.500914 Hunger 0.4760443 Thirst 0.5634757 Birth 338 Death 344
+Fox 231 Speed 1.505242 Hunger 0.5594368 Thirst 0.5571741 Birth 148 Death 151
+Eagle_Elite 273 Speed 1.486674 Hunger 0.6436422 Thirst 0.5603395 Birth 215 Death 215
+Plant 2455
+Rabbit 827 Speed 1.501098 Hunger 0.4799474 Thirst 0.5665287 Birth 373 Death 379
+Fox 230 Speed 1.504699 Hunger 0.5629787 Thirst 0.5575117 Birth 166 Death 167
+Eagle_Elite 271 Speed 1.485995 Hunger 0.6487778 Thirst 0.5618466 Birth 232 Death 234
+Plant 2441
+Rabbit 821 Speed 1.500004 Hunger 0.4835396 Thirst 0.5676619 Birth 407 Death 413
+Fox 227 Speed 1.503555 Hunger 0.5634207 Thirst 0.5602596 Birth 166 Death 169
+Eagle_Elite 269 Speed 1.484334 Hunger 0.6505564 Thirst 0.5641847 Birth 227 Death 229
+Plant 2427
+Rabbit 812 Speed 1.499628 Hunger 0.4860803 Thirst 0.5686523 Birth 431 Death 440
+Fox 227 Speed 1.503555 Hunger 0.5670395 Thirst 0.5647139 Birth 162 Death 162
+Eagle_Elite 268 Speed 1.483825 Hunger 0.6558708 Thirst 0.5668785 Birth 226 Death 227
+Plant 2415
+Rabbit 804 Speed 1.499381 Hunger 0.4870522 Thirst 0.5705681 Birth 400 Death 408
+Fox 225 Speed 1.503542 Hunger 0.5715857 Thirst 0.5716267 Birth 165 Death 167
+Eagle_Elite 267 Speed 1.484042 Hunger 0.6602238 Thirst 0.5691626 Birth 216 Death 217
+Plant 2401
+Rabbit 797 Speed 1.499917 Hunger 0.4889444 Thirst 0.5743853 Birth 360 Death 367
+Fox 216 Speed 1.502716 Hunger 0.5686582 Thirst 0.5692615 Birth 159 Death 168
+Eagle_Elite 263 Speed 1.483077 Hunger 0.6627542 Thirst 0.5706288 Birth 223 Death 227
+Plant 2385
+Rabbit 790 Speed 1.499201 Hunger 0.4910009 Thirst 0.5798033 Birth 386 Death 393
+Fox 211 Speed 1.499197 Hunger 0.5704968 Thirst 0.5694728 Birth 147 Death 152
+Eagle_Elite 263 Speed 1.483113 Hunger 0.6684074 Thirst 0.5749238 Birth 231 Death 231
+Plant 2367
+Rabbit 783 Speed 1.499485 Hunger 0.4940439 Thirst 0.582319 Birth 379 Death 386
+Fox 208 Speed 1.49856 Hunger 0.5741677 Thirst 0.5692423 Birth 141 Death 144
+Eagle_Elite 262 Speed 1.48297 Hunger 0.6704208 Thirst 0.577553 Birth 213 Death 214
+Plant 2352
+Rabbit 774 Speed 1.499234 Hunger 0.497781 Thirst 0.5860274 Birth 365 Death 374
+Fox 205 Speed 1.497469 Hunger 0.5791182 Thirst 0.5686684 Birth 132 Death 135
+Eagle_Elite 262 Speed 1.483146 Hunger 0.6782055 Thirst 0.5826252 Birth 214 Death 214
+Plant 2343
+Rabbit 765 Speed 1.499285 Hunger 0.4990483 Thirst 0.5907507 Birth 387 Death 396
+Fox 202 Speed 1.496546 Hunger 0.5873206 Thirst 0.5728462 Birth 131 Death 134
+Eagle_Elite 260 Speed 1.482713 Hunger 0.681495 Thirst 0.5840027 Birth 216 Death 218
+Plant 2324
+Rabbit 757 Speed 1.498845 Hunger 0.5005542 Thirst 0.5950948 Birth 343 Death 351
+Fox 196 Speed 1.495218 Hunger 0.5870411 Thirst 0.5803952 Birth 128 Death 134
+Eagle_Elite 256 Speed 1.48146 Hunger 0.6809978 Thirst 0.5807098 Birth 202 Death 206
+Plant 2313
+Rabbit 747 Speed 1.49818 Hunger 0.4998223 Thirst 0.5984543 Birth 365 Death 375
+Fox 194 Speed 1.494294 Hunger 0.5931476 Thirst 0.5814859 Birth 133 Death 135
+Eagle_Elite 256 Speed 1.48164 Hunger 0.6892942 Thirst 0.5856943 Birth 206 Death 206
+Plant 2302
+Rabbit 729 Speed 1.497161 Hunger 0.4994251 Thirst 0.5961477 Birth 317 Death 335
+Fox 191 Speed 1.495305 Hunger 0.5942502 Thirst 0.5840019 Birth 110 Death 113
+Eagle_Elite 254 Speed 1.479672 Hunger 0.6950499 Thirst 0.5865079 Birth 209 Death 211
+Plant 2293
+Rabbit 722 Speed 1.496042 Hunger 0.503812 Thirst 0.5969208 Birth 355 Death 362
+Fox 189 Speed 1.496623 Hunger 0.6053499 Thirst 0.5864719 Birth 128 Death 130
+Eagle_Elite 253 Speed 1.479769 Hunger 0.6994073 Thirst 0.5888956 Birth 189 Death 190
+Plant 2280
+Rabbit 719 Speed 1.49561 Hunger 0.5059915 Thirst 0.6018649 Birth 310 Death 313
+Fox 185 Speed 1.495271 Hunger 0.6046633 Thirst 0.5813674 Birth 121 Death 125
+Eagle_Elite 253 Speed 1.479769 Hunger 0.7047904 Thirst 0.5923092 Birth 188 Death 188
+Plant 2271
+Rabbit 709 Speed 1.494149 Hunger 0.5048232 Thirst 0.6036897 Birth 356 Death 366
+Fox 184 Speed 1.49561 Hunger 0.6075243 Thirst 0.5886068 Birth 129 Death 130
+Eagle_Elite 253 Speed 1.479769 Hunger 0.711077 Thirst 0.5959755 Birth 214 Death 214
+Plant 2259
+Rabbit 701 Speed 1.493874 Hunger 0.509094 Thirst 0.606862 Birth 331 Death 339
+Fox 179 Speed 1.493674 Hunger 0.6150547 Thirst 0.5887094 Birth 130 Death 135
+Eagle_Elite 250 Speed 1.478399 Hunger 0.7147607 Thirst 0.5948446 Birth 208 Death 211
+Plant 2246
+Rabbit 690 Speed 1.492419 Hunger 0.5142758 Thirst 0.607287 Birth 344 Death 355
+Fox 177 Speed 1.492014 Hunger 0.6185407 Thirst 0.5920163 Birth 109 Death 111
+Eagle_Elite 245 Speed 1.475276 Hunger 0.7162736 Thirst 0.5903265 Birth 212 Death 217
+Plant 2230
+Rabbit 681 Speed 1.491358 Hunger 0.5198585 Thirst 0.6095874 Birth 335 Death 344
+Fox 172 Speed 1.487991 Hunger 0.6265776 Thirst 0.5959144 Birth 113 Death 118
+Eagle_Elite 242 Speed 1.474064 Hunger 0.7196004 Thirst 0.5929123 Birth 193 Death 196
+Plant 2221
+Rabbit 669 Speed 1.490302 Hunger 0.5233641 Thirst 0.6083211 Birth 256 Death 268
+Fox 167 Speed 1.489277 Hunger 0.6266369 Thirst 0.5882514 Birth 93 Death 98
+Eagle_Elite 239 Speed 1.472821 Hunger 0.7219774 Thirst 0.5908139 Birth 170 Death 173
+Plant 2213
+Rabbit 660 Speed 1.48853 Hunger 0.5252485 Thirst 0.608692 Birth 282 Death 291
+Fox 166 Speed 1.490154 Hunger 0.6308682 Thirst 0.5952999 Birth 83 Death 84
+Eagle_Elite 235 Speed 1.47246 Hunger 0.725548 Thirst 0.5912711 Birth 165 Death 169
+Plant 2206
+Rabbit 643 Speed 1.486596 Hunger 0.5301969 Thirst 0.6035243 Birth 270 Death 287
+Fox 162 Speed 1.489228 Hunger 0.6348711 Thirst 0.5896626 Birth 94 Death 98
+Eagle_Elite 233 Speed 1.471357 Hunger 0.7293547 Thirst 0.5909197 Birth 164 Death 166
+Plant 2200
+Rabbit 629 Speed 1.48442 Hunger 0.5304483 Thirst 0.6047329 Birth 233 Death 247
+Fox 159 Speed 1.488074 Hunger 0.6339915 Thirst 0.5863711 Birth 83 Death 86
+Eagle_Elite 232 Speed 1.471715 Hunger 0.7324721 Thirst 0.592779 Birth 147 Death 148
+Plant 2191
+Rabbit 621 Speed 1.482851 Hunger 0.5328621 Thirst 0.6054545 Birth 250 Death 258
+Fox 156 Speed 1.486167 Hunger 0.6337739 Thirst 0.5888093 Birth 84 Death 87
+Eagle_Elite 229 Speed 1.470034 Hunger 0.7345511 Thirst 0.5914052 Birth 151 Death 154
+Plant 2179
+Rabbit 607 Speed 1.481182 Hunger 0.5349479 Thirst 0.6071444 Birth 279 Death 293
+Fox 153 Speed 1.485864 Hunger 0.635381 Thirst 0.5911569 Birth 92 Death 95
+Eagle_Elite 227 Speed 1.469709 Hunger 0.7386447 Thirst 0.5999422 Birth 197 Death 199
+Plant 2172
+Rabbit 596 Speed 1.479161 Hunger 0.5375475 Thirst 0.6046159 Birth 256 Death 267
+Fox 152 Speed 1.485476 Hunger 0.6433909 Thirst 0.5921435 Birth 78 Death 79
+Eagle_Elite 220 Speed 1.466919 Hunger 0.7356414 Thirst 0.6023349 Birth 152 Death 159
+Plant 2161
+Rabbit 584 Speed 1.477573 Hunger 0.5460895 Thirst 0.6039734 Birth 201 Death 213
+Fox 146 Speed 1.483587 Hunger 0.654036 Thirst 0.5936592 Birth 80 Death 86
+Eagle_Elite 216 Speed 1.463938 Hunger 0.7370828 Thirst 0.6108686 Birth 145 Death 149
+Plant 2150
+Rabbit 560 Speed 1.474982 Hunger 0.5428998 Thirst 0.6133936 Birth 236 Death 260
+Fox 142 Speed 1.481378 Hunger 0.6499285 Thirst 0.6000108 Birth 83 Death 87
+Eagle_Elite 214 Speed 1.463421 Hunger 0.743825 Thirst 0.6093136 Birth 165 Death 167
+Plant 2146
+Rabbit 539 Speed 1.472547 Hunger 0.5485743 Thirst 0.6119684 Birth 252 Death 273
+Fox 138 Speed 1.480363 Hunger 0.6621202 Thirst 0.5926794 Birth 78 Death 82
+Eagle_Elite 206 Speed 1.457826 Hunger 0.7429713 Thirst 0.615654 Birth 151 Death 159
+Plant 2137
+Rabbit 525 Speed 1.470343 Hunger 0.5431425 Thirst 0.6108363 Birth 230 Death 244
+Fox 132 Speed 1.47703 Hunger 0.6534852 Thirst 0.6082358 Birth 84 Death 90
+Eagle_Elite 200 Speed 1.455812 Hunger 0.74927 Thirst 0.6114475 Birth 148 Death 154
+Plant 2128
+Rabbit 499 Speed 1.466221 Hunger 0.5448498 Thirst 0.6110813 Birth 226 Death 252
+Fox 127 Speed 1.477246 Hunger 0.6486655 Thirst 0.604288 Birth 77 Death 82
+Eagle_Elite 197 Speed 1.455082 Hunger 0.7561423 Thirst 0.6079862 Birth 147 Death 150
+Plant 2119
+Rabbit 483 Speed 1.463265 Hunger 0.5477972 Thirst 0.61228 Birth 199 Death 215
+Fox 119 Speed 1.472668 Hunger 0.6430622 Thirst 0.6178262 Birth 67 Death 75
+Eagle_Elite 189 Speed 1.453781 Hunger 0.7569596 Thirst 0.6054073 Birth 135 Death 143
+Plant 2111
+Rabbit 461 Speed 1.459651 Hunger 0.5490782 Thirst 0.6097122 Birth 185 Death 207
+Fox 112 Speed 1.467629 Hunger 0.644192 Thirst 0.6148545 Birth 59 Death 66
+Eagle_Elite 183 Speed 1.451516 Hunger 0.7553483 Thirst 0.607603 Birth 113 Death 119
+Plant 2106
+Rabbit 448 Speed 1.458558 Hunger 0.5466543 Thirst 0.6052092 Birth 172 Death 185
+Fox 107 Speed 1.464126 Hunger 0.646558 Thirst 0.6092542 Birth 49 Death 54
+Eagle_Elite 176 Speed 1.448092 Hunger 0.7640153 Thirst 0.6000383 Birth 123 Death 130
+Plant 2098
+Rabbit 429 Speed 1.45806 Hunger 0.5484039 Thirst 0.6087837 Birth 166 Death 185
+Fox 101 Speed 1.461111 Hunger 0.6452057 Thirst 0.60812 Birth 54 Death 60
+Eagle_Elite 169 Speed 1.445464 Hunger 0.7607855 Thirst 0.6097643 Birth 123 Death 130
+Plant 2094
+Rabbit 409 Speed 1.45664 Hunger 0.5511687 Thirst 0.6009853 Birth 179 Death 199
+Fox 96 Speed 1.456796 Hunger 0.6596326 Thirst 0.5905442 Birth 50 Death 55
+Eagle_Elite 164 Speed 1.443886 Hunger 0.761723 Thirst 0.6039318 Birth 132 Death 137
+Plant 2088
+Rabbit 402 Speed 1.455414 Hunger 0.5502517 Thirst 0.6022563 Birth 150 Death 157
+Fox 86 Speed 1.452555 Hunger 0.6758789 Thirst 0.5873122 Birth 45 Death 55
+Eagle_Elite 157 Speed 1.441802 Hunger 0.7640665 Thirst 0.5955755 Birth 106 Death 113
+Plant 2086
+Rabbit 388 Speed 1.453806 Hunger 0.5543588 Thirst 0.6038687 Birth 137 Death 151
+Fox 83 Speed 1.450646 Hunger 0.6683273 Thirst 0.5768988 Birth 31 Death 34
+Eagle_Elite 150 Speed 1.437815 Hunger 0.7655439 Thirst 0.6133129 Birth 99 Death 106
+Plant 2078
+Rabbit 377 Speed 1.452137 Hunger 0.5579945 Thirst 0.6034801 Birth 133 Death 144
+Fox 79 Speed 1.448205 Hunger 0.6658591 Thirst 0.5691901 Birth 42 Death 46
+Eagle_Elite 145 Speed 1.437598 Hunger 0.7757515 Thirst 0.6033749 Birth 107 Death 112
+Plant 2074
+Rabbit 360 Speed 1.450021 Hunger 0.5641812 Thirst 0.6032336 Birth 138 Death 155
+Fox 76 Speed 1.446534 Hunger 0.6645373 Thirst 0.5813543 Birth 41 Death 44
+Eagle_Elite 136 Speed 1.433738 Hunger 0.7887043 Thirst 0.5963095 Birth 103 Death 112
+Plant 2072
+Rabbit 340 Speed 1.447631 Hunger 0.5687516 Thirst 0.5943617 Birth 119 Death 139
+Fox 73 Speed 1.445092 Hunger 0.6545746 Thirst 0.5806955 Birth 35 Death 38
+Eagle_Elite 132 Speed 1.432663 Hunger 0.7881946 Thirst 0.5869908 Birth 86 Death 90
+Plant 2068
+Rabbit 319 Speed 1.44501 Hunger 0.5708912 Thirst 0.5954742 Birth 109 Death 130
+Fox 69 Speed 1.445037 Hunger 0.6685266 Thirst 0.5701199 Birth 32 Death 36
+Eagle_Elite 125 Speed 1.429568 Hunger 0.7916861 Thirst 0.5834447 Birth 84 Death 91
+Plant 2064
+Rabbit 304 Speed 1.44422 Hunger 0.5750614 Thirst 0.5881132 Birth 103 Death 118
+Fox 65 Speed 1.44273 Hunger 0.6682104 Thirst 0.5614652 Birth 30 Death 34
+Eagle_Elite 118 Speed 1.427254 Hunger 0.7971385 Thirst 0.570857 Birth 77 Death 84
+Plant 2059
+Rabbit 291 Speed 1.44215 Hunger 0.5827249 Thirst 0.5806503 Birth 94 Death 107
+Fox 63 Speed 1.442452 Hunger 0.6613666 Thirst 0.5656829 Birth 24 Death 26
+Eagle_Elite 110 Speed 1.425019 Hunger 0.801887 Thirst 0.5701 Birth 72 Death 80
+Plant 2056
+Rabbit 283 Speed 1.442858 Hunger 0.5762863 Thirst 0.5789063 Birth 86 Death 94
+Fox 60 Speed 1.441477 Hunger 0.6478522 Thirst 0.5961035 Birth 26 Death 29
+Eagle_Elite 105 Speed 1.422779 Hunger 0.8187477 Thirst 0.5522411 Birth 65 Death 70
+Plant 2053
+Rabbit 270 Speed 1.443285 Hunger 0.5897719 Thirst 0.5729256 Birth 100 Death 113
+Fox 56 Speed 1.439507 Hunger 0.6443569 Thirst 0.6235842 Birth 32 Death 36
+Eagle_Elite 98 Speed 1.420459 Hunger 0.8153127 Thirst 0.5539384 Birth 64 Death 71
+Plant 2049
+Rabbit 255 Speed 1.442038 Hunger 0.5934345 Thirst 0.5612175 Birth 89 Death 104
+Fox 54 Speed 1.439578 Hunger 0.6659282 Thirst 0.6118946 Birth 25 Death 27
+Eagle_Elite 89 Speed 1.419094 Hunger 0.8145083 Thirst 0.5581384 Birth 56 Death 65
+Plant 2046
+Rabbit 242 Speed 1.44407 Hunger 0.5872647 Thirst 0.5525599 Birth 70 Death 83
+Fox 52 Speed 1.436703 Hunger 0.667537 Thirst 0.5993316 Birth 28 Death 30
+Eagle_Elite 87 Speed 1.419122 Hunger 0.8152111 Thirst 0.5738165 Birth 59 Death 61
+Plant 2044
+Rabbit 223 Speed 1.44404 Hunger 0.5835201 Thirst 0.5524882 Birth 62 Death 81
+Fox 48 Speed 1.436343 Hunger 0.6521602 Thirst 0.6308475 Birth 25 Death 29
+Eagle_Elite 83 Speed 1.4202 Hunger 0.8231342 Thirst 0.5681087 Birth 46 Death 50
+Plant 2042
+Rabbit 212 Speed 1.444586 Hunger 0.5877146 Thirst 0.5548686 Birth 57 Death 68
+Fox 45 Speed 1.438495 Hunger 0.630606 Thirst 0.6753943 Birth 22 Death 25
+Eagle_Elite 76 Speed 1.419667 Hunger 0.845987 Thirst 0.544185 Birth 49 Death 56
+Plant 2041
+Rabbit 198 Speed 1.4463 Hunger 0.5876409 Thirst 0.5602144 Birth 50 Death 64
+Fox 44 Speed 1.43918 Hunger 0.6254292 Thirst 0.6931441 Birth 24 Death 25
+Eagle_Elite 73 Speed 1.420166 Hunger 0.844158 Thirst 0.5429627 Birth 42 Death 45
+Plant 2040
+Rabbit 191 Speed 1.446448 Hunger 0.5840577 Thirst 0.5661763 Birth 46 Death 53
+Fox 41 Speed 1.442228 Hunger 0.6257772 Thirst 0.6731083 Birth 25 Death 28
+Eagle_Elite 69 Speed 1.416663 Hunger 0.8415207 Thirst 0.5623084 Birth 36 Death 40
+Plant 2038
+Rabbit 177 Speed 1.45107 Hunger 0.5815992 Thirst 0.5504331 Birth 42 Death 56
+Fox 40 Speed 1.440318 Hunger 0.6307465 Thirst 0.675294 Birth 20 Death 21
+Eagle_Elite 60 Speed 1.417154 Hunger 0.8395244 Thirst 0.5661248 Birth 38 Death 47
+Plant 2037
+Rabbit 170 Speed 1.453538 Hunger 0.576157 Thirst 0.5398821 Birth 40 Death 47
+Fox 38 Speed 1.439855 Hunger 0.6609277 Thirst 0.6605146 Birth 22 Death 24
+Eagle_Elite 58 Speed 1.420084 Hunger 0.8386121 Thirst 0.5537248 Birth 31 Death 33
+Plant 2033
+Rabbit 165 Speed 1.453882 Hunger 0.5786637 Thirst 0.539341 Birth 29 Death 34
+Fox 36 Speed 1.438388 Hunger 0.6696875 Thirst 0.6437546 Birth 17 Death 19
+Eagle_Elite 52 Speed 1.428303 Hunger 0.8249528 Thirst 0.5441964 Birth 27 Death 33
+Plant 2029
+Rabbit 156 Speed 1.456466 Hunger 0.5950422 Thirst 0.5272503 Birth 23 Death 32
+Fox 33 Speed 1.442644 Hunger 0.6645206 Thirst 0.6495099 Birth 17 Death 20
+Eagle_Elite 50 Speed 1.430411 Hunger 0.8278705 Thirst 0.5280152 Birth 22 Death 24
+Plant 2029
+Rabbit 154 Speed 1.457637 Hunger 0.5923271 Thirst 0.5358395 Birth 31 Death 33
+Fox 32 Speed 1.444974 Hunger 0.6569012 Thirst 0.6718022 Birth 15 Death 16
+Eagle_Elite 50 Speed 1.430411 Hunger 0.8322993 Thirst 0.5302567 Birth 22 Death 22
+Plant 2027
+Rabbit 149 Speed 1.460946 Hunger 0.5932642 Thirst 0.5287608 Birth 28 Death 33
+Fox 31 Speed 1.446613 Hunger 0.6779106 Thirst 0.6631984 Birth 16 Death 17
+Eagle_Elite 48 Speed 1.43264 Hunger 0.8299158 Thirst 0.5547289 Birth 26 Death 28
+Plant 2025
+Rabbit 144 Speed 1.464385 Hunger 0.5935397 Thirst 0.5230651 Birth 26 Death 31
+Fox 30 Speed 1.449817 Hunger 0.6699259 Thirst 0.6872154 Birth 14 Death 15
+Eagle_Elite 42 Speed 1.427632 Hunger 0.8102323 Thirst 0.5924425 Birth 21 Death 27
+Plant 2024
+Rabbit 137 Speed 1.465577 Hunger 0.5827051 Thirst 0.5441589 Birth 28 Death 35
+Fox 28 Speed 1.448664 Hunger 0.6807038 Thirst 0.7024652 Birth 11 Death 13
+Eagle_Elite 40 Speed 1.431571 Hunger 0.8146577 Thirst 0.5743403 Birth 18 Death 20
+Plant 2023
+Rabbit 136 Speed 1.466495 Hunger 0.5812995 Thirst 0.5424761 Birth 27 Death 28
+Fox 28 Speed 1.448664 Hunger 0.6830999 Thirst 0.704304 Birth 16 Death 16
+Eagle_Elite 38 Speed 1.4329 Hunger 0.8238534 Thirst 0.5805584 Birth 20 Death 22
+Plant 2022
+Rabbit 132 Speed 1.471654 Hunger 0.5869097 Thirst 0.5301862 Birth 25 Death 29
+Fox 28 Speed 1.448664 Hunger 0.6854787 Thirst 0.7061294 Birth 12 Death 12
+Eagle_Elite 35 Speed 1.430009 Hunger 0.8271263 Thirst 0.6040918 Birth 18 Death 21
+Plant 2020
+Rabbit 129 Speed 1.472009 Hunger 0.579694 Thirst 0.5441583 Birth 24 Death 27
+Fox 28 Speed 1.448664 Hunger 0.6879901 Thirst 0.7080564 Birth 10 Death 10
+Eagle_Elite 31 Speed 1.438069 Hunger 0.8250755 Thirst 0.5877559 Birth 17 Death 21
+Plant 2017
+Rabbit 128 Speed 1.471883 Hunger 0.5790859 Thirst 0.549809 Birth 21 Death 22
+Fox 28 Speed 1.448664 Hunger 0.6905355 Thirst 0.7100096 Birth 13 Death 13
+Eagle_Elite 26 Speed 1.453469 Hunger 0.8202816 Thirst 0.6264483 Birth 17 Death 22
+Plant 2016
+Rabbit 125 Speed 1.472511 Hunger 0.5723099 Thirst 0.564486 Birth 32 Death 35
+Fox 27 Speed 1.445266 Hunger 0.6815698 Thirst 0.7382767 Birth 13 Death 14
+Eagle_Elite 26 Speed 1.453469 Hunger 0.8240389 Thirst 0.6286306 Birth 10 Death 10
+Plant 2015
+Rabbit 121 Speed 1.472703 Hunger 0.5827112 Thirst 0.5601739 Birth 24 Death 28
+Fox 27 Speed 1.445266 Hunger 0.6840171 Thirst 0.74032 Birth 10 Death 10
+Eagle_Elite 25 Speed 1.459374 Hunger 0.8210199 Thirst 0.6561295 Birth 14 Death 15
+Plant 2014
+Rabbit 119 Speed 1.47545 Hunger 0.5930987 Thirst 0.5541804 Birth 16 Death 18
+Fox 25 Speed 1.457419 Hunger 0.6609389 Thirst 0.7614682 Birth 12 Death 14
+Eagle_Elite 25 Speed 1.459374 Hunger 0.8244705 Thirst 0.6582363 Birth 10 Death 10
+Plant 2012
+Rabbit 118 Speed 1.473786 Hunger 0.5937034 Thirst 0.5517585 Birth 21 Death 22
+Fox 25 Speed 1.457419 Hunger 0.6629437 Thirst 0.7632597 Birth 10 Death 10
+Eagle_Elite 23 Speed 1.463701 Hunger 0.8396106 Thirst 0.6740647 Birth 9 Death 11
+Plant 2011
+Rabbit 118 Speed 1.473786 Hunger 0.5960463 Thirst 0.5531591 Birth 19 Death 19
+Fox 25 Speed 1.457419 Hunger 0.665047 Thirst 0.7651392 Birth 13 Death 13
+Eagle_Elite 23 Speed 1.463701 Hunger 0.8430911 Thirst 0.6762201 Birth 11 Death 11
+Plant 2010
+Rabbit 116 Speed 1.47513 Hunger 0.5995028 Thirst 0.5553362 Birth 17 Death 19
+Fox 25 Speed 1.457419 Hunger 0.666949 Thirst 0.7668388 Birth 9 Death 9
+Eagle_Elite 23 Speed 1.463701 Hunger 0.8462384 Thirst 0.6781694 Birth 9 Death 9
+Plant 2010
+Rabbit 115 Speed 1.475459 Hunger 0.5982403 Thirst 0.5615873 Birth 17 Death 18
+Fox 25 Speed 1.457419 Hunger 0.6690665 Thirst 0.7687309 Birth 12 Death 12
+Eagle_Elite 21 Speed 1.458568 Hunger 0.8517097 Thirst 0.6495211 Birth 9 Death 11
+Plant 2010
+Rabbit 115 Speed 1.475459 Hunger 0.6003953 Thirst 0.563019 Birth 19 Death 19
+Fox 25 Speed 1.457419 Hunger 0.6711628 Thirst 0.7706041 Birth 14 Death 14
+Eagle_Elite 20 Speed 1.465737 Hunger 0.8476226 Thirst 0.6839346 Birth 7 Death 8
+Plant 2010
+Rabbit 112 Speed 1.478746 Hunger 0.6062201 Thirst 0.5617312 Birth 16 Death 19
+Fox 25 Speed 1.457419 Hunger 0.6733063 Thirst 0.7725195 Birth 11 Death 11
+Eagle_Elite 20 Speed 1.465737 Hunger 0.8509203 Thirst 0.6859156 Birth 7 Death 7
+Plant 2009
+Rabbit 112 Speed 1.478746 Hunger 0.6082887 Thirst 0.5631834 Birth 19 Death 19
+Fox 25 Speed 1.457419 Hunger 0.6755042 Thirst 0.7744836 Birth 10 Death 10
+Eagle_Elite 20 Speed 1.465737 Hunger 0.8543018 Thirst 0.6879469 Birth 9 Death 9
+Plant 2009
+Rabbit 112 Speed 1.478746 Hunger 0.6103423 Thirst 0.5644885 Birth 14 Death 14
+Fox 24 Speed 1.458874 Hunger 0.6878842 Thirst 0.7806539 Birth 12 Death 13
+Eagle_Elite 19 Speed 1.47708 Hunger 0.8496823 Thirst 0.673295 Birth 7 Death 8
+Plant 2007
+Rabbit 110 Speed 1.478757 Hunger 0.6055232 Thirst 0.5761782 Birth 19 Death 21
+Fox 24 Speed 1.458874 Hunger 0.6898821 Thirst 0.7824169 Birth 10 Death 10
+Eagle_Elite 19 Speed 1.47708 Hunger 0.8528821 Thirst 0.6751239 Birth 8 Death 8
+Plant 2007
+Rabbit 108 Speed 1.47981 Hunger 0.6002875 Thirst 0.5883001 Birth 16 Death 18
+Fox 23 Speed 1.453289 Hunger 0.6783869 Thirst 0.8182735 Birth 7 Death 8
+Eagle_Elite 19 Speed 1.47708 Hunger 0.85608 Thirst 0.6769516 Birth 7 Death 7
+Plant 2007
+Rabbit 106 Speed 1.484465 Hunger 0.5976623 Thirst 0.5819597 Birth 16 Death 18
+Fox 22 Speed 1.463987 Hunger 0.6655724 Thirst 0.8118175 Birth 10 Death 11
+Eagle_Elite 19 Speed 1.47708 Hunger 0.859261 Thirst 0.6787697 Birth 7 Death 7
+Plant 2006
+Rabbit 106 Speed 1.484465 Hunger 0.599632 Thirst 0.583293 Birth 15 Death 15
+Fox 22 Speed 1.463987 Hunger 0.6672196 Thirst 0.8134646 Birth 8 Death 8
+Eagle_Elite 19 Speed 1.47708 Hunger 0.8623138 Thirst 0.6805146 Birth 8 Death 8
+Plant 2006
+Rabbit 105 Speed 1.483626 Hunger 0.6070211 Thirst 0.5806531 Birth 14 Death 15
+Fox 20 Speed 1.471726 Hunger 0.670121 Thirst 0.8095779 Birth 11 Death 13
+Eagle_Elite 19 Speed 1.47708 Hunger 0.865416 Thirst 0.6822877 Birth 6 Death 6
+Plant 2005
+Rabbit 104 Speed 1.48287 Hunger 0.6049088 Thirst 0.5875658 Birth 15 Death 16
+Fox 19 Speed 1.484799 Hunger 0.6770047 Thirst 0.8009266 Birth 4 Death 5
+Eagle_Elite 19 Speed 1.47708 Hunger 0.8685194 Thirst 0.6840614 Birth 6 Death 6
+Plant 2004
+Rabbit 100 Speed 1.488109 Hunger 0.6073098 Thirst 0.5923585 Birth 13 Death 17
+Fox 19 Speed 1.484799 Hunger 0.678183 Thirst 0.8021048 Birth 6 Death 6
+Eagle_Elite 18 Speed 1.480692 Hunger 0.8829019 Thirst 0.668267 Birth 7 Death 8
+Plant 2004
+Rabbit 100 Speed 1.488109 Hunger 0.6093116 Thirst 0.5936763 Birth 16 Death 16
+Fox 19 Speed 1.484799 Hunger 0.6794224 Thirst 0.8033443 Birth 6 Death 6
+Eagle_Elite 18 Speed 1.480692 Hunger 0.8859708 Thirst 0.6699026 Birth 5 Death 5
+Plant 2004
+Rabbit 98 Speed 1.490668 Hunger 0.6044379 Thirst 0.5958676 Birth 17 Death 19
+Fox 19 Speed 1.484799 Hunger 0.6806405 Thirst 0.8045624 Birth 6 Death 6
+Eagle_Elite 18 Speed 1.480692 Hunger 0.8889863 Thirst 0.67151 Birth 7 Death 7
+Plant 2004
+Rabbit 97 Speed 1.492211 Hunger 0.6022663 Thirst 0.6029648 Birth 12 Death 13
+Fox 19 Speed 1.484799 Hunger 0.6818367 Thirst 0.8057587 Birth 6 Death 6
+Eagle_Elite 17 Speed 1.483014 Hunger 0.8854613 Thirst 0.7126821 Birth 5 Death 6
+Plant 2004
+Rabbit 97 Speed 1.492211 Hunger 0.6041305 Thirst 0.6036242 Birth 13 Death 13
+Fox 19 Speed 1.484799 Hunger 0.6776604 Thirst 0.8069577 Birth 5 Death 5
+Eagle_Elite 17 Speed 1.483014 Hunger 0.8883162 Thirst 0.7143577 Birth 6 Death 6
+Plant 2004
+Rabbit 95 Speed 1.493651 Hunger 0.6027717 Thirst 0.6175665 Birth 11 Death 13
+Fox 19 Speed 1.484799 Hunger 0.6775822 Thirst 0.8082004 Birth 4 Death 4
+Eagle_Elite 17 Speed 1.483014 Hunger 0.8912745 Thirst 0.7160938 Birth 6 Death 6
+Plant 2002
+Rabbit 94 Speed 1.49384 Hunger 0.6050889 Thirst 0.6148178 Birth 10 Death 11
+Fox 18 Speed 1.492522 Hunger 0.7058133 Thirst 0.7989596 Birth 6 Death 7
+Eagle_Elite 16 Speed 1.501544 Hunger 0.8913959 Thirst 0.7003341 Birth 8 Death 9
+Plant 2002
+Rabbit 93 Speed 1.492814 Hunger 0.6046053 Thirst 0.6119107 Birth 13 Death 14
+Fox 18 Speed 1.492522 Hunger 0.7068971 Thirst 0.8000433 Birth 4 Death 4
+Eagle_Elite 15 Speed 1.502126 Hunger 0.8870935 Thirst 0.7487696 Birth 5 Death 6
+Plant 2000
+Rabbit 91 Speed 1.49219 Hunger 0.5976274 Thirst 0.6266171 Birth 15 Death 17
+Fox 18 Speed 1.492522 Hunger 0.7079712 Thirst 0.8011174 Birth 5 Death 5
+Eagle_Elite 15 Speed 1.502126 Hunger 0.889884 Thirst 0.7505004 Birth 4 Death 4
+Plant 1999
+Rabbit 88 Speed 1.49287 Hunger 0.6064724 Thirst 0.6150251 Birth 11 Death 14
+Fox 18 Speed 1.492522 Hunger 0.708974 Thirst 0.8021202 Birth 5 Death 5
+Eagle_Elite 15 Speed 1.502126 Hunger 0.8924894 Thirst 0.7521163 Birth 5 Death 5
+Plant 1999
+Rabbit 88 Speed 1.49287 Hunger 0.6081204 Thirst 0.6161156 Birth 9 Death 9
+Fox 18 Speed 1.492522 Hunger 0.7100205 Thirst 0.8031667 Birth 5 Death 5
+Eagle_Elite 15 Speed 1.502126 Hunger 0.8952084 Thirst 0.7538028 Birth 6 Death 6
+Plant 1998
+Rabbit 88 Speed 1.49287 Hunger 0.6084459 Thirst 0.6171448 Birth 8 Death 8
+Fox 17 Speed 1.503665 Hunger 0.7394946 Thirst 0.7925369 Birth 4 Death 5
+Eagle_Elite 15 Speed 1.502126 Hunger 0.8977746 Thirst 0.7553944 Birth 5 Death 5
+Plant 1997
+Rabbit 88 Speed 1.49287 Hunger 0.6097512 Thirst 0.6182147 Birth 6 Death 6
+Fox 17 Speed 1.503665 Hunger 0.7403166 Thirst 0.793359 Birth 4 Death 4
+Eagle_Elite 14 Speed 1.499814 Hunger 0.8933035 Thirst 0.7474737 Birth 4 Death 5
+Plant 1996
+Rabbit 88 Speed 1.49287 Hunger 0.6113662 Thirst 0.6193001 Birth 6 Death 6
+Fox 17 Speed 1.503665 Hunger 0.7411507 Thirst 0.794193 Birth 3 Death 3
+Eagle_Elite 14 Speed 1.499814 Hunger 0.8958187 Thirst 0.7488878 Birth 4 Death 4
+Plant 1996
+Rabbit 87 Speed 1.493273 Hunger 0.6192824 Thirst 0.6159868 Birth 9 Death 10
+Fox 17 Speed 1.503665 Hunger 0.7419952 Thirst 0.7950375 Birth 3 Death 3
+Eagle_Elite 14 Speed 1.499814 Hunger 0.8983654 Thirst 0.7503195 Birth 3 Death 3
+Plant 1995
+Rabbit 86 Speed 1.496294 Hunger 0.6273227 Thirst 0.6125517 Birth 6 Death 7
+Fox 17 Speed 1.503665 Hunger 0.7428313 Thirst 0.7958736 Birth 4 Death 4
+Eagle_Elite 14 Speed 1.499814 Hunger 0.9008866 Thirst 0.7517371 Birth 4 Death 4
+Plant 1995
+Rabbit 86 Speed 1.496294 Hunger 0.6289925 Thirst 0.6131319 Birth 7 Death 7
+Fox 17 Speed 1.503665 Hunger 0.7436907 Thirst 0.796733 Birth 4 Death 4
+Eagle_Elite 14 Speed 1.499814 Hunger 0.9034783 Thirst 0.753194 Birth 3 Death 3
+Plant 1994
+Rabbit 85 Speed 1.499025 Hunger 0.6262692 Thirst 0.6212016 Birth 8 Death 9
+Fox 17 Speed 1.503665 Hunger 0.7445312 Thirst 0.7975736 Birth 2 Death 2
+Eagle_Elite 14 Speed 1.499814 Hunger 0.9060131 Thirst 0.7546191 Birth 3 Death 3
+Plant 1994
+Rabbit 83 Speed 1.500392 Hunger 0.6176832 Thirst 0.6251251 Birth 5 Death 7
+Fox 17 Speed 1.503665 Hunger 0.7453453 Thirst 0.7983875 Birth 5 Death 5
+Eagle_Elite 14 Speed 1.499814 Hunger 0.9084677 Thirst 0.7559991 Birth 3 Death 3
+Plant 1993
+Rabbit 81 Speed 1.498834 Hunger 0.6095069 Thirst 0.641574 Birth 9 Death 11
+Fox 17 Speed 1.503665 Hunger 0.746141 Thirst 0.7991832 Birth 3 Death 3
+Eagle_Elite 13 Speed 1.494834 Hunger 0.9038188 Thirst 0.8156055 Birth 3 Death 4
+Plant 1992
+Rabbit 80 Speed 1.499439 Hunger 0.6128083 Thirst 0.6400835 Birth 9 Death 10
+Fox 17 Speed 1.503665 Hunger 0.7469949 Thirst 0.8000372 Birth 3 Death 3
+Eagle_Elite 13 Speed 1.494834 Hunger 0.9061604 Thirst 0.8171648 Birth 5 Death 5
+Plant 1991
+Rabbit 79 Speed 1.497278 Hunger 0.6204752 Thirst 0.6365422 Birth 7 Death 8
+Fox 17 Speed 1.503665 Hunger 0.7478454 Thirst 0.8008877 Birth 3 Death 3
+Eagle_Elite 13 Speed 1.494834 Hunger 0.908492 Thirst 0.8187177 Birth 3 Death 3
+Plant 1990
+Rabbit 79 Speed 1.497278 Hunger 0.6215031 Thirst 0.6374977 Birth 6 Death 6
+Fox 17 Speed 1.503665 Hunger 0.7486835 Thirst 0.8017257 Birth 3 Death 3
+Eagle_Elite 13 Speed 1.494834 Hunger 0.9107892 Thirst 0.8202475 Birth 4 Death 4
+Plant 1989
+Rabbit 79 Speed 1.497278 Hunger 0.6227213 Thirst 0.638419 Birth 7 Death 7
+Fox 17 Speed 1.503665 Hunger 0.7494913 Thirst 0.8025336 Birth 2 Death 2
+Eagle_Elite 12 Speed 1.509214 Hunger 0.9056689 Thirst 0.8901995 Birth 3 Death 4
+Plant 1989
+Rabbit 79 Speed 1.497278 Hunger 0.6243629 Thirst 0.6389349 Birth 8 Death 8
+Fox 17 Speed 1.503665 Hunger 0.7503581 Thirst 0.8034005 Birth 3 Death 3
+Eagle_Elite 12 Speed 1.509214 Hunger 0.9078419 Thirst 0.8919141 Birth 3 Death 3
+Plant 1989
+Rabbit 78 Speed 1.498834 Hunger 0.6210784 Thirst 0.6480121 Birth 7 Death 8
+Fox 17 Speed 1.503665 Hunger 0.751182 Thirst 0.8042242 Birth 4 Death 4
+Eagle_Elite 12 Speed 1.509214 Hunger 0.9099069 Thirst 0.8935434 Birth 4 Death 4
+Plant 1989
+Rabbit 78 Speed 1.498834 Hunger 0.6225491 Thirst 0.6488698 Birth 6 Death 6
+Fox 17 Speed 1.503665 Hunger 0.7519796 Thirst 0.8050219 Birth 4 Death 4
+Eagle_Elite 11 Speed 1.505081 Hunger 0.9036644 Thirst 0.8878805 Birth 2 Death 3
+Plant 1989
+Rabbit 78 Speed 1.498834 Hunger 0.6236947 Thirst 0.6486268 Birth 6 Death 6
+Fox 17 Speed 1.503665 Hunger 0.7527981 Thirst 0.8058404 Birth 3 Death 3
+Eagle_Elite 11 Speed 1.505081 Hunger 0.9054164 Thirst 0.8891603 Birth 2 Death 2
+Plant 1988
+Rabbit 77 Speed 1.501284 Hunger 0.6189714 Thirst 0.6557521 Birth 5 Death 6
+Fox 17 Speed 1.503665 Hunger 0.7535959 Thirst 0.8066382 Birth 4 Death 4
+Eagle_Elite 11 Speed 1.505081 Hunger 0.9071239 Thirst 0.8904076 Birth 2 Death 2
+Plant 1987
+Rabbit 76 Speed 1.500361 Hunger 0.6154605 Thirst 0.6630677 Birth 4 Death 5
+Fox 16 Speed 1.522545 Hunger 0.7718468 Thirst 0.795185 Birth 2 Death 3
+Eagle_Elite 11 Speed 1.505081 Hunger 0.9089016 Thirst 0.8917061 Birth 3 Death 3
+Plant 1985
+Rabbit 76 Speed 1.500361 Hunger 0.6164318 Thirst 0.6617979 Birth 6 Death 6
+Fox 16 Speed 1.522545 Hunger 0.7724467 Thirst 0.7957849 Birth 2 Death 2
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9014531 Thirst 0.9187905 Birth 1 Death 2
+Plant 1985
+Rabbit 76 Speed 1.500361 Hunger 0.617617 Thirst 0.6605003 Birth 7 Death 7
+Fox 16 Speed 1.522545 Hunger 0.7730598 Thirst 0.7963979 Birth 2 Death 2
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9029084 Thirst 0.9197248 Birth 2 Death 2
+Plant 1984
+Rabbit 76 Speed 1.500361 Hunger 0.6188725 Thirst 0.6589288 Birth 9 Death 9
+Fox 15 Speed 1.531625 Hunger 0.7583688 Thirst 0.8188688 Birth 2 Death 3
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9043585 Thirst 0.9206557 Birth 1 Death 1
+Plant 1984
+Rabbit 76 Speed 1.500361 Hunger 0.6200124 Thirst 0.6586711 Birth 5 Death 5
+Fox 15 Speed 1.531625 Hunger 0.7587 Thirst 0.8191999 Birth 1 Death 1
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9057975 Thirst 0.9215797 Birth 1 Death 1
+Plant 1984
+Rabbit 76 Speed 1.500361 Hunger 0.6213349 Thirst 0.6594779 Birth 4 Death 4
+Fox 15 Speed 1.531625 Hunger 0.7590269 Thirst 0.8195269 Birth 1 Death 1
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9072183 Thirst 0.9224917 Birth 1 Death 1
+Plant 1984
+Rabbit 76 Speed 1.500361 Hunger 0.6226748 Thirst 0.6602956 Birth 3 Death 3
+Fox 15 Speed 1.531625 Hunger 0.7593583 Thirst 0.8198583 Birth 2 Death 2
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9086579 Thirst 0.923416 Birth 1 Death 1
+Plant 1984
+Rabbit 73 Speed 1.497594 Hunger 0.6294208 Thirst 0.6504331 Birth 2 Death 5
+Fox 15 Speed 1.531625 Hunger 0.7596979 Thirst 0.8201978 Birth 1 Death 1
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9101332 Thirst 0.9243631 Birth 1 Death 1
+Plant 1984
+Rabbit 73 Speed 1.497594 Hunger 0.6302564 Thirst 0.6511606 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.7600421 Thirst 0.820542 Birth 1 Death 1
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9116287 Thirst 0.9253233 Birth 1 Death 1
+Plant 1983
+Rabbit 73 Speed 1.497594 Hunger 0.6301063 Thirst 0.6518645 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7603751 Thirst 0.820875 Birth 1 Death 1
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9130756 Thirst 0.9262522 Birth 1 Death 1
+Plant 1983
+Rabbit 73 Speed 1.497594 Hunger 0.6313484 Thirst 0.6523095 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7607057 Thirst 0.8212057 Birth 2 Death 2
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9145118 Thirst 0.9271742 Birth 1 Death 1
+Plant 1983
+Rabbit 72 Speed 1.500815 Hunger 0.6273313 Thirst 0.6620609 Birth 2 Death 3
+Fox 15 Speed 1.531625 Hunger 0.7610636 Thirst 0.8215636 Birth 1 Death 1
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9160672 Thirst 0.9281728 Birth 2 Death 2
+Plant 1983
+Rabbit 72 Speed 1.500815 Hunger 0.6267007 Thirst 0.6627395 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7614149 Thirst 0.8219149 Birth 1 Death 1
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9175937 Thirst 0.9291528 Birth 1 Death 1
+Plant 1983
+Rabbit 72 Speed 1.500815 Hunger 0.6277013 Thirst 0.663432 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7617467 Thirst 0.8222467 Birth 2 Death 2
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9190351 Thirst 0.9300781 Birth 0 Death 0
+Plant 1983
+Rabbit 72 Speed 1.500815 Hunger 0.6283418 Thirst 0.6641808 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7620962 Thirst 0.8225961 Birth 1 Death 1
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9205531 Thirst 0.9310528 Birth 2 Death 2
+Plant 1982
+Rabbit 72 Speed 1.500815 Hunger 0.629432 Thirst 0.6649272 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7624444 Thirst 0.8229444 Birth 1 Death 1
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9220663 Thirst 0.9320243 Birth 1 Death 1
+Plant 1982
+Rabbit 71 Speed 1.500311 Hunger 0.6392903 Thirst 0.660655 Birth 2 Death 3
+Fox 15 Speed 1.531625 Hunger 0.7627862 Thirst 0.8232862 Birth 2 Death 2
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9235514 Thirst 0.9329778 Birth 1 Death 1
+Plant 1982
+Rabbit 71 Speed 1.500311 Hunger 0.6403498 Thirst 0.6612563 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7631326 Thirst 0.8236327 Birth 1 Death 1
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9250566 Thirst 0.9339441 Birth 1 Death 1
+Plant 1982
+Rabbit 70 Speed 1.499833 Hunger 0.6361699 Thirst 0.671282 Birth 0 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7634617 Thirst 0.8239616 Birth 1 Death 1
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9264862 Thirst 0.9348618 Birth 1 Death 1
+Plant 1982
+Rabbit 70 Speed 1.499833 Hunger 0.6371651 Thirst 0.6719611 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7638077 Thirst 0.8243076 Birth 2 Death 2
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9279896 Thirst 0.9358271 Birth 1 Death 1
+Plant 1981
+Rabbit 70 Speed 1.499833 Hunger 0.6378729 Thirst 0.6726072 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7641343 Thirst 0.8246344 Birth 1 Death 1
+Eagle_Elite 10 Speed 1.517191 Hunger 0.929409 Thirst 0.9367383 Birth 1 Death 1
+Plant 1981
+Rabbit 70 Speed 1.499833 Hunger 0.6388483 Thirst 0.6730941 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7644736 Thirst 0.8249735 Birth 2 Death 2
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9308826 Thirst 0.9376842 Birth 1 Death 1
+Plant 1980
+Rabbit 70 Speed 1.499833 Hunger 0.6399221 Thirst 0.6736722 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7648159 Thirst 0.8253158 Birth 1 Death 1
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9323699 Thirst 0.9386393 Birth 1 Death 1
+Plant 1979
+Rabbit 70 Speed 1.499833 Hunger 0.6410241 Thirst 0.6743146 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.7651407 Thirst 0.8256406 Birth 1 Death 1
+Eagle_Elite 10 Speed 1.517191 Hunger 0.933781 Thirst 0.9395452 Birth 1 Death 1
+Plant 1978
+Rabbit 67 Speed 1.498866 Hunger 0.6462608 Thirst 0.6809046 Birth 4 Death 7
+Fox 15 Speed 1.531625 Hunger 0.7654738 Thirst 0.8259737 Birth 1 Death 1
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9352283 Thirst 0.9404744 Birth 1 Death 1
+Plant 1978
+Rabbit 67 Speed 1.498866 Hunger 0.6474476 Thirst 0.6815174 Birth 3 Death 3
+Fox 15 Speed 1.531625 Hunger 0.7658055 Thirst 0.8263055 Birth 2 Death 2
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9366697 Thirst 0.9413997 Birth 1 Death 1
+Plant 1978
+Rabbit 67 Speed 1.498866 Hunger 0.6484375 Thirst 0.6821261 Birth 5 Death 5
+Fox 15 Speed 1.531625 Hunger 0.766135 Thirst 0.826635 Birth 1 Death 1
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9381011 Thirst 0.9423187 Birth 1 Death 1
+Plant 1978
+Rabbit 66 Speed 1.500234 Hunger 0.644216 Thirst 0.6926821 Birth 3 Death 4
+Fox 15 Speed 1.531625 Hunger 0.7664586 Thirst 0.8269586 Birth 1 Death 1
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9395074 Thirst 0.9432216 Birth 1 Death 1
+Plant 1978
+Rabbit 64 Speed 1.500167 Hunger 0.6341643 Thirst 0.71495 Birth 2 Death 4
+Fox 15 Speed 1.531625 Hunger 0.7667978 Thirst 0.8272977 Birth 1 Death 1
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9409809 Thirst 0.9441675 Birth 1 Death 1
+Plant 1977
+Rabbit 64 Speed 1.500167 Hunger 0.6351999 Thirst 0.715608 Birth 4 Death 4
+Fox 15 Speed 1.531625 Hunger 0.7671381 Thirst 0.827638 Birth 2 Death 2
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9424592 Thirst 0.9451166 Birth 1 Death 1
+Plant 1977
+Rabbit 64 Speed 1.500167 Hunger 0.6357179 Thirst 0.7162558 Birth 4 Death 4
+Fox 15 Speed 1.531625 Hunger 0.767473 Thirst 0.8279729 Birth 1 Death 1
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9439145 Thirst 0.9460509 Birth 1 Death 1
+Plant 1977
+Rabbit 64 Speed 1.500167 Hunger 0.636709 Thirst 0.7169136 Birth 5 Death 5
+Fox 15 Speed 1.531625 Hunger 0.7678131 Thirst 0.8283131 Birth 2 Death 2
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9453923 Thirst 0.9469997 Birth 1 Death 1
+Plant 1977
+Rabbit 64 Speed 1.500167 Hunger 0.6376849 Thirst 0.7171901 Birth 3 Death 3
+Fox 15 Speed 1.531625 Hunger 0.7681462 Thirst 0.8286461 Birth 2 Death 2
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9468392 Thirst 0.9479285 Birth 2 Death 2
+Plant 1977
+Rabbit 64 Speed 1.500167 Hunger 0.6386324 Thirst 0.7177581 Birth 3 Death 3
+Fox 15 Speed 1.531625 Hunger 0.7684694 Thirst 0.8289693 Birth 1 Death 1
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9482439 Thirst 0.9488303 Birth 1 Death 1
+Plant 1977
+Rabbit 64 Speed 1.500167 Hunger 0.6396292 Thirst 0.718416 Birth 4 Death 4
+Fox 15 Speed 1.531625 Hunger 0.7688095 Thirst 0.8293095 Birth 2 Death 2
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9497217 Thirst 0.9497792 Birth 1 Death 1
+Plant 1977
+Rabbit 62 Speed 1.497229 Hunger 0.6285673 Thirst 0.7422637 Birth 3 Death 5
+Fox 15 Speed 1.531625 Hunger 0.7691467 Thirst 0.8296467 Birth 1 Death 1
+Eagle_Elite 10 Speed 1.517191 Hunger 0.9511867 Thirst 0.9507197 Birth 0 Death 0
+Plant 1976
+Rabbit 61 Speed 1.499016 Hunger 0.6386067 Thirst 0.7386611 Birth 2 Death 3
+Fox 15 Speed 1.531625 Hunger 0.7694823 Thirst 0.8299822 Birth 1 Death 1
+Eagle_Elite 9 Speed 1.54655 Hunger 0.9770097 Thirst 0.9460701 Birth 1 Death 2
+Plant 1976
+Rabbit 60 Speed 1.498277 Hunger 0.6488096 Thirst 0.7348727 Birth 3 Death 4
+Fox 15 Speed 1.531625 Hunger 0.7698011 Thirst 0.830301 Birth 1 Death 1
+Eagle_Elite 9 Speed 1.54655 Hunger 0.9780912 Thirst 0.9466008 Birth 0 Death 0
+Plant 1976
+Rabbit 60 Speed 1.498277 Hunger 0.6487377 Thirst 0.7349557 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.7701398 Thirst 0.8306398 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9761083 Thirst 1.06556 Birth 0 Death 1
+Plant 1976
+Rabbit 60 Speed 1.498277 Hunger 0.6484535 Thirst 0.7354769 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7704874 Thirst 0.8309873 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9767589 Thirst 1.066211 Birth 0 Death 0
+Plant 1976
+Rabbit 60 Speed 1.498277 Hunger 0.6487795 Thirst 0.7360212 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.7708364 Thirst 0.8313363 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9774126 Thirst 1.066865 Birth 0 Death 0
+Plant 1976
+Rabbit 60 Speed 1.498277 Hunger 0.6492304 Thirst 0.7365534 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7711775 Thirst 0.8316775 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9780517 Thirst 1.067504 Birth 0 Death 0
+Plant 1976
+Rabbit 60 Speed 1.498277 Hunger 0.6498247 Thirst 0.7370692 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7715084 Thirst 0.8320084 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9786711 Thirst 1.068123 Birth 0 Death 0
+Plant 1976
+Rabbit 60 Speed 1.498277 Hunger 0.6504471 Thirst 0.7371945 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7718549 Thirst 0.8323548 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9793203 Thirst 1.068772 Birth 0 Death 0
+Plant 1975
+Rabbit 60 Speed 1.498277 Hunger 0.6510931 Thirst 0.7376525 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7721733 Thirst 0.8326733 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9799164 Thirst 1.069369 Birth 0 Death 0
+Plant 1975
+Rabbit 60 Speed 1.498277 Hunger 0.6517956 Thirst 0.7381815 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.7725126 Thirst 0.8330125 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9805518 Thirst 1.070004 Birth 0 Death 0
+Plant 1974
+Rabbit 60 Speed 1.498277 Hunger 0.6520979 Thirst 0.7386902 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.7728387 Thirst 0.8333387 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9811626 Thirst 1.070615 Birth 0 Death 0
+Plant 1974
+Rabbit 60 Speed 1.498277 Hunger 0.6526965 Thirst 0.7392099 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.773172 Thirst 0.8336719 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9817868 Thirst 1.071239 Birth 0 Death 0
+Plant 1974
+Rabbit 60 Speed 1.498277 Hunger 0.6529287 Thirst 0.7397292 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.773505 Thirst 0.834005 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9824104 Thirst 1.071863 Birth 0 Death 0
+Plant 1974
+Rabbit 60 Speed 1.498277 Hunger 0.6533526 Thirst 0.7402657 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.773849 Thirst 0.8343489 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9830547 Thirst 1.072507 Birth 0 Death 0
+Plant 1974
+Rabbit 60 Speed 1.498277 Hunger 0.6539665 Thirst 0.7407988 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7741908 Thirst 0.8346907 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 0.983695 Thirst 1.073147 Birth 0 Death 0
+Plant 1973
+Rabbit 60 Speed 1.498277 Hunger 0.6545647 Thirst 0.741318 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7745238 Thirst 0.8350238 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9843186 Thirst 1.073771 Birth 0 Death 0
+Plant 1972
+Rabbit 60 Speed 1.498277 Hunger 0.6551893 Thirst 0.7418286 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7748512 Thirst 0.8353512 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9849316 Thirst 1.074384 Birth 0 Death 0
+Plant 1972
+Rabbit 60 Speed 1.498277 Hunger 0.655982 Thirst 0.7423627 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7751936 Thirst 0.8356936 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9855731 Thirst 1.075025 Birth 0 Death 0
+Plant 1972
+Rabbit 60 Speed 1.498277 Hunger 0.6567364 Thirst 0.7428711 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.7755197 Thirst 0.8360196 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9861836 Thirst 1.075636 Birth 0 Death 0
+Plant 1972
+Rabbit 60 Speed 1.498277 Hunger 0.6569793 Thirst 0.7433907 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.775853 Thirst 0.8363529 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9868078 Thirst 1.07626 Birth 0 Death 0
+Plant 1972
+Rabbit 60 Speed 1.498277 Hunger 0.6577371 Thirst 0.7439258 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7761961 Thirst 0.836696 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9874502 Thirst 1.076902 Birth 0 Death 0
+Plant 1972
+Rabbit 59 Speed 1.496588 Hunger 0.6696718 Thirst 0.7400492 Birth 2 Death 3
+Fox 15 Speed 1.531625 Hunger 0.7765302 Thirst 0.8370302 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 0.988076 Thirst 1.077528 Birth 0 Death 0
+Plant 1972
+Rabbit 59 Speed 1.496588 Hunger 0.6693642 Thirst 0.7404889 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.7768667 Thirst 0.8373666 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9887062 Thirst 1.078158 Birth 0 Death 0
+Plant 1972
+Rabbit 59 Speed 1.496588 Hunger 0.6699947 Thirst 0.7395951 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7772118 Thirst 0.8377117 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9893526 Thirst 1.078805 Birth 0 Death 0
+Plant 1972
+Rabbit 59 Speed 1.496588 Hunger 0.6706098 Thirst 0.7400296 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7775485 Thirst 0.8380484 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9899833 Thirst 1.079435 Birth 0 Death 0
+Plant 1972
+Rabbit 59 Speed 1.496588 Hunger 0.6712362 Thirst 0.7404777 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7778914 Thirst 0.8383914 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9906256 Thirst 1.080078 Birth 0 Death 0
+Plant 1972
+Rabbit 59 Speed 1.496588 Hunger 0.6712669 Thirst 0.7409116 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7782236 Thirst 0.8387235 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9912474 Thirst 1.0807 Birth 0 Death 0
+Plant 1972
+Rabbit 59 Speed 1.496588 Hunger 0.6717889 Thirst 0.7413467 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7785565 Thirst 0.8390564 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9918708 Thirst 1.081323 Birth 0 Death 0
+Plant 1972
+Rabbit 58 Speed 1.497658 Hunger 0.6666794 Thirst 0.7545763 Birth 0 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7788933 Thirst 0.8393933 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9925018 Thirst 1.081954 Birth 0 Death 0
+Plant 1972
+Rabbit 58 Speed 1.497658 Hunger 0.6672164 Thirst 0.7550214 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7792281 Thirst 0.8397281 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9931288 Thirst 1.082581 Birth 0 Death 0
+Plant 1972
+Rabbit 58 Speed 1.497658 Hunger 0.6675532 Thirst 0.7554732 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.779568 Thirst 0.8400679 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9937654 Thirst 1.083218 Birth 0 Death 0
+Plant 1972
+Rabbit 58 Speed 1.497658 Hunger 0.668047 Thirst 0.7559222 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7799059 Thirst 0.8404056 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9943979 Thirst 1.08385 Birth 0 Death 0
+Plant 1972
+Rabbit 58 Speed 1.497658 Hunger 0.6685785 Thirst 0.7563629 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7802373 Thirst 0.8407372 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9950188 Thirst 1.084471 Birth 0 Death 0
+Plant 1971
+Rabbit 58 Speed 1.497658 Hunger 0.6690688 Thirst 0.7568029 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7805683 Thirst 0.8410681 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9956387 Thirst 1.085091 Birth 0 Death 0
+Plant 1971
+Rabbit 58 Speed 1.497658 Hunger 0.6695949 Thirst 0.7572391 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7808965 Thirst 0.8413963 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9962532 Thirst 1.085705 Birth 0 Death 0
+Plant 1971
+Rabbit 58 Speed 1.497658 Hunger 0.6701267 Thirst 0.75768 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7812281 Thirst 0.841728 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9968744 Thirst 1.086327 Birth 0 Death 0
+Plant 1970
+Rabbit 58 Speed 1.497658 Hunger 0.6702307 Thirst 0.7581285 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7815655 Thirst 0.8420655 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9975062 Thirst 1.086958 Birth 0 Death 0
+Plant 1970
+Rabbit 58 Speed 1.497658 Hunger 0.6707619 Thirst 0.7585791 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7819045 Thirst 0.8424044 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9981411 Thirst 1.087593 Birth 0 Death 0
+Plant 1970
+Rabbit 58 Speed 1.497658 Hunger 0.6712921 Thirst 0.7590188 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.7822353 Thirst 0.8427352 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9987606 Thirst 1.088213 Birth 0 Death 0
+Plant 1970
+Rabbit 58 Speed 1.497658 Hunger 0.6718131 Thirst 0.7594507 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7825602 Thirst 0.8430601 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9993691 Thirst 1.088821 Birth 0 Death 0
+Plant 1969
+Rabbit 58 Speed 1.497658 Hunger 0.6723514 Thirst 0.7598763 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7828802 Thirst 0.8433802 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 0.9999687 Thirst 1.089421 Birth 0 Death 0
+Plant 1969
+Rabbit 58 Speed 1.497658 Hunger 0.6730855 Thirst 0.7603325 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7832235 Thirst 0.8437233 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.000611 Thirst 1.090063 Birth 0 Death 0
+Plant 1969
+Rabbit 58 Speed 1.497658 Hunger 0.6733018 Thirst 0.7607856 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.7835644 Thirst 0.8440644 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.00125 Thirst 1.090702 Birth 0 Death 0
+Plant 1969
+Rabbit 58 Speed 1.497658 Hunger 0.6740037 Thirst 0.7612292 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.7838981 Thirst 0.8443978 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.001875 Thirst 1.091327 Birth 0 Death 0
+Plant 1969
+Rabbit 58 Speed 1.497658 Hunger 0.6739519 Thirst 0.7616592 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.7842215 Thirst 0.8447215 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.002481 Thirst 1.091933 Birth 0 Death 0
+Plant 1969
+Rabbit 58 Speed 1.497658 Hunger 0.6744872 Thirst 0.7607177 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7845554 Thirst 0.8450554 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.003106 Thirst 1.092558 Birth 0 Death 0
+Plant 1969
+Rabbit 58 Speed 1.497658 Hunger 0.6750327 Thirst 0.7605835 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7848957 Thirst 0.8453957 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.003743 Thirst 1.093195 Birth 0 Death 0
+Plant 1969
+Rabbit 57 Speed 1.495375 Hunger 0.6698269 Thirst 0.7743806 Birth 1 Death 2
+Fox 15 Speed 1.531625 Hunger 0.785231 Thirst 0.845731 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.004371 Thirst 1.093823 Birth 0 Death 0
+Plant 1969
+Rabbit 57 Speed 1.495375 Hunger 0.6701294 Thirst 0.7748368 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.7855682 Thirst 0.8460682 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.005003 Thirst 1.094455 Birth 0 Death 0
+Plant 1968
+Rabbit 57 Speed 1.495375 Hunger 0.6702372 Thirst 0.7752761 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7858931 Thirst 0.8463929 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.005611 Thirst 1.095063 Birth 0 Death 0
+Plant 1968
+Rabbit 57 Speed 1.495375 Hunger 0.6706849 Thirst 0.7757291 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7862279 Thirst 0.8467279 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.006238 Thirst 1.09569 Birth 0 Death 0
+Plant 1968
+Rabbit 56 Speed 1.49439 Hunger 0.6648754 Thirst 0.7900329 Birth 1 Death 2
+Fox 15 Speed 1.531625 Hunger 0.786556 Thirst 0.8470558 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.006852 Thirst 1.096305 Birth 0 Death 0
+Plant 1968
+Rabbit 56 Speed 1.49439 Hunger 0.6651431 Thirst 0.7904919 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7868893 Thirst 0.8473891 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.007477 Thirst 1.096929 Birth 0 Death 0
+Plant 1968
+Rabbit 56 Speed 1.49439 Hunger 0.6654189 Thirst 0.7909643 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7872325 Thirst 0.8477323 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.008119 Thirst 1.097572 Birth 0 Death 0
+Plant 1968
+Rabbit 56 Speed 1.49439 Hunger 0.6656889 Thirst 0.7914271 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7875685 Thirst 0.8480685 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.008749 Thirst 1.098201 Birth 0 Death 0
+Plant 1968
+Rabbit 56 Speed 1.49439 Hunger 0.6659651 Thirst 0.7919005 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7879124 Thirst 0.8484122 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.009393 Thirst 1.098845 Birth 0 Death 0
+Plant 1968
+Rabbit 56 Speed 1.49439 Hunger 0.6662312 Thirst 0.7923563 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7882435 Thirst 0.8487433 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.010013 Thirst 1.099465 Birth 0 Death 0
+Plant 1968
+Rabbit 56 Speed 1.49439 Hunger 0.6665064 Thirst 0.792828 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.788586 Thirst 0.849086 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.010654 Thirst 1.100107 Birth 0 Death 0
+Plant 1968
+Rabbit 56 Speed 1.49439 Hunger 0.666779 Thirst 0.7932952 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7889254 Thirst 0.8494253 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.01129 Thirst 1.100742 Birth 0 Death 0
+Plant 1968
+Rabbit 56 Speed 1.49439 Hunger 0.6670495 Thirst 0.7937587 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7892621 Thirst 0.849762 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.011921 Thirst 1.101373 Birth 0 Death 0
+Plant 1968
+Rabbit 56 Speed 1.49439 Hunger 0.6673272 Thirst 0.7942346 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7896078 Thirst 0.8501076 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.012568 Thirst 1.10202 Birth 0 Death 0
+Plant 1968
+Rabbit 56 Speed 1.49439 Hunger 0.6676573 Thirst 0.7947068 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7899507 Thirst 0.8504505 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.01321 Thirst 1.102662 Birth 0 Death 0
+Plant 1968
+Rabbit 56 Speed 1.49439 Hunger 0.6680275 Thirst 0.7951807 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7902949 Thirst 0.8507947 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.013855 Thirst 1.103307 Birth 0 Death 0
+Plant 1968
+Rabbit 56 Speed 1.49439 Hunger 0.6681347 Thirst 0.7956184 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7906128 Thirst 0.8511126 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.01445 Thirst 1.103902 Birth 0 Death 0
+Plant 1967
+Rabbit 56 Speed 1.49439 Hunger 0.6685228 Thirst 0.7961031 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7909649 Thirst 0.8514647 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.015109 Thirst 1.104562 Birth 0 Death 0
+Plant 1967
+Rabbit 56 Speed 1.49439 Hunger 0.6690593 Thirst 0.7965559 Birth 3 Death 3
+Fox 15 Speed 1.531625 Hunger 0.7912939 Thirst 0.8517936 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.015726 Thirst 1.105178 Birth 0 Death 0
+Plant 1967
+Rabbit 56 Speed 1.49439 Hunger 0.6689678 Thirst 0.7970461 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.7916498 Thirst 0.8521497 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.016392 Thirst 1.105844 Birth 0 Death 0
+Plant 1966
+Rabbit 56 Speed 1.49439 Hunger 0.6692691 Thirst 0.797514 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7919896 Thirst 0.8524895 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.017029 Thirst 1.106481 Birth 0 Death 0
+Plant 1966
+Rabbit 56 Speed 1.49439 Hunger 0.6696534 Thirst 0.7980058 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7923468 Thirst 0.8528468 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.017698 Thirst 1.10715 Birth 0 Death 0
+Plant 1966
+Rabbit 55 Speed 1.496457 Hunger 0.6639612 Thirst 0.8129934 Birth 1 Death 2
+Fox 15 Speed 1.531625 Hunger 0.7926881 Thirst 0.8531879 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.018337 Thirst 1.107789 Birth 0 Death 0
+Plant 1966
+Rabbit 55 Speed 1.496457 Hunger 0.6642448 Thirst 0.8134686 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7930271 Thirst 0.8535269 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.018972 Thirst 1.108424 Birth 0 Death 0
+Plant 1966
+Rabbit 55 Speed 1.496457 Hunger 0.6645218 Thirst 0.8139327 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.7933582 Thirst 0.8538581 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.019592 Thirst 1.109044 Birth 0 Death 0
+Plant 1966
+Rabbit 55 Speed 1.496457 Hunger 0.6648124 Thirst 0.8144199 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7937058 Thirst 0.8542055 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.020243 Thirst 1.109695 Birth 0 Death 0
+Plant 1966
+Rabbit 55 Speed 1.496457 Hunger 0.6650962 Thirst 0.8148952 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7940449 Thirst 0.8545447 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.020878 Thirst 1.11033 Birth 0 Death 0
+Plant 1966
+Rabbit 55 Speed 1.496457 Hunger 0.6647267 Thirst 0.8153507 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7943696 Thirst 0.8548696 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.021486 Thirst 1.110938 Birth 0 Death 0
+Plant 1966
+Rabbit 55 Speed 1.496457 Hunger 0.6648838 Thirst 0.8158044 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7946932 Thirst 0.8551932 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.022092 Thirst 1.111544 Birth 0 Death 0
+Plant 1966
+Rabbit 55 Speed 1.496457 Hunger 0.6651723 Thirst 0.8144743 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7950382 Thirst 0.8555381 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.022738 Thirst 1.11219 Birth 0 Death 0
+Plant 1966
+Rabbit 55 Speed 1.496457 Hunger 0.6652375 Thirst 0.8138508 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7953673 Thirst 0.8558671 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.023354 Thirst 1.112807 Birth 0 Death 0
+Plant 1966
+Rabbit 55 Speed 1.496457 Hunger 0.6654252 Thirst 0.8143213 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7957029 Thirst 0.8562027 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.023983 Thirst 1.113435 Birth 0 Death 0
+Plant 1965
+Rabbit 55 Speed 1.496457 Hunger 0.6657277 Thirst 0.8147915 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7960383 Thirst 0.8565382 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.024611 Thirst 1.114063 Birth 0 Death 0
+Plant 1965
+Rabbit 55 Speed 1.496457 Hunger 0.6661204 Thirst 0.815281 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7963875 Thirst 0.8568873 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.025265 Thirst 1.114717 Birth 0 Death 0
+Plant 1965
+Rabbit 55 Speed 1.496457 Hunger 0.6660047 Thirst 0.8157736 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.7967389 Thirst 0.8572388 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.025923 Thirst 1.115376 Birth 0 Death 0
+Plant 1965
+Rabbit 55 Speed 1.496457 Hunger 0.6661929 Thirst 0.8162454 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7970754 Thirst 0.8575752 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.026553 Thirst 1.116006 Birth 0 Death 0
+Plant 1965
+Rabbit 55 Speed 1.496457 Hunger 0.6663729 Thirst 0.8166962 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7973971 Thirst 0.8578969 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.027156 Thirst 1.116608 Birth 0 Death 0
+Plant 1964
+Rabbit 55 Speed 1.496457 Hunger 0.6665994 Thirst 0.8171637 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7977305 Thirst 0.8582304 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.02778 Thirst 1.117233 Birth 0 Death 0
+Plant 1964
+Rabbit 55 Speed 1.496457 Hunger 0.6669781 Thirst 0.8176357 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7980672 Thirst 0.8585671 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.028411 Thirst 1.117863 Birth 0 Death 0
+Plant 1964
+Rabbit 55 Speed 1.496457 Hunger 0.6669355 Thirst 0.8181065 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.798403 Thirst 0.8589029 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.02904 Thirst 1.118492 Birth 0 Death 0
+Plant 1964
+Rabbit 55 Speed 1.496457 Hunger 0.6671193 Thirst 0.818567 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7987316 Thirst 0.8592314 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.029655 Thirst 1.119107 Birth 0 Death 0
+Plant 1964
+Rabbit 55 Speed 1.496457 Hunger 0.6673071 Thirst 0.8190379 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7990674 Thirst 0.8595673 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.030284 Thirst 1.119736 Birth 0 Death 0
+Plant 1964
+Rabbit 55 Speed 1.496457 Hunger 0.667497 Thirst 0.8195137 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7994069 Thirst 0.8599068 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.03092 Thirst 1.120372 Birth 0 Death 0
+Plant 1964
+Rabbit 55 Speed 1.496457 Hunger 0.6676773 Thirst 0.8199654 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.7997292 Thirst 0.860229 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.031523 Thirst 1.120975 Birth 0 Death 0
+Plant 1964
+Rabbit 55 Speed 1.496457 Hunger 0.6678615 Thirst 0.820427 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8000585 Thirst 0.8605583 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.03214 Thirst 1.121592 Birth 0 Death 0
+Plant 1963
+Rabbit 55 Speed 1.496457 Hunger 0.6681369 Thirst 0.8209112 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8004038 Thirst 0.8609037 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.032787 Thirst 1.122239 Birth 0 Death 0
+Plant 1963
+Rabbit 55 Speed 1.496457 Hunger 0.6684191 Thirst 0.8213841 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8007412 Thirst 0.861241 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.033418 Thirst 1.122871 Birth 0 Death 0
+Plant 1963
+Rabbit 55 Speed 1.496457 Hunger 0.6686879 Thirst 0.8218346 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8010625 Thirst 0.8615624 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.03402 Thirst 1.123473 Birth 0 Death 0
+Plant 1963
+Rabbit 55 Speed 1.496457 Hunger 0.6689831 Thirst 0.8223293 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8014155 Thirst 0.8619153 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.034681 Thirst 1.124134 Birth 0 Death 0
+Plant 1963
+Rabbit 55 Speed 1.496457 Hunger 0.6688107 Thirst 0.822806 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8017555 Thirst 0.8622553 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.035318 Thirst 1.124771 Birth 0 Death 0
+Plant 1963
+Rabbit 55 Speed 1.496457 Hunger 0.6689951 Thirst 0.8232682 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8020852 Thirst 0.8625851 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.035936 Thirst 1.125388 Birth 0 Death 0
+Plant 1963
+Rabbit 55 Speed 1.496457 Hunger 0.6691868 Thirst 0.8237486 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8024279 Thirst 0.8629277 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.036577 Thirst 1.12603 Birth 0 Death 0
+Plant 1963
+Rabbit 55 Speed 1.496457 Hunger 0.6693777 Thirst 0.8242272 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8027694 Thirst 0.8632692 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.037217 Thirst 1.126669 Birth 0 Death 0
+Plant 1963
+Rabbit 55 Speed 1.496457 Hunger 0.6695642 Thirst 0.8246943 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8031026 Thirst 0.8636025 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.037841 Thirst 1.127293 Birth 0 Death 0
+Plant 1963
+Rabbit 55 Speed 1.496457 Hunger 0.6697557 Thirst 0.8251745 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.803445 Thirst 0.8639449 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.038482 Thirst 1.127935 Birth 0 Death 0
+Plant 1963
+Rabbit 55 Speed 1.496457 Hunger 0.6699423 Thirst 0.825642 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8037787 Thirst 0.8642786 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.039107 Thirst 1.128559 Birth 0 Death 0
+Plant 1963
+Rabbit 55 Speed 1.496457 Hunger 0.6701354 Thirst 0.826126 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8041239 Thirst 0.8646238 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.039754 Thirst 1.129206 Birth 0 Death 0
+Plant 1963
+Rabbit 55 Speed 1.496457 Hunger 0.6703219 Thirst 0.8265933 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8044572 Thirst 0.864957 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.040378 Thirst 1.12983 Birth 0 Death 0
+Plant 1963
+Rabbit 55 Speed 1.496457 Hunger 0.6705108 Thirst 0.8270667 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.804795 Thirst 0.8652948 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.04101 Thirst 1.130463 Birth 0 Death 0
+Plant 1963
+Rabbit 55 Speed 1.496457 Hunger 0.6707815 Thirst 0.8275415 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8051337 Thirst 0.8656335 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.041645 Thirst 1.131097 Birth 0 Death 0
+Plant 1963
+Rabbit 55 Speed 1.496457 Hunger 0.6708938 Thirst 0.8280268 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8054799 Thirst 0.8659798 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.042293 Thirst 1.131746 Birth 0 Death 0
+Plant 1962
+Rabbit 55 Speed 1.496457 Hunger 0.6711806 Thirst 0.8285083 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8058234 Thirst 0.8663232 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.042936 Thirst 1.132389 Birth 0 Death 0
+Plant 1962
+Rabbit 55 Speed 1.496457 Hunger 0.6716468 Thirst 0.8289745 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.806156 Thirst 0.8666557 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.043559 Thirst 1.133012 Birth 0 Death 0
+Plant 1962
+Rabbit 55 Speed 1.496457 Hunger 0.6714674 Thirst 0.8294644 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8065053 Thirst 0.8670052 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.044214 Thirst 1.133666 Birth 0 Death 0
+Plant 1962
+Rabbit 55 Speed 1.496457 Hunger 0.6716841 Thirst 0.8299276 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8068358 Thirst 0.8673356 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.044833 Thirst 1.134285 Birth 0 Death 0
+Plant 1962
+Rabbit 55 Speed 1.496457 Hunger 0.6719719 Thirst 0.8304098 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8071799 Thirst 0.8676797 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.045477 Thirst 1.134929 Birth 0 Death 0
+Plant 1962
+Rabbit 55 Speed 1.496457 Hunger 0.6722462 Thirst 0.8308694 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8075077 Thirst 0.8680074 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.046091 Thirst 1.135543 Birth 0 Death 0
+Plant 1962
+Rabbit 55 Speed 1.496457 Hunger 0.6725218 Thirst 0.8313315 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8078373 Thirst 0.8683371 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.046708 Thirst 1.136161 Birth 0 Death 0
+Plant 1962
+Rabbit 55 Speed 1.496457 Hunger 0.6728023 Thirst 0.8318015 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8081726 Thirst 0.8686724 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.047336 Thirst 1.136789 Birth 0 Death 0
+Plant 1961
+Rabbit 55 Speed 1.496457 Hunger 0.6725865 Thirst 0.8322531 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8084948 Thirst 0.8689947 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.04794 Thirst 1.137392 Birth 0 Death 0
+Plant 1961
+Rabbit 55 Speed 1.496457 Hunger 0.6728597 Thirst 0.832711 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8088214 Thirst 0.8693212 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.048551 Thirst 1.138004 Birth 0 Death 0
+Plant 1961
+Rabbit 55 Speed 1.496457 Hunger 0.6731417 Thirst 0.8331835 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8091584 Thirst 0.8696583 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.049183 Thirst 1.138635 Birth 0 Death 0
+Plant 1961
+Rabbit 55 Speed 1.496457 Hunger 0.6734304 Thirst 0.8328325 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8095037 Thirst 0.8700034 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.049829 Thirst 1.139281 Birth 0 Death 0
+Plant 1961
+Rabbit 55 Speed 1.496457 Hunger 0.6737111 Thirst 0.8309551 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8098392 Thirst 0.8703391 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.050457 Thirst 1.13991 Birth 0 Death 0
+Plant 1961
+Rabbit 55 Speed 1.496457 Hunger 0.6739987 Thirst 0.8314371 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8101831 Thirst 0.8706828 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.051101 Thirst 1.140554 Birth 0 Death 0
+Plant 1961
+Rabbit 55 Speed 1.496457 Hunger 0.6742697 Thirst 0.8318914 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8105071 Thirst 0.8710069 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.051708 Thirst 1.141161 Birth 0 Death 0
+Plant 1961
+Rabbit 55 Speed 1.496457 Hunger 0.6745431 Thirst 0.8323495 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8108339 Thirst 0.8713337 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.05232 Thirst 1.141773 Birth 0 Death 0
+Plant 1961
+Rabbit 55 Speed 1.496457 Hunger 0.6743771 Thirst 0.8328113 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8111633 Thirst 0.8716632 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.052937 Thirst 1.14239 Birth 0 Death 0
+Plant 1961
+Rabbit 55 Speed 1.496457 Hunger 0.6742722 Thirst 0.8333108 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8115196 Thirst 0.8720195 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.053605 Thirst 1.143057 Birth 0 Death 0
+Plant 1961
+Rabbit 55 Speed 1.496457 Hunger 0.6744602 Thirst 0.8337823 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.811856 Thirst 0.8723558 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.054235 Thirst 1.143687 Birth 0 Death 0
+Plant 1961
+Rabbit 55 Speed 1.496457 Hunger 0.6746511 Thirst 0.8342606 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8121971 Thirst 0.8726969 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.054873 Thirst 1.144326 Birth 0 Death 0
+Plant 1961
+Rabbit 55 Speed 1.496457 Hunger 0.6748415 Thirst 0.8347378 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8125375 Thirst 0.8730373 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.055511 Thirst 1.144964 Birth 0 Death 0
+Plant 1961
+Rabbit 55 Speed 1.496457 Hunger 0.6750263 Thirst 0.8352008 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8128679 Thirst 0.8733677 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.05613 Thirst 1.145582 Birth 0 Death 0
+Plant 1961
+Rabbit 55 Speed 1.496457 Hunger 0.6752102 Thirst 0.8356618 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8131968 Thirst 0.8736965 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.056746 Thirst 1.146198 Birth 0 Death 0
+Plant 1961
+Rabbit 55 Speed 1.496457 Hunger 0.6753998 Thirst 0.8361371 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8135358 Thirst 0.8740357 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.057381 Thirst 1.146833 Birth 0 Death 0
+Plant 1960
+Rabbit 55 Speed 1.496457 Hunger 0.6756512 Thirst 0.836603 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8138681 Thirst 0.8743679 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.058003 Thirst 1.147455 Birth 0 Death 0
+Plant 1960
+Rabbit 55 Speed 1.496457 Hunger 0.6760335 Thirst 0.8370794 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.814208 Thirst 0.8747078 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.058639 Thirst 1.148092 Birth 0 Death 0
+Plant 1960
+Rabbit 55 Speed 1.496457 Hunger 0.676419 Thirst 0.83756 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8145508 Thirst 0.8750506 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.059281 Thirst 1.148734 Birth 0 Death 0
+Plant 1960
+Rabbit 55 Speed 1.496457 Hunger 0.6761515 Thirst 0.8380209 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8148796 Thirst 0.8753794 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.059897 Thirst 1.14935 Birth 0 Death 0
+Plant 1960
+Rabbit 55 Speed 1.496457 Hunger 0.676331 Thirst 0.8384708 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8152004 Thirst 0.8757002 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.060498 Thirst 1.149951 Birth 0 Death 0
+Plant 1960
+Rabbit 55 Speed 1.496457 Hunger 0.6765214 Thirst 0.8389481 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.815541 Thirst 0.8760408 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.061136 Thirst 1.150588 Birth 0 Death 0
+Plant 1960
+Rabbit 55 Speed 1.496457 Hunger 0.6767094 Thirst 0.8394189 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8158769 Thirst 0.8763767 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.061765 Thirst 1.151217 Birth 0 Death 0
+Plant 1960
+Rabbit 55 Speed 1.496457 Hunger 0.676895 Thirst 0.8398843 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8162088 Thirst 0.8767086 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.062387 Thirst 1.151839 Birth 0 Death 0
+Plant 1960
+Rabbit 55 Speed 1.496457 Hunger 0.6770734 Thirst 0.8403313 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8165277 Thirst 0.8770275 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.062984 Thirst 1.152436 Birth 0 Death 0
+Plant 1959
+Rabbit 55 Speed 1.496457 Hunger 0.6773288 Thirst 0.8408269 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8168812 Thirst 0.877381 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.063646 Thirst 1.153098 Birth 0 Death 0
+Plant 1959
+Rabbit 55 Speed 1.496457 Hunger 0.6774682 Thirst 0.8413209 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8172337 Thirst 0.8777335 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.064306 Thirst 1.153759 Birth 0 Death 0
+Plant 1959
+Rabbit 55 Speed 1.496457 Hunger 0.6776593 Thirst 0.8417999 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8175753 Thirst 0.8780752 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.064946 Thirst 1.154398 Birth 0 Death 0
+Plant 1959
+Rabbit 55 Speed 1.496457 Hunger 0.6778467 Thirst 0.8422694 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8179101 Thirst 0.87841 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.065573 Thirst 1.155025 Birth 0 Death 0
+Plant 1959
+Rabbit 55 Speed 1.496457 Hunger 0.678039 Thirst 0.8427515 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8182541 Thirst 0.8787539 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.066217 Thirst 1.15567 Birth 0 Death 0
+Plant 1959
+Rabbit 55 Speed 1.496457 Hunger 0.6782324 Thirst 0.8432363 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8185999 Thirst 0.8790997 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.066865 Thirst 1.156317 Birth 0 Death 0
+Plant 1959
+Rabbit 55 Speed 1.496457 Hunger 0.6784245 Thirst 0.8437177 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8189433 Thirst 0.8794431 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.067508 Thirst 1.15696 Birth 0 Death 0
+Plant 1959
+Rabbit 55 Speed 1.496457 Hunger 0.6786142 Thirst 0.8441929 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8192823 Thirst 0.8797821 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.068143 Thirst 1.157595 Birth 0 Death 0
+Plant 1959
+Rabbit 55 Speed 1.496457 Hunger 0.6788055 Thirst 0.8446726 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8196245 Thirst 0.8801243 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.068784 Thirst 1.158236 Birth 0 Death 0
+Plant 1959
+Rabbit 55 Speed 1.496457 Hunger 0.679001 Thirst 0.8451625 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8199739 Thirst 0.8804737 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.069438 Thirst 1.15889 Birth 0 Death 0
+Plant 1959
+Rabbit 55 Speed 1.496457 Hunger 0.6791885 Thirst 0.8456323 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.820309 Thirst 0.8808089 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.070066 Thirst 1.159518 Birth 0 Death 0
+Plant 1959
+Rabbit 55 Speed 1.496457 Hunger 0.6793742 Thirst 0.8460977 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8206411 Thirst 0.8811409 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.070687 Thirst 1.16014 Birth 0 Death 0
+Plant 1959
+Rabbit 55 Speed 1.496457 Hunger 0.6795568 Thirst 0.8465554 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8209676 Thirst 0.8814673 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.071299 Thirst 1.160751 Birth 0 Death 0
+Plant 1959
+Rabbit 55 Speed 1.496457 Hunger 0.6797469 Thirst 0.8470317 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8213074 Thirst 0.8818072 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.071935 Thirst 1.161388 Birth 0 Death 0
+Plant 1959
+Rabbit 55 Speed 1.496457 Hunger 0.6799834 Thirst 0.8474824 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8216288 Thirst 0.8821287 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.072537 Thirst 1.16199 Birth 0 Death 0
+Plant 1958
+Rabbit 55 Speed 1.496457 Hunger 0.6801862 Thirst 0.8479378 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8219538 Thirst 0.8824536 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.073146 Thirst 1.162598 Birth 0 Death 0
+Plant 1958
+Rabbit 55 Speed 1.496457 Hunger 0.6805874 Thirst 0.8484173 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8222959 Thirst 0.8827956 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.073786 Thirst 1.163239 Birth 0 Death 0
+Plant 1958
+Rabbit 55 Speed 1.496457 Hunger 0.6810614 Thirst 0.8488914 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.822634 Thirst 0.8831338 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.07442 Thirst 1.163872 Birth 0 Death 0
+Plant 1958
+Rabbit 55 Speed 1.496457 Hunger 0.6815325 Thirst 0.8493626 Birth 3 Death 3
+Fox 15 Speed 1.531625 Hunger 0.8229701 Thirst 0.8834699 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.075049 Thirst 1.164501 Birth 0 Death 0
+Plant 1958
+Rabbit 55 Speed 1.496457 Hunger 0.6808705 Thirst 0.8498477 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8233162 Thirst 0.883816 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.075697 Thirst 1.16515 Birth 0 Death 0
+Plant 1958
+Rabbit 55 Speed 1.496457 Hunger 0.6810878 Thirst 0.8503096 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8236457 Thirst 0.8841455 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.076314 Thirst 1.165767 Birth 0 Death 0
+Plant 1958
+Rabbit 55 Speed 1.496457 Hunger 0.6813739 Thirst 0.850789 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8239877 Thirst 0.8844875 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.076955 Thirst 1.166407 Birth 0 Death 0
+Plant 1958
+Rabbit 55 Speed 1.496457 Hunger 0.6816521 Thirst 0.8512553 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8243204 Thirst 0.8848202 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.077578 Thirst 1.16703 Birth 0 Death 0
+Plant 1958
+Rabbit 55 Speed 1.496457 Hunger 0.6819251 Thirst 0.8517126 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8246465 Thirst 0.8851463 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.078189 Thirst 1.167641 Birth 0 Death 0
+Plant 1958
+Rabbit 55 Speed 1.496457 Hunger 0.6822209 Thirst 0.8522084 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8250002 Thirst 0.8855001 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.078851 Thirst 1.168304 Birth 0 Death 0
+Plant 1958
+Rabbit 55 Speed 1.496457 Hunger 0.6825149 Thirst 0.8527011 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8253516 Thirst 0.8858514 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.079509 Thirst 1.168962 Birth 0 Death 0
+Plant 1957
+Rabbit 55 Speed 1.496457 Hunger 0.6823823 Thirst 0.8531843 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8256964 Thirst 0.8861963 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.080155 Thirst 1.169608 Birth 0 Death 0
+Plant 1957
+Rabbit 55 Speed 1.496457 Hunger 0.6826715 Thirst 0.853669 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8260421 Thirst 0.8865419 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.080802 Thirst 1.170255 Birth 0 Death 0
+Plant 1957
+Rabbit 55 Speed 1.496457 Hunger 0.6829489 Thirst 0.854134 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8263738 Thirst 0.8868736 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.081424 Thirst 1.170876 Birth 0 Death 0
+Plant 1957
+Rabbit 55 Speed 1.496457 Hunger 0.6832318 Thirst 0.8546079 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8267119 Thirst 0.8872117 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.082057 Thirst 1.171509 Birth 0 Death 0
+Plant 1957
+Rabbit 55 Speed 1.496457 Hunger 0.683529 Thirst 0.8551061 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8270673 Thirst 0.8875672 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.082722 Thirst 1.172175 Birth 0 Death 0
+Plant 1957
+Rabbit 55 Speed 1.496457 Hunger 0.6838049 Thirst 0.8555683 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.827397 Thirst 0.8878968 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.08334 Thirst 1.172792 Birth 0 Death 0
+Plant 1957
+Rabbit 55 Speed 1.496457 Hunger 0.6840913 Thirst 0.8560484 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8277395 Thirst 0.8882393 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.083981 Thirst 1.173434 Birth 0 Death 0
+Plant 1957
+Rabbit 55 Speed 1.496457 Hunger 0.6836206 Thirst 0.8565325 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8280848 Thirst 0.8885847 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.084628 Thirst 1.17408 Birth 0 Death 0
+Plant 1957
+Rabbit 55 Speed 1.496457 Hunger 0.68376 Thirst 0.8569983 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8284169 Thirst 0.8889168 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.08525 Thirst 1.174703 Birth 0 Death 0
+Plant 1957
+Rabbit 55 Speed 1.496457 Hunger 0.6840474 Thirst 0.8574799 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8287607 Thirst 0.8892605 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.085894 Thirst 1.175346 Birth 0 Death 0
+Plant 1957
+Rabbit 55 Speed 1.496457 Hunger 0.6843257 Thirst 0.8579462 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8290932 Thirst 0.889593 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.086516 Thirst 1.175969 Birth 0 Death 0
+Plant 1957
+Rabbit 55 Speed 1.496457 Hunger 0.6845955 Thirst 0.8583984 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8294157 Thirst 0.8899156 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.087121 Thirst 1.176573 Birth 0 Death 0
+Plant 1957
+Rabbit 55 Speed 1.496457 Hunger 0.6848742 Thirst 0.8588656 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.829749 Thirst 0.8902489 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.087745 Thirst 1.177197 Birth 0 Death 0
+Plant 1956
+Rabbit 55 Speed 1.496457 Hunger 0.6852863 Thirst 0.859344 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8300903 Thirst 0.8905901 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.088384 Thirst 1.177836 Birth 0 Death 0
+Plant 1956
+Rabbit 55 Speed 1.496457 Hunger 0.6854261 Thirst 0.8568069 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8304089 Thirst 0.8909087 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.08898 Thirst 1.178433 Birth 0 Death 0
+Plant 1956
+Rabbit 55 Speed 1.496457 Hunger 0.6857165 Thirst 0.8570624 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.830756 Thirst 0.8912558 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.089631 Thirst 1.179083 Birth 0 Death 0
+Plant 1956
+Rabbit 55 Speed 1.496457 Hunger 0.6859955 Thirst 0.8575299 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8310894 Thirst 0.8915892 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.090255 Thirst 1.179708 Birth 0 Death 0
+Plant 1956
+Rabbit 55 Speed 1.496457 Hunger 0.6855392 Thirst 0.8579969 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8314227 Thirst 0.8919225 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.090879 Thirst 1.180331 Birth 0 Death 0
+Plant 1956
+Rabbit 55 Speed 1.496457 Hunger 0.6855901 Thirst 0.8584614 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8317539 Thirst 0.8922538 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.091499 Thirst 1.180952 Birth 0 Death 0
+Plant 1956
+Rabbit 55 Speed 1.496457 Hunger 0.6857677 Thirst 0.8589065 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8320714 Thirst 0.8925713 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.092094 Thirst 1.181547 Birth 0 Death 0
+Plant 1956
+Rabbit 55 Speed 1.496457 Hunger 0.6859547 Thirst 0.8593753 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8324059 Thirst 0.8929057 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.09272 Thirst 1.182173 Birth 0 Death 0
+Plant 1956
+Rabbit 55 Speed 1.496457 Hunger 0.6861411 Thirst 0.8598424 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.832739 Thirst 0.8932388 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.093344 Thirst 1.182797 Birth 0 Death 0
+Plant 1956
+Rabbit 55 Speed 1.496457 Hunger 0.6863254 Thirst 0.8603044 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8330686 Thirst 0.8935684 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.093962 Thirst 1.183414 Birth 0 Death 0
+Plant 1956
+Rabbit 55 Speed 1.496457 Hunger 0.6865053 Thirst 0.860755 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8333901 Thirst 0.8938898 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.094564 Thirst 1.184016 Birth 0 Death 0
+Plant 1956
+Rabbit 55 Speed 1.496457 Hunger 0.686698 Thirst 0.8612379 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8337345 Thirst 0.8942344 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.095209 Thirst 1.184662 Birth 0 Death 0
+Plant 1956
+Rabbit 55 Speed 1.496457 Hunger 0.6868842 Thirst 0.8617045 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8340674 Thirst 0.8945673 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.095832 Thirst 1.185285 Birth 0 Death 0
+Plant 1956
+Rabbit 55 Speed 1.496457 Hunger 0.6870749 Thirst 0.8621827 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8344085 Thirst 0.8949082 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.096471 Thirst 1.185924 Birth 0 Death 0
+Plant 1956
+Rabbit 55 Speed 1.496457 Hunger 0.6872619 Thirst 0.8626513 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8347427 Thirst 0.8952426 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.097097 Thirst 1.18655 Birth 0 Death 0
+Plant 1956
+Rabbit 55 Speed 1.496457 Hunger 0.687447 Thirst 0.8631151 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8350736 Thirst 0.8955734 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.097717 Thirst 1.187169 Birth 0 Death 0
+Plant 1956
+Rabbit 55 Speed 1.496457 Hunger 0.6876381 Thirst 0.863594 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8354151 Thirst 0.895915 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.098357 Thirst 1.187809 Birth 0 Death 0
+Plant 1956
+Rabbit 55 Speed 1.496457 Hunger 0.6878217 Thirst 0.8640541 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8357435 Thirst 0.8962433 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.098971 Thirst 1.188424 Birth 0 Death 0
+Plant 1956
+Rabbit 55 Speed 1.496457 Hunger 0.6880068 Thirst 0.8645179 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8360742 Thirst 0.896574 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.099591 Thirst 1.189043 Birth 0 Death 0
+Plant 1956
+Rabbit 55 Speed 1.496457 Hunger 0.688199 Thirst 0.8649998 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.836418 Thirst 0.8969179 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.100235 Thirst 1.189687 Birth 0 Death 0
+Plant 1955
+Rabbit 55 Speed 1.496457 Hunger 0.6884571 Thirst 0.8654651 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8367499 Thirst 0.8972498 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.100856 Thirst 1.190309 Birth 0 Death 0
+Plant 1955
+Rabbit 55 Speed 1.496457 Hunger 0.6887251 Thirst 0.8659142 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8370703 Thirst 0.8975702 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.101456 Thirst 1.190909 Birth 0 Death 0
+Plant 1955
+Rabbit 55 Speed 1.496457 Hunger 0.6889994 Thirst 0.866374 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8373983 Thirst 0.8978981 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.102071 Thirst 1.191523 Birth 0 Death 0
+Plant 1955
+Rabbit 55 Speed 1.496457 Hunger 0.6892812 Thirst 0.8668462 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8377351 Thirst 0.898235 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.102702 Thirst 1.192154 Birth 0 Death 0
+Plant 1954
+Rabbit 55 Speed 1.496457 Hunger 0.6896705 Thirst 0.867335 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8380839 Thirst 0.8985837 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.103355 Thirst 1.192807 Birth 0 Death 0
+Plant 1954
+Rabbit 55 Speed 1.496457 Hunger 0.690138 Thirst 0.8678025 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8384174 Thirst 0.8989173 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.103979 Thirst 1.193432 Birth 0 Death 0
+Plant 1954
+Rabbit 55 Speed 1.496457 Hunger 0.6906228 Thirst 0.8682873 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8387632 Thirst 0.899263 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.104627 Thirst 1.194079 Birth 0 Death 0
+Plant 1954
+Rabbit 55 Speed 1.496457 Hunger 0.6911137 Thirst 0.8687782 Birth 3 Death 3
+Fox 15 Speed 1.531625 Hunger 0.8391134 Thirst 0.8996132 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.105283 Thirst 1.194735 Birth 0 Death 0
+Plant 1954
+Rabbit 55 Speed 1.496457 Hunger 0.690706 Thirst 0.8692339 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8394385 Thirst 0.8999383 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.105891 Thirst 1.195344 Birth 0 Death 0
+Plant 1954
+Rabbit 55 Speed 1.496457 Hunger 0.6909814 Thirst 0.8696954 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8397677 Thirst 0.9002675 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.106508 Thirst 1.195961 Birth 0 Death 0
+Plant 1954
+Rabbit 55 Speed 1.496457 Hunger 0.6902558 Thirst 0.8701543 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.840095 Thirst 0.9005948 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.107121 Thirst 1.196574 Birth 0 Death 0
+Plant 1954
+Rabbit 55 Speed 1.496457 Hunger 0.6905262 Thirst 0.8706317 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8404357 Thirst 0.9009355 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.107759 Thirst 1.197212 Birth 0 Death 0
+Plant 1954
+Rabbit 55 Speed 1.496457 Hunger 0.6908184 Thirst 0.8711214 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8407848 Thirst 0.9012846 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.108413 Thirst 1.197866 Birth 0 Death 0
+Plant 1954
+Rabbit 55 Speed 1.496457 Hunger 0.6911129 Thirst 0.8716151 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8411371 Thirst 0.9016369 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.109073 Thirst 1.198525 Birth 0 Death 0
+Plant 1954
+Rabbit 55 Speed 1.496457 Hunger 0.6913925 Thirst 0.8720835 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8414713 Thirst 0.901971 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.109699 Thirst 1.199151 Birth 0 Death 0
+Plant 1954
+Rabbit 55 Speed 1.496457 Hunger 0.6916623 Thirst 0.8725356 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8417937 Thirst 0.9022935 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.110302 Thirst 1.199755 Birth 0 Death 0
+Plant 1953
+Rabbit 55 Speed 1.496457 Hunger 0.6915213 Thirst 0.872997 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8421228 Thirst 0.9026226 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.110919 Thirst 1.200371 Birth 0 Death 0
+Plant 1953
+Rabbit 55 Speed 1.496457 Hunger 0.6917792 Thirst 0.8734291 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.842431 Thirst 0.9029309 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.111496 Thirst 1.200949 Birth 0 Death 0
+Plant 1953
+Rabbit 55 Speed 1.496457 Hunger 0.6920695 Thirst 0.8739158 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8427781 Thirst 0.903278 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.112146 Thirst 1.201599 Birth 0 Death 0
+Plant 1953
+Rabbit 55 Speed 1.496457 Hunger 0.6923599 Thirst 0.8744023 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8431253 Thirst 0.9036251 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.112796 Thirst 1.202249 Birth 0 Death 0
+Plant 1953
+Rabbit 55 Speed 1.496457 Hunger 0.692658 Thirst 0.874902 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8434816 Thirst 0.9039814 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.113464 Thirst 1.202916 Birth 0 Death 0
+Plant 1953
+Rabbit 55 Speed 1.496457 Hunger 0.6929355 Thirst 0.8753668 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8438133 Thirst 0.9043131 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.114085 Thirst 1.203537 Birth 0 Death 0
+Plant 1953
+Rabbit 55 Speed 1.496457 Hunger 0.6932259 Thirst 0.8758535 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8441604 Thirst 0.9046603 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.114735 Thirst 1.204188 Birth 0 Death 0
+Plant 1953
+Rabbit 55 Speed 1.496457 Hunger 0.692724 Thirst 0.8763405 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8445079 Thirst 0.9050077 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.115386 Thirst 1.204838 Birth 0 Death 0
+Plant 1953
+Rabbit 55 Speed 1.496457 Hunger 0.6930025 Thirst 0.8768178 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8448484 Thirst 0.9053482 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.116024 Thirst 1.205476 Birth 0 Death 0
+Plant 1953
+Rabbit 55 Speed 1.496457 Hunger 0.6932813 Thirst 0.8772851 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8451816 Thirst 0.9056815 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.116648 Thirst 1.2061 Birth 0 Death 0
+Plant 1953
+Rabbit 55 Speed 1.496457 Hunger 0.693572 Thirst 0.8777723 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8455292 Thirst 0.906029 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.117299 Thirst 1.206751 Birth 0 Death 0
+Plant 1953
+Rabbit 55 Speed 1.496457 Hunger 0.693862 Thirst 0.8782583 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8458759 Thirst 0.9063758 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.117948 Thirst 1.2074 Birth 0 Death 0
+Plant 1952
+Rabbit 55 Speed 1.496457 Hunger 0.6942841 Thirst 0.8787342 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8462153 Thirst 0.9067152 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.118584 Thirst 1.208036 Birth 0 Death 0
+Plant 1952
+Rabbit 55 Speed 1.496457 Hunger 0.6947648 Thirst 0.8792149 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8465583 Thirst 0.9070581 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.119226 Thirst 1.208678 Birth 0 Death 0
+Plant 1952
+Rabbit 55 Speed 1.496457 Hunger 0.6947129 Thirst 0.8796844 Birth 3 Death 3
+Fox 15 Speed 1.531625 Hunger 0.8468932 Thirst 0.907393 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.119853 Thirst 1.209306 Birth 0 Death 0
+Plant 1952
+Rabbit 55 Speed 1.496457 Hunger 0.6943116 Thirst 0.8801397 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8472181 Thirst 0.9077179 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.120462 Thirst 1.209914 Birth 0 Death 0
+Plant 1952
+Rabbit 55 Speed 1.496457 Hunger 0.6944401 Thirst 0.8805801 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8475322 Thirst 0.908032 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.12105 Thirst 1.210502 Birth 0 Death 0
+Plant 1952
+Rabbit 55 Speed 1.496457 Hunger 0.6947302 Thirst 0.8810664 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8478791 Thirst 0.9083788 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.121699 Thirst 1.211152 Birth 0 Death 0
+Plant 1952
+Rabbit 55 Speed 1.496457 Hunger 0.6950179 Thirst 0.8815484 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8482229 Thirst 0.9087227 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.122343 Thirst 1.211796 Birth 0 Death 0
+Plant 1952
+Rabbit 55 Speed 1.496457 Hunger 0.6952995 Thirst 0.8820204 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8485597 Thirst 0.9090595 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.122974 Thirst 1.212427 Birth 0 Death 0
+Plant 1952
+Rabbit 55 Speed 1.496457 Hunger 0.6955828 Thirst 0.8824953 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8488983 Thirst 0.9093981 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.123608 Thirst 1.213061 Birth 0 Death 0
+Plant 1952
+Rabbit 55 Speed 1.496457 Hunger 0.6958635 Thirst 0.8829655 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8492339 Thirst 0.9097337 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.124237 Thirst 1.213689 Birth 0 Death 0
+Plant 1952
+Rabbit 55 Speed 1.496457 Hunger 0.6961415 Thirst 0.8834314 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8495663 Thirst 0.9100661 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.124859 Thirst 1.214312 Birth 0 Death 0
+Plant 1952
+Rabbit 55 Speed 1.496457 Hunger 0.6964138 Thirst 0.8838877 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8498917 Thirst 0.9103915 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.125469 Thirst 1.214921 Birth 0 Death 0
+Plant 1952
+Rabbit 55 Speed 1.496457 Hunger 0.6966921 Thirst 0.8843542 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8502244 Thirst 0.9107243 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.126092 Thirst 1.215544 Birth 0 Death 0
+Plant 1952
+Rabbit 55 Speed 1.496457 Hunger 0.696969 Thirst 0.8848183 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8505555 Thirst 0.9110554 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.126712 Thirst 1.216164 Birth 0 Death 0
+Plant 1952
+Rabbit 55 Speed 1.496457 Hunger 0.6972512 Thirst 0.8852912 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8508929 Thirst 0.9113927 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.127344 Thirst 1.216796 Birth 0 Death 0
+Plant 1951
+Rabbit 55 Speed 1.496457 Hunger 0.6964952 Thirst 0.8857679 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8512329 Thirst 0.9117327 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.127981 Thirst 1.217433 Birth 0 Death 0
+Plant 1951
+Rabbit 55 Speed 1.496457 Hunger 0.696785 Thirst 0.8862534 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8515793 Thirst 0.9120791 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.128629 Thirst 1.218081 Birth 0 Death 0
+Plant 1951
+Rabbit 55 Speed 1.496457 Hunger 0.6970636 Thirst 0.8867202 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8519123 Thirst 0.9124121 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.129253 Thirst 1.218705 Birth 0 Death 0
+Plant 1951
+Rabbit 55 Speed 1.496457 Hunger 0.6973488 Thirst 0.8871982 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8522533 Thirst 0.9127532 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.129891 Thirst 1.219344 Birth 0 Death 0
+Plant 1951
+Rabbit 55 Speed 1.496457 Hunger 0.6976248 Thirst 0.8876608 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8525833 Thirst 0.9130831 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.130509 Thirst 1.219962 Birth 0 Death 0
+Plant 1951
+Rabbit 55 Speed 1.496457 Hunger 0.6979185 Thirst 0.8881531 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8529345 Thirst 0.9134343 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.131167 Thirst 1.22062 Birth 0 Death 0
+Plant 1951
+Rabbit 55 Speed 1.496457 Hunger 0.6982104 Thirst 0.888642 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8532832 Thirst 0.913783 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.13182 Thirst 1.221273 Birth 0 Death 0
+Plant 1951
+Rabbit 55 Speed 1.496457 Hunger 0.6984912 Thirst 0.8891126 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8536189 Thirst 0.9141187 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.132449 Thirst 1.221902 Birth 0 Death 0
+Plant 1951
+Rabbit 55 Speed 1.496457 Hunger 0.6987613 Thirst 0.8895654 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.853942 Thirst 0.9144418 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.133054 Thirst 1.222506 Birth 0 Death 0
+Plant 1950
+Rabbit 55 Speed 1.496457 Hunger 0.699204 Thirst 0.890048 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8542862 Thirst 0.914786 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.133699 Thirst 1.223151 Birth 0 Death 0
+Plant 1950
+Rabbit 55 Speed 1.496457 Hunger 0.6996548 Thirst 0.8904987 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8546076 Thirst 0.9151075 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.134301 Thirst 1.223753 Birth 0 Death 0
+Plant 1950
+Rabbit 55 Speed 1.496457 Hunger 0.700128 Thirst 0.8909718 Birth 3 Death 3
+Fox 15 Speed 1.531625 Hunger 0.8549452 Thirst 0.9154451 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.134933 Thirst 1.224385 Birth 0 Death 0
+Plant 1950
+Rabbit 55 Speed 1.496457 Hunger 0.7006029 Thirst 0.8914468 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.855284 Thirst 0.9157838 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.135567 Thirst 1.22502 Birth 0 Death 0
+Plant 1950
+Rabbit 55 Speed 1.496457 Hunger 0.6992674 Thirst 0.8919237 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8556243 Thirst 0.9161241 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.136205 Thirst 1.225657 Birth 0 Death 0
+Plant 1949
+Rabbit 55 Speed 1.496457 Hunger 0.6994163 Thirst 0.8923822 Birth 0 Death 0
+Fox 15 Speed 1.531625 Hunger 0.8559513 Thirst 0.9164512 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.136817 Thirst 1.22627 Birth 0 Death 0
+Plant 1949
+Rabbit 55 Speed 1.496457 Hunger 0.6997029 Thirst 0.8928624 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8562939 Thirst 0.9167937 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.137459 Thirst 1.226911 Birth 0 Death 0
+Plant 1949
+Rabbit 55 Speed 1.496457 Hunger 0.6999945 Thirst 0.8933512 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8566425 Thirst 0.9171423 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.138112 Thirst 1.227564 Birth 0 Death 0
+Plant 1948
+Rabbit 55 Speed 1.496457 Hunger 0.7002859 Thirst 0.893818 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8569756 Thirst 0.9174754 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.138735 Thirst 1.228188 Birth 0 Death 0
+Plant 1948
+Rabbit 55 Speed 1.496457 Hunger 0.7007552 Thirst 0.8942874 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8573105 Thirst 0.9178103 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.139362 Thirst 1.228815 Birth 0 Death 0
+Plant 1948
+Rabbit 55 Speed 1.496457 Hunger 0.7012185 Thirst 0.8947507 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.857641 Thirst 0.9181408 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.139981 Thirst 1.229434 Birth 0 Death 0
+Plant 1948
+Rabbit 55 Speed 1.496457 Hunger 0.7016804 Thirst 0.8952124 Birth 3 Death 3
+Fox 15 Speed 1.531625 Hunger 0.8579703 Thirst 0.9184701 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.140598 Thirst 1.230051 Birth 0 Death 0
+Plant 1948
+Rabbit 55 Speed 1.496457 Hunger 0.7021672 Thirst 0.8956991 Birth 3 Death 3
+Fox 15 Speed 1.531625 Hunger 0.8583176 Thirst 0.9188174 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.141249 Thirst 1.230701 Birth 0 Death 0
+Plant 1948
+Rabbit 55 Speed 1.496457 Hunger 0.7026648 Thirst 0.8961968 Birth 2 Death 2
+Fox 15 Speed 1.531625 Hunger 0.8586726 Thirst 0.9191724 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.141914 Thirst 1.231366 Birth 0 Death 0
+Plant 1948
+Rabbit 55 Speed 1.496457 Hunger 0.7031452 Thirst 0.8966773 Birth 4 Death 4
+Fox 15 Speed 1.531625 Hunger 0.8590153 Thirst 0.9195151 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.142555 Thirst 1.232008 Birth 0 Death 0
+Plant 1948
+Rabbit 55 Speed 1.496457 Hunger 0.702255 Thirst 0.8971393 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8593448 Thirst 0.9198447 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.143173 Thirst 1.232625 Birth 0 Death 0
+Plant 1948
+Rabbit 55 Speed 1.496457 Hunger 0.7025425 Thirst 0.8976211 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8596886 Thirst 0.9201884 Birth 2 Death 2
+Eagle_Elite 8 Speed 1.551192 Hunger 1.143816 Thirst 1.233269 Birth 0 Death 0
+Plant 1948
+Rabbit 55 Speed 1.496457 Hunger 0.7028301 Thirst 0.8981031 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8600324 Thirst 0.9205322 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.14446 Thirst 1.233913 Birth 0 Death 0
+Plant 1948
+Rabbit 55 Speed 1.496457 Hunger 0.7031112 Thirst 0.8985742 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8603685 Thirst 0.9208683 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.14509 Thirst 1.234542 Birth 0 Death 0
+Plant 1948
+Rabbit 55 Speed 1.496457 Hunger 0.7024801 Thirst 0.8990419 Birth 1 Death 1
+Fox 15 Speed 1.531625 Hunger 0.8607022 Thirst 0.9212019 Birth 1 Death 1
+Eagle_Elite 8 Speed 1.551192 Hunger 1.145715 Thirst 1.235167 Birth 0 Death 0

@@ -13,6 +13,7 @@ public class Animal : LivingEntity {
 
     public CreatureAction currentAction;
     public Genes genes;
+    public Genes partnerGenes;
     public Color maleColour;
     public Color femaleColour;
     public int wantToMate = 0;
@@ -300,6 +301,7 @@ public class Animal : LivingEntity {
             }
         } else if (currentAction == CreatureAction.Mating) {
             if (mateTarget && reprod > 1 && !genes.isMale){
+                partnerGenes = ((Animal) mateTarget).genes;
                 reprod = 0;
                 // do something to clone a copy
                 newBaby = 1;
