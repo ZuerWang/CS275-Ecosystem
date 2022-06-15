@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using TerrainGeneration;
 using UnityEngine;
+using System.IO;
 
 public class Environment : MonoBehaviour {
 
@@ -41,9 +42,12 @@ public class Environment : MonoBehaviour {
     static Dictionary<Species, Map> speciesMaps;
 
     static float lastReportTime;
+    static string logFilePath = "./Logs/Population.txt";
 
     void Start () {
         prng = new System.Random ();
+
+        writeLogToFile("Start Simulation", false);
 
         Init ();
         SpawnInitialPopulations ();
@@ -70,12 +74,20 @@ public class Environment : MonoBehaviour {
         speciesMaps[entity.species].Remove (entity, entity.coord);
     }
 
+    public static void writeLogToFile(string logString, bool append) {
+        TextWriter logfile = new StreamWriter(logFilePath, append);
+        logfile.WriteLine(logString);
+        logfile.Close();
+    }
+
     public static void reportPopulation () {
         float timeSinceLastReport = Time.time - lastReportTime;
         if (timeSinceLastReport > 1) {
-            Debug.Log (Time.time + " Rabbit: " + speciesMaps[(Species) (1 << 2)].numEntities 
+            string logString = Time.time + " Rabbit: " + speciesMaps[(Species) (1 << 2)].numEntities 
                   + " Fox: " + speciesMaps[(Species) (1 << 3)].numEntities
-                  + " Eagle_Elite: " + speciesMaps[(Species) (1 << 4)].numEntities);
+                  + " Eagle_Elite: " + speciesMaps[(Species) (1 << 4)].numEntities;
+            Debug.Log (logString);
+            writeLogToFile(logString, true);
             lastReportTime = Time.time;
         }
         
