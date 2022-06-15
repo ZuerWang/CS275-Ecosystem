@@ -11,6 +11,8 @@ public class Map {
     readonly int numRegions;
     public int numEntities;
 
+    public float avgSpeed = 0;
+
     public Map (int size, int regionSize) {
         this.regionSize = regionSize;
         numRegions = Mathf.CeilToInt (size / (float) regionSize);
@@ -123,6 +125,13 @@ public class Map {
         e.mapIndex = index;
         e.mapCoord = coord;
         map[regionX, regionY].Add (e);
+
+        // update speed
+        if (e is Animal) {
+            Animal tmp = (Animal) e;
+            avgSpeed = (numEntities*avgSpeed + tmp.genes.speed)/(numEntities + 1);
+        }
+
         numEntities++;
     }
 

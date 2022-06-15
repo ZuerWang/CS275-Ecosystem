@@ -1,0 +1,517 @@
+Start Simulation
+Plant 500
+Rabbit 50 Speed 1.502438
+Fox 50 Speed 1.499195
+Eagle_Elite 50 Speed 1.495301
+Plant 500
+Rabbit 50 Speed 1.506802
+Fox 50 Speed 1.492611
+Eagle_Elite 50 Speed 1.493847
+Plant 500
+Rabbit 50 Speed 1.512656
+Fox 50 Speed 1.480759
+Eagle_Elite 50 Speed 1.489483
+Plant 500
+Rabbit 50 Speed 1.512615
+Fox 50 Speed 1.49414
+Eagle_Elite 50 Speed 1.499208
+Plant 500
+Rabbit 50 Speed 1.515117
+Fox 50 Speed 1.485577
+Eagle_Elite 50 Speed 1.496312
+Plant 500
+Rabbit 50 Speed 1.506937
+Fox 50 Speed 1.488089
+Eagle_Elite 50 Speed 1.494295
+Plant 500
+Rabbit 50 Speed 1.505317
+Fox 50 Speed 1.488988
+Eagle_Elite 50 Speed 1.496217
+Plant 500
+Rabbit 50 Speed 1.511934
+Fox 50 Speed 1.493712
+Eagle_Elite 50 Speed 1.499716
+Plant 500
+Rabbit 50 Speed 1.516135
+Fox 50 Speed 1.48597
+Eagle_Elite 50 Speed 1.490698
+Plant 500
+Rabbit 50 Speed 1.508386
+Fox 50 Speed 1.491004
+Eagle_Elite 50 Speed 1.48999
+Plant 500
+Rabbit 50 Speed 1.510822
+Fox 50 Speed 1.489672
+Eagle_Elite 50 Speed 1.497652
+Plant 500
+Rabbit 50 Speed 1.509285
+Fox 50 Speed 1.4849
+Eagle_Elite 50 Speed 1.494562
+Plant 499
+Rabbit 50 Speed 1.509556
+Fox 50 Speed 1.48754
+Eagle_Elite 50 Speed 1.486005
+Plant 499
+Rabbit 50 Speed 1.507418
+Fox 50 Speed 1.482897
+Eagle_Elite 50 Speed 1.4914
+Plant 499
+Rabbit 50 Speed 1.508261
+Fox 50 Speed 1.489408
+Eagle_Elite 50 Speed 1.493143
+Plant 499
+Rabbit 50 Speed 1.508453
+Fox 50 Speed 1.487237
+Eagle_Elite 50 Speed 1.491586
+Plant 499
+Rabbit 50 Speed 1.515258
+Fox 50 Speed 1.487688
+Eagle_Elite 50 Speed 1.496139
+Plant 499
+Rabbit 50 Speed 1.52454
+Fox 50 Speed 1.48991
+Eagle_Elite 50 Speed 1.49145
+Plant 499
+Rabbit 50 Speed 1.522513
+Fox 50 Speed 1.493706
+Eagle_Elite 50 Speed 1.498371
+Plant 499
+Rabbit 50 Speed 1.524761
+Fox 50 Speed 1.496231
+Eagle_Elite 50 Speed 1.503309
+Plant 498
+Rabbit 50 Speed 1.521058
+Fox 50 Speed 1.496075
+Eagle_Elite 50 Speed 1.495363
+Plant 497
+Rabbit 49 Speed 1.52138
+Fox 50 Speed 1.492978
+Eagle_Elite 50 Speed 1.495174
+Plant 497
+Rabbit 48 Speed 1.526715
+Fox 50 Speed 1.496224
+Eagle_Elite 50 Speed 1.497679
+Plant 495
+Rabbit 47 Speed 1.53298
+Fox 49 Speed 1.495508
+Eagle_Elite 50 Speed 1.496628
+Plant 492
+Rabbit 46 Speed 1.533489
+Fox 49 Speed 1.498094
+Eagle_Elite 50 Speed 1.506496
+Plant 489
+Rabbit 46 Speed 1.529465
+Fox 49 Speed 1.498501
+Eagle_Elite 50 Speed 1.504489
+Plant 488
+Rabbit 45 Speed 1.528369
+Fox 49 Speed 1.503627
+Eagle_Elite 50 Speed 1.506427
+Plant 488
+Rabbit 45 Speed 1.520141
+Fox 49 Speed 1.507236
+Eagle_Elite 50 Speed 1.500674
+Plant 486
+Rabbit 45 Speed 1.520855
+Fox 49 Speed 1.500947
+Eagle_Elite 50 Speed 1.501414
+Plant 486
+Rabbit 45 Speed 1.511667
+Fox 49 Speed 1.497033
+Eagle_Elite 50 Speed 1.504437
+Plant 486
+Rabbit 44 Speed 1.508719
+Fox 49 Speed 1.500644
+Eagle_Elite 50 Speed 1.503531
+Plant 486
+Rabbit 44 Speed 1.517436
+Fox 49 Speed 1.501945
+Eagle_Elite 50 Speed 1.501206
+Plant 486
+Rabbit 44 Speed 1.513343
+Fox 47 Speed 1.49759
+Eagle_Elite 50 Speed 1.509181
+Plant 486
+Rabbit 44 Speed 1.510358
+Fox 46 Speed 1.499661
+Eagle_Elite 50 Speed 1.509363
+Plant 486
+Rabbit 44 Speed 1.514699
+Fox 46 Speed 1.502413
+Eagle_Elite 50 Speed 1.503485
+Plant 485
+Rabbit 44 Speed 1.519171
+Fox 45 Speed 1.50969
+Eagle_Elite 50 Speed 1.509185
+Plant 485
+Rabbit 44 Speed 1.52098
+Fox 45 Speed 1.507814
+Eagle_Elite 50 Speed 1.500171
+Plant 485
+Rabbit 44 Speed 1.515692
+Fox 45 Speed 1.502635
+Eagle_Elite 50 Speed 1.502068
+Plant 485
+Rabbit 43 Speed 1.514512
+Fox 45 Speed 1.510095
+Eagle_Elite 50 Speed 1.499916
+Plant 485
+Rabbit 43 Speed 1.523645
+Fox 44 Speed 1.508921
+Eagle_Elite 50 Speed 1.507417
+Plant 485
+Rabbit 43 Speed 1.531031
+Fox 44 Speed 1.509248
+Eagle_Elite 50 Speed 1.504558
+Plant 484
+Rabbit 43 Speed 1.53155
+Fox 44 Speed 1.509666
+Eagle_Elite 50 Speed 1.498683
+Plant 484
+Rabbit 43 Speed 1.538117
+Fox 44 Speed 1.511651
+Eagle_Elite 50 Speed 1.505425
+Plant 483
+Rabbit 42 Speed 1.537408
+Fox 44 Speed 1.504308
+Eagle_Elite 50 Speed 1.507639
+Plant 483
+Rabbit 43 Speed 1.545137
+Fox 44 Speed 1.502784
+Eagle_Elite 50 Speed 1.503817
+Plant 483
+Rabbit 43 Speed 1.553333
+Fox 44 Speed 1.506463
+Eagle_Elite 50 Speed 1.507185
+Plant 482
+Rabbit 44 Speed 1.553769
+Fox 44 Speed 1.508566
+Eagle_Elite 50 Speed 1.500936
+Plant 481
+Rabbit 44 Speed 1.557363
+Fox 45 Speed 1.508522
+Eagle_Elite 50 Speed 1.503203
+Plant 480
+Rabbit 44 Speed 1.561434
+Fox 45 Speed 1.504759
+Eagle_Elite 50 Speed 1.499387
+Plant 480
+Rabbit 44 Speed 1.548851
+Fox 45 Speed 1.503839
+Eagle_Elite 50 Speed 1.495682
+Plant 477
+Rabbit 44 Speed 1.548972
+Fox 45 Speed 1.512875
+Eagle_Elite 50 Speed 1.499489
+Plant 476
+Rabbit 43 Speed 1.541244
+Fox 44 Speed 1.516178
+Eagle_Elite 50 Speed 1.501883
+Plant 475
+Rabbit 43 Speed 1.529583
+Fox 44 Speed 1.5118
+Eagle_Elite 50 Speed 1.502643
+Plant 474
+Rabbit 43 Speed 1.528603
+Fox 44 Speed 1.513114
+Eagle_Elite 50 Speed 1.500647
+Plant 473
+Rabbit 43 Speed 1.53168
+Fox 44 Speed 1.507048
+Eagle_Elite 50 Speed 1.501893
+Plant 473
+Rabbit 43 Speed 1.525288
+Fox 44 Speed 1.512558
+Eagle_Elite 50 Speed 1.505129
+Plant 469
+Rabbit 43 Speed 1.53525
+Fox 45 Speed 1.515693
+Eagle_Elite 50 Speed 1.501048
+Plant 469
+Rabbit 43 Speed 1.528469
+Fox 45 Speed 1.511966
+Eagle_Elite 50 Speed 1.503799
+Plant 469
+Rabbit 43 Speed 1.52299
+Fox 45 Speed 1.510809
+Eagle_Elite 50 Speed 1.498901
+Plant 468
+Rabbit 43 Speed 1.526664
+Fox 45 Speed 1.512138
+Eagle_Elite 50 Speed 1.501893
+Plant 468
+Rabbit 43 Speed 1.522152
+Fox 45 Speed 1.518133
+Eagle_Elite 50 Speed 1.497782
+Plant 468
+Rabbit 43 Speed 1.522408
+Fox 45 Speed 1.517483
+Eagle_Elite 50 Speed 1.495921
+Plant 467
+Rabbit 43 Speed 1.525936
+Fox 45 Speed 1.5142
+Eagle_Elite 50 Speed 1.497937
+Plant 467
+Rabbit 43 Speed 1.533386
+Fox 45 Speed 1.511216
+Eagle_Elite 50 Speed 1.495019
+Plant 467
+Rabbit 43 Speed 1.533025
+Fox 45 Speed 1.520199
+Eagle_Elite 50 Speed 1.500682
+Plant 466
+Rabbit 43 Speed 1.5412
+Fox 45 Speed 1.518752
+Eagle_Elite 50 Speed 1.501304
+Plant 466
+Rabbit 43 Speed 1.54645
+Fox 47 Speed 1.516426
+Eagle_Elite 50 Speed 1.502791
+Plant 466
+Rabbit 43 Speed 1.553372
+Fox 47 Speed 1.523021
+Eagle_Elite 50 Speed 1.503788
+Plant 466
+Rabbit 44 Speed 1.554965
+Fox 47 Speed 1.515593
+Eagle_Elite 50 Speed 1.496887
+Plant 466
+Rabbit 43 Speed 1.557355
+Fox 47 Speed 1.519228
+Eagle_Elite 50 Speed 1.499786
+Plant 466
+Rabbit 43 Speed 1.562419
+Fox 47 Speed 1.519806
+Eagle_Elite 50 Speed 1.499476
+Plant 462
+Rabbit 44 Speed 1.567636
+Fox 47 Speed 1.517271
+Eagle_Elite 50 Speed 1.496921
+Plant 462
+Rabbit 44 Speed 1.558927
+Fox 47 Speed 1.517406
+Eagle_Elite 50 Speed 1.499929
+Plant 460
+Rabbit 44 Speed 1.562681
+Fox 47 Speed 1.518243
+Eagle_Elite 50 Speed 1.497749
+Plant 460
+Rabbit 44 Speed 1.557647
+Fox 47 Speed 1.514582
+Eagle_Elite 50 Speed 1.497496
+Plant 459
+Rabbit 44 Speed 1.560596
+Fox 47 Speed 1.516477
+Eagle_Elite 50 Speed 1.497665
+Plant 459
+Rabbit 44 Speed 1.547818
+Fox 49 Speed 1.517408
+Eagle_Elite 50 Speed 1.496519
+Plant 458
+Rabbit 44 Speed 1.561529
+Fox 49 Speed 1.518599
+Eagle_Elite 50 Speed 1.498189
+Plant 458
+Rabbit 44 Speed 1.553563
+Fox 49 Speed 1.516754
+Eagle_Elite 50 Speed 1.498981
+Plant 457
+Rabbit 45 Speed 1.549864
+Fox 49 Speed 1.516715
+Eagle_Elite 50 Speed 1.505587
+Plant 457
+Rabbit 46 Speed 1.547302
+Fox 49 Speed 1.520189
+Eagle_Elite 50 Speed 1.503806
+Plant 456
+Rabbit 45 Speed 1.554129
+Fox 49 Speed 1.508973
+Eagle_Elite 50 Speed 1.502161
+Plant 456
+Rabbit 45 Speed 1.554848
+Fox 49 Speed 1.518587
+Eagle_Elite 50 Speed 1.508575
+Plant 455
+Rabbit 45 Speed 1.540209
+Fox 49 Speed 1.520028
+Eagle_Elite 50 Speed 1.502542
+Plant 454
+Rabbit 45 Speed 1.545614
+Fox 49 Speed 1.512782
+Eagle_Elite 50 Speed 1.500584
+Plant 454
+Rabbit 45 Speed 1.541379
+Fox 51 Speed 1.517354
+Eagle_Elite 50 Speed 1.501034
+Plant 452
+Rabbit 44 Speed 1.543055
+Fox 51 Speed 1.51249
+Eagle_Elite 50 Speed 1.49615
+Plant 452
+Rabbit 44 Speed 1.5436
+Fox 51 Speed 1.512775
+Eagle_Elite 50 Speed 1.5001
+Plant 452
+Rabbit 44 Speed 1.543349
+Fox 51 Speed 1.519525
+Eagle_Elite 50 Speed 1.499686
+Plant 452
+Rabbit 44 Speed 1.543152
+Fox 51 Speed 1.517643
+Eagle_Elite 50 Speed 1.504625
+Plant 452
+Rabbit 45 Speed 1.542592
+Fox 51 Speed 1.518804
+Eagle_Elite 50 Speed 1.497712
+Plant 452
+Rabbit 46 Speed 1.533807
+Fox 51 Speed 1.514614
+Eagle_Elite 50 Speed 1.492552
+Plant 452
+Rabbit 46 Speed 1.54179
+Fox 51 Speed 1.513745
+Eagle_Elite 50 Speed 1.49875
+Plant 452
+Rabbit 46 Speed 1.534022
+Fox 51 Speed 1.510763
+Eagle_Elite 50 Speed 1.500306
+Plant 451
+Rabbit 47 Speed 1.548535
+Fox 53 Speed 1.518241
+Eagle_Elite 50 Speed 1.502824
+Plant 450
+Rabbit 47 Speed 1.552435
+Fox 52 Speed 1.521288
+Eagle_Elite 50 Speed 1.497947
+Plant 450
+Rabbit 47 Speed 1.553235
+Fox 52 Speed 1.520409
+Eagle_Elite 50 Speed 1.499182
+Plant 448
+Rabbit 47 Speed 1.55085
+Fox 52 Speed 1.517542
+Eagle_Elite 50 Speed 1.502034
+Plant 447
+Rabbit 47 Speed 1.551938
+Fox 52 Speed 1.520394
+Eagle_Elite 50 Speed 1.497513
+Plant 446
+Rabbit 49 Speed 1.540746
+Fox 52 Speed 1.52548
+Eagle_Elite 50 Speed 1.499859
+Plant 446
+Rabbit 49 Speed 1.532976
+Fox 52 Speed 1.521777
+Eagle_Elite 50 Speed 1.501567
+Plant 445
+Rabbit 48 Speed 1.533255
+Fox 52 Speed 1.524319
+Eagle_Elite 50 Speed 1.500979
+Plant 443
+Rabbit 48 Speed 1.528898
+Fox 52 Speed 1.528149
+Eagle_Elite 50 Speed 1.501699
+Plant 443
+Rabbit 48 Speed 1.533579
+Fox 52 Speed 1.521734
+Eagle_Elite 50 Speed 1.498033
+Plant 443
+Rabbit 48 Speed 1.535789
+Fox 54 Speed 1.525295
+Eagle_Elite 50 Speed 1.504813
+Plant 443
+Rabbit 48 Speed 1.529767
+Fox 53 Speed 1.519601
+Eagle_Elite 50 Speed 1.497085
+Plant 442
+Rabbit 48 Speed 1.523409
+Fox 53 Speed 1.525318
+Eagle_Elite 50 Speed 1.498172
+Plant 439
+Rabbit 48 Speed 1.529515
+Fox 53 Speed 1.523834
+Eagle_Elite 50 Speed 1.501337
+Plant 439
+Rabbit 49 Speed 1.535835
+Fox 53 Speed 1.519668
+Eagle_Elite 50 Speed 1.499125
+Plant 439
+Rabbit 51 Speed 1.541196
+Fox 53 Speed 1.516173
+Eagle_Elite 50 Speed 1.497932
+Plant 439
+Rabbit 52 Speed 1.544069
+Fox 53 Speed 1.518991
+Eagle_Elite 50 Speed 1.501339
+Plant 439
+Rabbit 52 Speed 1.534414
+Fox 53 Speed 1.524691
+Eagle_Elite 50 Speed 1.499922
+Plant 438
+Rabbit 53 Speed 1.542013
+Fox 53 Speed 1.518799
+Eagle_Elite 50 Speed 1.499336
+Plant 437
+Rabbit 54 Speed 1.540879
+Fox 57 Speed 1.52472
+Eagle_Elite 50 Speed 1.505488
+Plant 437
+Rabbit 53 Speed 1.52149
+Fox 57 Speed 1.528069
+Eagle_Elite 50 Speed 1.498587
+Plant 437
+Rabbit 53 Speed 1.520426
+Fox 56 Speed 1.524813
+Eagle_Elite 50 Speed 1.496893
+Plant 437
+Rabbit 53 Speed 1.524747
+Fox 56 Speed 1.528758
+Eagle_Elite 50 Speed 1.494228
+Plant 437
+Rabbit 53 Speed 1.522055
+Fox 56 Speed 1.527224
+Eagle_Elite 50 Speed 1.498558
+Plant 437
+Rabbit 54 Speed 1.526733
+Fox 56 Speed 1.530651
+Eagle_Elite 50 Speed 1.497782
+Plant 436
+Rabbit 54 Speed 1.532288
+Fox 56 Speed 1.535202
+Eagle_Elite 50 Speed 1.497772
+Plant 435
+Rabbit 55 Speed 1.535545
+Fox 56 Speed 1.535241
+Eagle_Elite 50 Speed 1.495903
+Plant 435
+Rabbit 55 Speed 1.534241
+Fox 56 Speed 1.534352
+Eagle_Elite 50 Speed 1.501449
+Plant 435
+Rabbit 55 Speed 1.527647
+Fox 56 Speed 1.539415
+Eagle_Elite 50 Speed 1.496993
+Plant 435
+Rabbit 55 Speed 1.530739
+Fox 59 Speed 1.537691
+Eagle_Elite 50 Speed 1.501937
+Plant 434
+Rabbit 55 Speed 1.531544
+Fox 59 Speed 1.538721
+Eagle_Elite 50 Speed 1.496828
+Plant 434
+Rabbit 55 Speed 1.526232
+Fox 59 Speed 1.539635
+Eagle_Elite 50 Speed 1.504494
+Plant 434
+Rabbit 55 Speed 1.526735
+Fox 59 Speed 1.528595
+Eagle_Elite 50 Speed 1.502572
+Plant 433
+Rabbit 55 Speed 1.526365
+Fox 59 Speed 1.532766
+Eagle_Elite 50 Speed 1.510053
+Plant 432
+Rabbit 56 Speed 1.53221
+Fox 59 Speed 1.532438
+Eagle_Elite 50 Speed 1.509434

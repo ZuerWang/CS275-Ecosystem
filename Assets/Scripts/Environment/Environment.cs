@@ -42,7 +42,7 @@ public class Environment : MonoBehaviour {
     static Dictionary<Species, Map> speciesMaps;
 
     static float lastReportTime;
-    static string logFilePath = "./Logs/Population.txt";
+    static string logFilePath = "./Logs/Census.txt";
 
     void Start () {
         prng = new System.Random ();
@@ -83,11 +83,28 @@ public class Environment : MonoBehaviour {
     public static void reportPopulation () {
         float timeSinceLastReport = Time.time - lastReportTime;
         if (timeSinceLastReport > 1) {
-            string logString = Time.time + " Rabbit: " + speciesMaps[(Species) (1 << 2)].numEntities 
+            string logString = "Plant: " + speciesMaps[(Species) (1 << 1)].numEntities 
+                  + " Rabbit: " + speciesMaps[(Species) (1 << 2)].numEntities 
                   + " Fox: " + speciesMaps[(Species) (1 << 3)].numEntities
                   + " Eagle_Elite: " + speciesMaps[(Species) (1 << 4)].numEntities;
             Debug.Log (logString);
-            writeLogToFile(logString, true);
+            string plantLog = "Plant " + speciesMaps[(Species) (1 << 1)].numEntities;
+
+            string rabbitLog = "Rabbit " + speciesMaps[(Species) (1 << 2)].numEntities
+                                + " Speed " + speciesMaps[(Species) (1 << 2)].avgSpeed;
+
+            string foxLog = "Fox " + speciesMaps[(Species) (1 << 3)].numEntities
+                            + " Speed " + speciesMaps[(Species) (1 << 3)].avgSpeed;
+
+            string eagleLog = "Eagle_Elite " + speciesMaps[(Species) (1 << 4)].numEntities
+                            + " Speed " + speciesMaps[(Species) (1 << 4)].avgSpeed;
+
+
+            
+            writeLogToFile(plantLog, true);
+            writeLogToFile(rabbitLog, true);
+            writeLogToFile(foxLog, true);
+            writeLogToFile(eagleLog, true);
             lastReportTime = Time.time;
         }
         

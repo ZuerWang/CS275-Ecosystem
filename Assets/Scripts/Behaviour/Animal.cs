@@ -81,8 +81,8 @@ public class Animal : LivingEntity {
         Environment.reportPopulation();
 
         // Increase hunger and thirst over time
-        hunger += Time.deltaTime * 1 / timeToDeathByHunger;
-        thirst += Time.deltaTime * 1 / timeToDeathByThirst;
+        hunger += genes.consumptionRate * Time.deltaTime * 1 / timeToDeathByHunger;
+        thirst += genes.consumptionRate * Time.deltaTime * 1 / timeToDeathByThirst;
         reprod += Time.deltaTime * 1 / timeToReproduce;
 
         // Animate movement. After moving a single tile, the animal will be able to choose its next action
@@ -108,8 +108,8 @@ public class Animal : LivingEntity {
                 lastReproductionTime = Time.time;
                 // Debug.Log ("timeSinceLastRreporduction: " + timeSinceLastRreporduction);
                 Environment.RegisterBirth (this);
-                hunger += Time.deltaTime * reprodHungerCost / timeToDeathByHunger;
-                thirst += Time.deltaTime * reprodThirstCost / timeToDeathByThirst;
+                hunger += genes.consumptionRate * Time.deltaTime * reprodHungerCost / timeToDeathByHunger;
+                thirst += genes.consumptionRate * Time.deltaTime * reprodThirstCost / timeToDeathByThirst;
             } 
             wantToMate = 0;
             newBaby = 0;

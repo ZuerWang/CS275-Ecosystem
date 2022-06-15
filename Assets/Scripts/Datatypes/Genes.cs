@@ -21,6 +21,8 @@ public class Genes {
     public int outputSize = 5;
     public NDArray weights;
 
+    public float consumptionRate;
+
     // constructor
     public Genes (bool isMale, bool isCarnivore, float size, float speed, float aggressiveness, int inputSize, int outputSize, NDArray weights) {
         this.isMale = isMale;
@@ -35,6 +37,7 @@ public class Genes {
         this.colorR = colors[0];
         this.colorG = colors[1];
         this.colorB = colors[2];
+        this.consumptionRate = speed/1.5f;
     }
 
     // get random genes
@@ -81,6 +84,7 @@ public class Genes {
 
     // randomly mutate genes
     public void mutate(){
+        this.speed += 0.1f * RandomGaussian ();
         for (int i = 0; i < this.weights.shape[0]; i++) 
         {
             for (int j = 0; j < this.weights.shape[1]; j++) 
@@ -90,6 +94,7 @@ public class Genes {
                 }
             }
         }
+        this.consumptionRate = speed/1.5f;
     }
 
 
