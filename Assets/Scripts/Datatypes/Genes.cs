@@ -76,8 +76,6 @@ public class Genes {
     // eat desire, reset clock(internal clock) pheromone production, attack, flee...
     public NDArray getNNOuput(NDArray input){
         // single linear layer without activation
-        // TODO: add hidden units and activation functions
-        // NumSharp does not seem to support this, might need to use another package
         return np.dot(this.weights, input);;
     }
 

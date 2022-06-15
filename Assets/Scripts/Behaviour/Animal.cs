@@ -23,6 +23,8 @@ public class Animal : LivingEntity {
     float timeToDeathByHunger = 200;
     float timeToDeathByThirst = 200;
     float timeToReproduce = 10;
+    float reprodHungerCost = 50;
+    float reprodThirstCost = 50;
 
     float drinkDuration = 6;
     float eatDuration = 10;
@@ -38,6 +40,7 @@ public class Animal : LivingEntity {
     public float thirst;
     public float reprod;
     public int newBaby;
+    public float lastReproductionTime;
 
     protected LivingEntity foodTarget;
     protected LivingEntity mateTarget;
@@ -65,6 +68,7 @@ public class Animal : LivingEntity {
         moveFromCoord = coord;
         genes = Genes.RandomGenes (3,4);
         moveSpeed = genes.speed;
+        lastReproductionTime = Time.time;
 
         material.color = (genes.isMale) ? maleColour : femaleColour;
 
@@ -74,6 +78,7 @@ public class Animal : LivingEntity {
 
 
     protected virtual void Update () {
+        Environment.reportPopulation();
 
         // Increase hunger and thirst over time
         hunger += Time.deltaTime * 1 / timeToDeathByHunger;
@@ -98,7 +103,14 @@ public class Animal : LivingEntity {
             Die (CauseOfDeath.Thirst);
         } else if (newBaby == 1){
             //Baby();
-            Environment.RegisterBirth (this);
+            float timeSinceLastRreporduction = Time.time - lastReproductionTime;
+            if (timeSinceLastRreporduction > timeToReproduce) {
+                lastReproductionTime = Time.time;
+                // Debug.Log ("timeSinceLastRreporduction: " + timeSinceLastRreporduction);
+                Environment.RegisterBirth (this);
+                hunger += Time.deltaTime * reprodHungerCost / timeToDeathByHunger;
+                thirst += Time.deltaTime * reprodThirstCost / timeToDeathByThirst;
+            } 
             wantToMate = 0;
             newBaby = 0;
         }
@@ -294,7 +306,7 @@ public class Animal : LivingEntity {
             }
         } else if (currentAction == CreatureAction.AsexualReproduction) {
             reprod = 0;
-            // do something to clone a copy
+            Debug.Log ("Error: AsexualReproduction");
             newBaby = 1;
         }
     }

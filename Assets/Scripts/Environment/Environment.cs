@@ -40,6 +40,8 @@ public class Environment : MonoBehaviour {
 
     static Dictionary<Species, Map> speciesMaps;
 
+    static float lastReportTime;
+
     void Start () {
         prng = new System.Random ();
 
@@ -68,11 +70,27 @@ public class Environment : MonoBehaviour {
         speciesMaps[entity.species].Remove (entity, entity.coord);
     }
 
+    public static void reportPopulation () {
+        float timeSinceLastReport = Time.time - lastReportTime;
+        if (timeSinceLastReport > 1) {
+            Debug.Log (Time.time + " Rabbit: " + speciesMaps[(Species) (1 << 2)].numEntities 
+                  + " Fox: " + speciesMaps[(Species) (1 << 3)].numEntities
+                  + " Eagle_Elite: " + speciesMaps[(Species) (1 << 4)].numEntities);
+            lastReportTime = Time.time;
+        }
+        
+    }
+
     public static void RegisterBirth (Animal entity) {
-        Debug.Log ("RegisterBirth: " + entity.species + " Population: " + speciesMaps[entity.species].numEntities);
+        //Debug.Log ("RegisterBirth: " + entity.species + " Population: " + speciesMaps[entity.species].numEntities);
+        // reportPopulation();
         if (speciesMaps[entity.species].numEntities < 200) {
             
             Animal childEntity = entity;
+            childEntity.reprod = 0;
+            //Animal childEntity = new Animal();
+            //childEntity.species = entity.species;
+            //childEntity.genes = entity.genes;
             childEntity.genes.mutate();
             var child = Instantiate (childEntity);
             Coord spawnCoord = GetNextTileRandom(entity.coord);
@@ -317,6 +335,7 @@ public class Environment : MonoBehaviour {
             }
             Debug.Log ("Init time: " + sw.ElapsedMilliseconds);
         }
+        lastReportTime = Time.time;
     }
 
     void SpawnTrees () {
