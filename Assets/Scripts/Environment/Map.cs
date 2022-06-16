@@ -22,6 +22,7 @@ public class Map {
     public float avgDefense= 1;
     public float avgConsumptionRate = 1;
     public float avgAgility = 1;
+    public float avgMaxHp = 1;
 
 
     public Map (int size, int regionSize) {
@@ -52,6 +53,7 @@ public class Map {
         float totalDefense = 0;
         float totalConsumptionRate = 0;
         float totalAgility = 0;
+        float totalMaxHp = 0;
         for (int y = 0; y < numRegions; y++) {
             for (int x = 0; x < numRegions; x++) {
                 for(int i = 0; i < map[x, y].Count; i++) {
@@ -63,12 +65,13 @@ public class Map {
                         totalDefense += ((Animal) map[x, y][i]).genes.defense;
                         totalConsumptionRate += ((Animal) map[x, y][i]).genes.consumptionRate;
                         totalAgility += ((Animal) map[x, y][i]).genes.agility;
+                        totalMaxHp += ((Animal) map[x, y][i]).genes.maxHp;
                         if (!((Animal) map[x, y][i]).genes.isMale) {
                             totalNumBabies += ((Animal) map[x, y][i]).genes.numBabies;
                             femaleCount += 1;
                         }
                     } else {
-                        plantRemaining += map[x, y][i].AmountRemaining;
+                        plantRemaining += map[x, y][i].currentHp;
                     }
                 } 
             }
@@ -81,6 +84,7 @@ public class Map {
         avgDefense = totalDefense/numEntities;
         avgConsumptionRate = totalConsumptionRate/numEntities;
         avgAgility = totalAgility/numEntities;
+        avgMaxHp = totalMaxHp/numEntities;
     }
 
     public void updateAfterReport() {

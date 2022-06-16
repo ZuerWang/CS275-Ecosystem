@@ -43,4 +43,6 @@ for key in list(logs["Rabbit"].keys()):
             plt.plot(indices, logs[species][key], species_to_color[species])
     plt.xlabel('time')        
     plt.ylabel(key)
+    plt.savefig(key+'.png')
     plt.show()
+    

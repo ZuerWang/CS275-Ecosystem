@@ -106,7 +106,8 @@ public class Environment : MonoBehaviour {
                                     + " Attack " + speciesMaps[spe].avgAttack
                                     + " Defense " + speciesMaps[spe].avgDefense
                                     + " ConsumptionRate " + speciesMaps[spe].avgConsumptionRate
-                                    + " Agility " + speciesMaps[spe].avgAgility;
+                                    + " Agility " + speciesMaps[spe].avgAgility
+                                    + " Max_Hp " + speciesMaps[spe].avgMaxHp;
                     speciesMaps[spe].updateAfterReport();
                     writeLogToFile(speLog, true);
                 }
@@ -145,9 +146,9 @@ public class Environment : MonoBehaviour {
                 for (int x = 0; x < speciesMaps[(Species) (1 << 1)].numRegions; x++) {
                     for(int i = 0; i < (speciesMaps[(Species) (1 << 1)].map)[x, y].Count; i++) {
                         if ((speciesMaps[(Species) (1 << 1)].map)[x, y][i] is not null && 
-                            (speciesMaps[(Species) (1 << 1)].map)[x, y][i].amountRemaining < 2 &&
+                            (speciesMaps[(Species) (1 << 1)].map)[x, y][i].currentHp < 2 &&
                             (float) prng.NextDouble () < plantRegnerateChance) {
-                                (speciesMaps[(Species) (1 << 1)].map)[x, y][i].amountRemaining += 1f;
+                                (speciesMaps[(Species) (1 << 1)].map)[x, y][i].currentHp+= 1f;
                         } 
                     } 
                 }
@@ -319,9 +320,11 @@ public class Environment : MonoBehaviour {
                 }
             }
 
+            preyBySpecies[(Species) (1 << 4)].Add ((Species) (1 << 2));
+            predatorsBySpecies[(Species) (1 << 2)].Add ((Species) (1 << 4));
 
 
-            //LogPredatorPreyRelationships ();
+            LogPredatorPreyRelationships ();
 
             SpawnTrees ();
 

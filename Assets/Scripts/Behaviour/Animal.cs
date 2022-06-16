@@ -18,11 +18,11 @@ public class Animal : LivingEntity {
 
     // Settings:
     float timeBetweenActionChoices = 1;
-    float timeToDeathByHunger = 200;
-    float timeToDeathByThirst = 200;
+    float timeToDeathByHunger = 100;
+    float timeToDeathByThirst = 100;
     float timeToReproduce = 2.5f;
-    float reprodHungerCost = 25;
-    float reprodThirstCost = 25;
+    float reprodHungerCost = 0.125f;
+    float reprodThirstCost = 0.125f;
 
     float drinkDuration = 6;
     float eatDuration = 10;
@@ -71,6 +71,7 @@ public class Animal : LivingEntity {
         reprod = 0;
         newBaby = 0;
         wantToMate = 0;
+        currentHp = genes.maxHp;
 
         material.color = (genes.isMale) ? maleColour : femaleColour;
 
@@ -82,11 +83,6 @@ public class Animal : LivingEntity {
     protected virtual void Update () {
         Environment.regeneratePlant();
         Environment.reportPopulation();
-        // Increase hunger and thirst over time
-        // hunger += genes.consumptionRate * Time.deltaTime * 1 / timeToDeathByHunger;
-        // thirst += genes.consumptionRate * Time.deltaTime * 1 / timeToDeathByThirst;
-        // reprod += Time.deltaTime * 1 / timeToReproduce;
-
         // Animate movement. After moving a single tile, the animal will be able to choose its next action
         if (animatingMovement) {
             AnimateMove ();
@@ -96,9 +92,10 @@ public class Animal : LivingEntity {
             float timeSinceLastActionChoice = Time.time - lastActionChooseTime;
             if (timeSinceLastActionChoice > timeBetweenActionChoices*(1/genes.agility)) {
                 ChooseNextAction ();
-                hunger += genes.consumptionRate * Time.deltaTime * 1 / timeToDeathByHunger;
-                thirst += genes.consumptionRate * Time.deltaTime * 1 / timeToDeathByThirst;
-                reprod += Time.deltaTime * 1 / timeToReproduce;
+                // Increase hunger and thirst over time
+                hunger += genes.consumptionRate * genes.maxHp * 1 / timeToDeathByHunger;
+                thirst += genes.consumptionRate * genes.maxHp * 1 / timeToDeathByThirst;
+                reprod += genes.maxHp * 1 / timeToReproduce;
             }
         }
 
@@ -114,10 +111,8 @@ public class Animal : LivingEntity {
                 // Debug.Log ("timeSinceLastRreporduction: " + timeSinceLastRreporduction);
                 for (int i = 0; i < genes.numBabies; i++) {
                     Environment.RegisterBirth (this);
-                    // hunger += genes.consumptionRate * Time.deltaTime * reprodHungerCost / timeToDeathByHunger;
-                    // thirst += genes.consumptionRate * Time.deltaTime * reprodThirstCost / timeToDeathByThirst;
-                    hunger += genes.consumptionRate * reprodHungerCost / timeToDeathByHunger;
-                    thirst += genes.consumptionRate * reprodThirstCost / timeToDeathByThirst;
+                    hunger += genes.consumptionRate * reprodHungerCost * genes.maxHp;
+                    thirst += genes.consumptionRate * reprodThirstCost * genes.maxHp;
                 }
             } 
             wantToMate = 0;
@@ -297,11 +292,13 @@ public class Animal : LivingEntity {
     void HandleInteractions () {
         if (currentAction == CreatureAction.Eating) {
             if (foodTarget && hunger > 0) {
-                float eatAmount = Mathf.Min (hunger, genes.attack * foodTarget.genes.defense *
-                                                     Time.deltaTime * 1 / eatDuration);
-                eatAmount = (foodTarget).Consume (eatAmount);
+                float sizeFactor = (genes.maxHp > foodTarget.genes.maxHp) ? (genes.maxHp / foodTarget.genes.maxHp) : 0f;
+                float damage = Mathf.Min (hunger, sizeFactor * 
+                                                  (genes.attack / foodTarget.genes.defense) *
+                                                   Time.deltaTime * 1 / eatDuration);
+                damage = (foodTarget).Consume (damage);
                 float foodConversionRate = (foodTarget is Animal) ? 0.9f : 0.5f;
-                hunger -= foodConversionRate * Environment.resourceLevel * eatAmount;
+                hunger -= foodConversionRate * Environment.resourceLevel * damage;
                 hunger = Mathf.Clamp01 (hunger);
             }
         } else if (currentAction == CreatureAction.Drinking) {

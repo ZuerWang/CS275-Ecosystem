@@ -11,7 +11,7 @@ public class Genes {
     public bool isMale;
     //public readonly float[] values;
     public bool isCarnivore;
-    public float size;
+    public float maxHp;
     public float speed;
     public float attack;
     public float defense;
@@ -29,11 +29,11 @@ public class Genes {
     static Random rnd = new Random();
 
     // constructor
-    public Genes (bool isMale, bool isCarnivore, float size, float speed, float attack, 
+    public Genes (bool isMale, bool isCarnivore, float maxHp, float speed, float attack, 
                   int inputSize, int outputSize, NDArray weights, int numBabies, float defense, float agility) {
         this.isMale = isMale;
         this.isCarnivore = isCarnivore;
-        this.size = size;
+        this.maxHp = maxHp;
         this.speed = speed;
         this.attack = attack;
         this.defense = defense;
@@ -45,7 +45,7 @@ public class Genes {
         this.colorR = colors[0];
         this.colorG = colors[1];
         this.colorB = colors[2];
-        this.consumptionRate = speed/1.5f;
+        this.consumptionRate = (speed/1.5f)*attack*defense*maxHp;
         this.numBabies = numBabies;
     }
 
@@ -53,14 +53,14 @@ public class Genes {
     public static Genes RandomGenes (int outputSize, int inputSize) {
         bool isMale = RandomValue () < 0.5f;
         bool isCarnivore = RandomValue () < 0.5f;
-        float size = RandomValue ();
+        float maxHp = 1f + 0.1f * RandomGaussian ();
         float speed = 1.5f + 0.1f * RandomGaussian ();
         float attack = 1f + 0.1f * RandomGaussian ();
         float defense = 1f + 0.1f * RandomGaussian ();
         float agility = 1f + 0.1f * RandomGaussian ();
         int numBabies = rnd.Next(1, 5);
         NDArray weights = np.random.rand((outputSize, inputSize))-0.5;
-        return new Genes (isMale, isCarnivore, size, speed, attack, inputSize, outputSize, weights, numBabies, defense, agility);
+        return new Genes (isMale, isCarnivore, maxHp, speed, attack, inputSize, outputSize, weights, numBabies, defense, agility);
     }
 
     // display genes information
@@ -120,6 +120,12 @@ public class Genes {
                 this.agility = 1;
             }
         }
+        if (RandomValue () < mutationChance) {
+            this.maxHp += 0.1f * RandomGaussian ();
+            if (this.maxHp < 0) {
+                this.maxHp = 1f;
+            }
+        }
         for (int i = 0; i < this.weights.shape[0]; i++) 
         {
             for (int j = 0; j < this.weights.shape[1]; j++) 
@@ -129,13 +135,13 @@ public class Genes {
                 }
             }
         }
-        this.consumptionRate = (speed/1.5f)*attack*defense;
+        this.consumptionRate = (speed/1.5f)*attack*defense*maxHp;
     }
 
     public void inheritGenes(Genes g1, Genes g2) {
         this.isMale = RandomValue () < 0.5f;
         this.isCarnivore = g1.isCarnivore;
-        this.size = (g1.size+g2.size)/2;
+        this.maxHp = (g1.maxHp+g2.maxHp)/2;
         this.speed = (g1.speed+g2.speed)/2;
         this.attack = (g1.attack+g2.attack)/2;
         this.defense = (g1.defense+g2.defense)/2;
