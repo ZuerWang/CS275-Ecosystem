@@ -18,12 +18,11 @@ public class Animal : LivingEntity {
 
     // Settings:
     float timeBetweenActionChoices = 1;
-    float moveSpeed = 1.5f;
     float timeToDeathByHunger = 200;
     float timeToDeathByThirst = 200;
     float timeToReproduce = 2.5f;
-    float reprodHungerCost = 15;
-    float reprodThirstCost = 15;
+    float reprodHungerCost = 25;
+    float reprodThirstCost = 25;
 
     float drinkDuration = 6;
     float eatDuration = 10;
@@ -66,8 +65,12 @@ public class Animal : LivingEntity {
         base.Init (coord);
         moveFromCoord = coord;
         genes = Genes.RandomGenes (3,4);
-        moveSpeed = genes.speed;
         lastReproductionTime = Time.time;
+        hunger = 0;
+        thirst = 0;
+        reprod = 0;
+        newBaby = 0;
+        wantToMate = 0;
 
         material.color = (genes.isMale) ? maleColour : femaleColour;
 
@@ -80,9 +83,9 @@ public class Animal : LivingEntity {
         Environment.regeneratePlant();
         Environment.reportPopulation();
         // Increase hunger and thirst over time
-        hunger += genes.consumptionRate * Time.deltaTime * 1 / timeToDeathByHunger;
-        thirst += genes.consumptionRate * Time.deltaTime * 1 / timeToDeathByThirst;
-        reprod += Time.deltaTime * 1 / timeToReproduce;
+        // hunger += genes.consumptionRate * Time.deltaTime * 1 / timeToDeathByHunger;
+        // thirst += genes.consumptionRate * Time.deltaTime * 1 / timeToDeathByThirst;
+        // reprod += Time.deltaTime * 1 / timeToReproduce;
 
         // Animate movement. After moving a single tile, the animal will be able to choose its next action
         if (animatingMovement) {
@@ -91,8 +94,11 @@ public class Animal : LivingEntity {
             // Handle interactions with external things, like food, water, mates
             HandleInteractions ();
             float timeSinceLastActionChoice = Time.time - lastActionChooseTime;
-            if (timeSinceLastActionChoice > timeBetweenActionChoices) {
+            if (timeSinceLastActionChoice > timeBetweenActionChoices*(1/genes.agility)) {
                 ChooseNextAction ();
+                hunger += genes.consumptionRate * Time.deltaTime * 1 / timeToDeathByHunger;
+                thirst += genes.consumptionRate * Time.deltaTime * 1 / timeToDeathByThirst;
+                reprod += Time.deltaTime * 1 / timeToReproduce;
             }
         }
 
@@ -108,8 +114,10 @@ public class Animal : LivingEntity {
                 // Debug.Log ("timeSinceLastRreporduction: " + timeSinceLastRreporduction);
                 for (int i = 0; i < genes.numBabies; i++) {
                     Environment.RegisterBirth (this);
-                    hunger += genes.consumptionRate * Time.deltaTime * reprodHungerCost / timeToDeathByHunger;
-                    thirst += genes.consumptionRate * Time.deltaTime * reprodThirstCost / timeToDeathByThirst;
+                    // hunger += genes.consumptionRate * Time.deltaTime * reprodHungerCost / timeToDeathByHunger;
+                    // thirst += genes.consumptionRate * Time.deltaTime * reprodThirstCost / timeToDeathByThirst;
+                    hunger += genes.consumptionRate * reprodHungerCost / timeToDeathByHunger;
+                    thirst += genes.consumptionRate * reprodThirstCost / timeToDeathByThirst;
                 }
             } 
             wantToMate = 0;
@@ -289,10 +297,11 @@ public class Animal : LivingEntity {
     void HandleInteractions () {
         if (currentAction == CreatureAction.Eating) {
             if (foodTarget && hunger > 0) {
-                float eatAmount = Mathf.Min (hunger, Time.deltaTime * 1 / eatDuration);
-                // eatAmount = ((Plant) foodTarget).Consume (eatAmount);
+                float eatAmount = Mathf.Min (hunger, genes.attack * foodTarget.genes.defense *
+                                                     Time.deltaTime * 1 / eatDuration);
                 eatAmount = (foodTarget).Consume (eatAmount);
-                hunger -= Environment.resourceLevel*eatAmount;
+                float foodConversionRate = (foodTarget is Animal) ? 0.9f : 0.5f;
+                hunger -= foodConversionRate * Environment.resourceLevel * eatAmount;
                 hunger = Mathf.Clamp01 (hunger);
             }
         } else if (currentAction == CreatureAction.Drinking) {
@@ -316,7 +325,7 @@ public class Animal : LivingEntity {
 
     void AnimateMove () {
         // Move in an arc from start to end tile
-        moveTime = Mathf.Min (1, moveTime + Time.deltaTime * moveSpeed * moveSpeedFactor);
+        moveTime = Mathf.Min (1, moveTime + Time.deltaTime * genes.speed * moveSpeedFactor);
         float height = (1 - 4 * (moveTime - .5f) * (moveTime - .5f)) * moveArcHeight * moveArcHeightFactor;
         transform.position = Vector3.Lerp (moveStartPos, moveTargetPos, moveTime) + Vector3.up * height;
 

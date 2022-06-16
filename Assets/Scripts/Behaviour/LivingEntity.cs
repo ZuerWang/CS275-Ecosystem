@@ -2,7 +2,7 @@
 
 public class LivingEntity : MonoBehaviour {
     public float amountRemaining = 1;
-    const float consumeSpeed = 8;
+    const float consumeSpeed = 16;//originally 8
 
     public int colourMaterialIndex;
     public Species species;
@@ -22,7 +22,7 @@ public class LivingEntity : MonoBehaviour {
     public virtual void Init (Coord coord) {
         this.coord = coord;
         transform.position = Environment.tileCentres[coord.x, coord.y];
-
+        genes = Genes.RandomGenes (3,4);
         // Set material to the instance material
         var meshRenderer = transform.GetComponentInChildren<MeshRenderer> ();
         for (int i = 0; i < meshRenderer.sharedMaterials.Length; i++)
@@ -50,7 +50,7 @@ public class LivingEntity : MonoBehaviour {
         if (amountRemaining > 0) {
             float amountConsumed = Mathf.Max (0, Mathf.Min (amountRemaining, amount));
             amountRemaining -= amount * consumeSpeed;
-
+            //amountRemaining -= amountConsumed;
             transform.localScale = Vector3.one * amountRemaining;
 
             if (amountRemaining <= 0) {

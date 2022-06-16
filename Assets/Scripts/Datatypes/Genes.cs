@@ -13,7 +13,9 @@ public class Genes {
     public bool isCarnivore;
     public float size;
     public float speed;
-    public float aggressiveness;
+    public float attack;
+    public float defense;
+    public float agility;
     public float colorR;
     public float colorG;
     public float colorB;
@@ -27,13 +29,15 @@ public class Genes {
     static Random rnd = new Random();
 
     // constructor
-    public Genes (bool isMale, bool isCarnivore, float size, float speed, float aggressiveness, 
-                  int inputSize, int outputSize, NDArray weights, int numBabies) {
+    public Genes (bool isMale, bool isCarnivore, float size, float speed, float attack, 
+                  int inputSize, int outputSize, NDArray weights, int numBabies, float defense, float agility) {
         this.isMale = isMale;
         this.isCarnivore = isCarnivore;
         this.size = size;
         this.speed = speed;
-        this.aggressiveness = aggressiveness;
+        this.attack = attack;
+        this.defense = defense;
+        this.agility = agility;
         this.inputSize = inputSize;
         this.outputSize = outputSize;
         this.weights = weights;
@@ -51,10 +55,12 @@ public class Genes {
         bool isCarnivore = RandomValue () < 0.5f;
         float size = RandomValue ();
         float speed = 1.5f + 0.1f * RandomGaussian ();
-        float aggressiveness = RandomValue ();
+        float attack = 1f + 0.1f * RandomGaussian ();
+        float defense = 1f + 0.1f * RandomGaussian ();
+        float agility = 1f + 0.1f * RandomGaussian ();
         int numBabies = rnd.Next(1, 5);
         NDArray weights = np.random.rand((outputSize, inputSize))-0.5;
-        return new Genes (isMale, isCarnivore, size, speed, aggressiveness, inputSize, outputSize, weights, numBabies);
+        return new Genes (isMale, isCarnivore, size, speed, attack, inputSize, outputSize, weights, numBabies, defense, agility);
     }
 
     // display genes information
@@ -92,11 +98,26 @@ public class Genes {
     public void mutate(){
         if (RandomValue () < mutationChance) {
             this.speed += 0.1f * RandomGaussian ();
+            if (this.speed < 0) {
+                this.speed = 1.5f;
+            }
         }
         if ((RandomValue () < mutationChance)) {
             this.numBabies += RandomValue () < 0.5f ? -1 : 1;
             if (this.numBabies < 1) {
                 this.numBabies = 1;
+            }
+        }
+        if ((RandomValue () < mutationChance)) {
+            this.attack += 0.1f * RandomGaussian ();
+        }
+        if ((RandomValue () < mutationChance)) {
+            this.defense += 0.1f * RandomGaussian ();
+        }
+        if ((RandomValue () < mutationChance)) {
+            this.agility= 0.1f * RandomGaussian ();
+            if (this.agility <= 0) {
+                this.agility = 1;
             }
         }
         for (int i = 0; i < this.weights.shape[0]; i++) 
@@ -108,7 +129,7 @@ public class Genes {
                 }
             }
         }
-        this.consumptionRate = speed/1.5f;
+        this.consumptionRate = (speed/1.5f)*attack*defense;
     }
 
     public void inheritGenes(Genes g1, Genes g2) {
@@ -116,7 +137,9 @@ public class Genes {
         this.isCarnivore = g1.isCarnivore;
         this.size = (g1.size+g2.size)/2;
         this.speed = (g1.speed+g2.speed)/2;
-        this.aggressiveness = (g1.aggressiveness+g2.aggressiveness)/2;
+        this.attack = (g1.attack+g2.attack)/2;
+        this.defense = (g1.defense+g2.defense)/2;
+        this.agility = (g1.agility+g2.agility)/2;
         this.inputSize = g1.inputSize;
         this.outputSize = g1.outputSize;
         this.weights = (g1.weights+g2.weights)/2;

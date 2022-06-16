@@ -44,8 +44,9 @@ public class Environment : MonoBehaviour {
     static float lastReportTime;
     static float lastRegenerationTime;
     static string logFilePath = "./Logs/Census.txt";
-    public static float resourceLevel = 4;
-    public static float plantRegnerateChance = 0.01f;
+    public static float resourceLevel = 2;
+    public static float plantRegnerateChance = 0.001f;
+    static float timeBetweenPlantRegeneration = 20;
 
     void Start () {
         prng = new System.Random ();
@@ -101,7 +102,11 @@ public class Environment : MonoBehaviour {
                                     + " Thirst " + speciesMaps[spe].avgThirstLevel
                                     + " Birth " + speciesMaps[spe].numBirth
                                     + " Death " + speciesMaps[spe].numDeath
-                                    + " Number_of_Babies_per_Pregnancy " + speciesMaps[spe].avgNumBabies;
+                                    + " Number_of_Babies_per_Pregnancy " + speciesMaps[spe].avgNumBabies
+                                    + " Attack " + speciesMaps[spe].avgAttack
+                                    + " Defense " + speciesMaps[spe].avgDefense
+                                    + " ConsumptionRate " + speciesMaps[spe].avgConsumptionRate
+                                    + " Agility " + speciesMaps[spe].avgAgility;
                     speciesMaps[spe].updateAfterReport();
                     writeLogToFile(speLog, true);
                 }
@@ -119,49 +124,23 @@ public class Environment : MonoBehaviour {
     }
 
     public static void RegisterBirth (Animal entity) {
-        Debug.Log ("RegisterBirth: " + entity.species + " Population: " + speciesMaps[entity.species].numEntities);
-        // reportPopulation();
-        if (speciesMaps[entity.species].numEntities < 10000) {
+        // Debug.Log ("RegisterBirth: " + entity.species + " Population: " + speciesMaps[entity.species].numEntities);
+        if (speciesMaps[entity.species].numEntities < 100000) {
             
             Animal childEntity = entity;
-            childEntity.reprod = 0;
-            //Animal childEntity = new Animal();
-            //childEntity.species = entity.species;
-            //childEntity.genes = entity.genes;
+            Coord spawnCoord = GetNextTileRandom(entity.coord);
+            childEntity.Init(spawnCoord);
             childEntity.genes.inheritGenes(entity.genes, entity.partnerGenes);
             var child = Instantiate (childEntity);
-            Coord spawnCoord = GetNextTileRandom(entity.coord);
             child.Init (spawnCoord);
             
             speciesMaps[entity.species].Add (childEntity, spawnCoord);
         }
     }
 
-    // public static void SpawnPlants () {
-    //     float timeSinceLastRegeneration = Time.time - lastRegenerationTime;
-    //     if (timeSinceLastRegeneration > 1) {
-    //         for (int y = 0; y < speciesMaps[(Species) (1 << 1)].numRegions; y++) {
-    //             for (int x = 0; x < speciesMaps[(Species) (1 << 1)].numRegions; x++) {
-    //                 for(int i = 0; i < (speciesMaps[(Species) (1 << 1)].map)[x, y].Count; i++) {
-    //                     if ((speciesMaps[(Species) (1 << 1)].map)[x, y][i] is not null && 
-    //                         (float) prng.NextDouble () < plantRegnerateChance) {
-    //                         LivingEntity childEntity = (speciesMaps[(Species) (1 << 1)].map)[x, y][i];
-    //                         var child = Instantiate (childEntity);
-    //                         Coord spawnCoord = GetNextTileRandom((speciesMaps[(Species) (1 << 1)].map)[x, y][i].coord);
-    //                         child.Init (spawnCoord);
-    //                         // Debug.Log ("Generate Plant");
-    //                         speciesMaps[(Species) (1 << 1)].Add (childEntity, spawnCoord);
-    //                     } 
-    //                 } 
-    //             }
-    //         }
-    //         lastRegenerationTime = Time.time;    
-    //     }
-    // }
-
     public static void regeneratePlant () {
         float timeSinceLastRegeneration = Time.time - lastRegenerationTime;
-        if (timeSinceLastRegeneration > 1) {
+        if (timeSinceLastRegeneration > timeBetweenPlantRegeneration) {
             for (int y = 0; y < speciesMaps[(Species) (1 << 1)].numRegions; y++) {
                 for (int x = 0; x < speciesMaps[(Species) (1 << 1)].numRegions; x++) {
                     for(int i = 0; i < (speciesMaps[(Species) (1 << 1)].map)[x, y].Count; i++) {

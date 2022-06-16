@@ -30,8 +30,8 @@ print(list(logs["Rabbit"].keys()))
 
 for species in logs:
     if species != "Plant":
-        logs[species]["Birth Rate"] = [0]
-        logs[species]["Death Rate"] = [0]
+        logs[species]["Birth Rate"] = [1]
+        logs[species]["Death Rate"] = [1]
         for i in range (len(indices)-1):
             logs[species]["Birth Rate"].append(logs[species]["Birth"][i+1]/logs[species]["population"][i])
             logs[species]["Death Rate"].append(logs[species]["Death"][i+1]/logs[species]["population"][i])

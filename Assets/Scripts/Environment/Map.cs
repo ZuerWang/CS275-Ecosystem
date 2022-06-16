@@ -11,13 +11,17 @@ public class Map {
     public readonly int numRegions;
     public int numEntities;
 
-    public float avgSpeed = 0;
+    public float avgSpeed = 1.5f;
     public float avgHungerLevel = 0;
     public float avgThirstLevel = 0;
     public int numBirth = 0;
     public int numDeath = 0;
     public float avgNumBabies;
     public float plantRemaining;
+    public float avgAttack = 1;
+    public float avgDefense= 1;
+    public float avgConsumptionRate = 1;
+    public float avgAgility = 1;
 
 
     public Map (int size, int regionSize) {
@@ -44,6 +48,10 @@ public class Map {
         float totalNumBabies = 0;
         float femaleCount = 0;
         plantRemaining = 0;
+        float totalAttack = 0;
+        float totalDefense = 0;
+        float totalConsumptionRate = 0;
+        float totalAgility = 0;
         for (int y = 0; y < numRegions; y++) {
             for (int x = 0; x < numRegions; x++) {
                 for(int i = 0; i < map[x, y].Count; i++) {
@@ -51,6 +59,10 @@ public class Map {
                         totalHunger += ((Animal) map[x, y][i]).hunger;
                         totalThirst += ((Animal) map[x, y][i]).thirst;
                         totalSpeed += ((Animal) map[x, y][i]).genes.speed;
+                        totalAttack += ((Animal) map[x, y][i]).genes.attack;
+                        totalDefense += ((Animal) map[x, y][i]).genes.defense;
+                        totalConsumptionRate += ((Animal) map[x, y][i]).genes.consumptionRate;
+                        totalAgility += ((Animal) map[x, y][i]).genes.agility;
                         if (!((Animal) map[x, y][i]).genes.isMale) {
                             totalNumBabies += ((Animal) map[x, y][i]).genes.numBabies;
                             femaleCount += 1;
@@ -65,6 +77,10 @@ public class Map {
         avgThirstLevel = totalThirst/numEntities;
         avgSpeed = totalSpeed/numEntities;
         avgNumBabies = totalNumBabies/femaleCount;
+        avgAttack = totalAttack/numEntities;
+        avgDefense = totalDefense/numEntities;
+        avgConsumptionRate = totalConsumptionRate/numEntities;
+        avgAgility = totalAgility/numEntities;
     }
 
     public void updateAfterReport() {
