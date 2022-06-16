@@ -1,929 +1,221 @@
 Start Simulation
-Plant 5000
-Rabbit 1000 Speed 1.497642 Hunger 0.004505043 Thirst 0.004737617 Birth 1816 Death 816 Number_of_Babies_per_Pregnancy 2.551422
-Fox 400 Speed 1.509045 Hunger 0.004741149 Thirst 0.004725115 Birth 726 Death 326 Number_of_Babies_per_Pregnancy 2.535885
-Eagle_Elite 200 Speed 1.494938 Hunger 0.004782542 Thirst 0.00453918 Birth 355 Death 155 Number_of_Babies_per_Pregnancy 2.414141
-Plant 5000
-Rabbit 1000 Speed 1.497642 Hunger 0.007747944 Thirst 0.009414568 Birth 910 Death 910 Number_of_Babies_per_Pregnancy 2.551422
-Fox 400 Speed 1.509045 Hunger 0.00926345 Thirst 0.009332095 Birth 404 Death 404 Number_of_Babies_per_Pregnancy 2.535885
-Eagle_Elite 200 Speed 1.494938 Hunger 0.009538535 Thirst 0.009112791 Birth 199 Death 199 Number_of_Babies_per_Pregnancy 2.414141
-Plant 5000
-Rabbit 1029 Speed 1.499731 Hunger 0.01168194 Thirst 0.01522054 Birth 843 Death 814 Number_of_Babies_per_Pregnancy 2.512766
-Fox 400 Speed 1.509045 Hunger 0.01346134 Thirst 0.01391506 Birth 403 Death 403 Number_of_Babies_per_Pregnancy 2.535885
-Eagle_Elite 204 Speed 1.495199 Hunger 0.01548141 Thirst 0.01482613 Birth 212 Death 208 Number_of_Babies_per_Pregnancy 2.428571
-Plant 5000
-Rabbit 1089 Speed 1.500058 Hunger 0.01742648 Thirst 0.02274327 Birth 808 Death 748 Number_of_Babies_per_Pregnancy 2.571713
-Fox 412 Speed 1.508951 Hunger 0.01925344 Thirst 0.02005988 Birth 423 Death 411 Number_of_Babies_per_Pregnancy 2.523585
-Eagle_Elite 204 Speed 1.49574 Hunger 0.01986221 Thirst 0.01914719 Birth 223 Death 223 Number_of_Babies_per_Pregnancy 2.455446
-Plant 5000
-Rabbit 1132 Speed 1.499504 Hunger 0.02149771 Thirst 0.02874274 Birth 776 Death 733 Number_of_Babies_per_Pregnancy 2.546351
-Fox 419 Speed 1.507961 Hunger 0.02337003 Thirst 0.02509789 Birth 411 Death 404 Number_of_Babies_per_Pregnancy 2.535545
-Eagle_Elite 206 Speed 1.495384 Hunger 0.02495601 Thirst 0.02412567 Birth 213 Death 211 Number_of_Babies_per_Pregnancy 2.46
-Plant 5000
-Rabbit 1179 Speed 1.50151 Hunger 0.02678661 Thirst 0.03464524 Birth 682 Death 635 Number_of_Babies_per_Pregnancy 2.47259
-Fox 419 Speed 1.508136 Hunger 0.02665814 Thirst 0.0286045 Birth 341 Death 341 Number_of_Babies_per_Pregnancy 2.525822
-Eagle_Elite 206 Speed 1.49569 Hunger 0.02909569 Thirst 0.02798363 Birth 190 Death 190 Number_of_Babies_per_Pregnancy 2.46
-Plant 4994
-Rabbit 1277 Speed 1.501865 Hunger 0.03563223 Thirst 0.04440145 Birth 878 Death 780 Number_of_Babies_per_Pregnancy 2.496633
-Fox 434 Speed 1.509117 Hunger 0.03394741 Thirst 0.03600943 Birth 425 Death 410 Number_of_Babies_per_Pregnancy 2.511521
-Eagle_Elite 210 Speed 1.495883 Hunger 0.03466238 Thirst 0.0339688 Birth 229 Death 225 Number_of_Babies_per_Pregnancy 2.444444
-Plant 4988
-Rabbit 1381 Speed 1.503432 Hunger 0.04575916 Thirst 0.05649641 Birth 870 Death 766 Number_of_Babies_per_Pregnancy 2.54876
-Fox 447 Speed 1.507907 Hunger 0.03991118 Thirst 0.04235661 Birth 413 Death 400 Number_of_Babies_per_Pregnancy 2.513762
-Eagle_Elite 213 Speed 1.499133 Hunger 0.03872332 Thirst 0.038682 Birth 201 Death 198 Number_of_Babies_per_Pregnancy 2.398058
-Plant 4979
-Rabbit 1497 Speed 1.502231 Hunger 0.05589382 Thirst 0.06828398 Birth 1013 Death 897 Number_of_Babies_per_Pregnancy 2.515347
-Fox 461 Speed 1.508085 Hunger 0.0454958 Thirst 0.05057892 Birth 411 Death 397 Number_of_Babies_per_Pregnancy 2.513762
-Eagle_Elite 222 Speed 1.499097 Hunger 0.04925865 Thirst 0.04879858 Birth 227 Death 218 Number_of_Babies_per_Pregnancy 2.386139
-Plant 4965
-Rabbit 1615 Speed 1.501297 Hunger 0.06426091 Thirst 0.07893045 Birth 950 Death 832 Number_of_Babies_per_Pregnancy 2.546131
-Fox 473 Speed 1.508587 Hunger 0.05055945 Thirst 0.05636918 Birth 372 Death 360 Number_of_Babies_per_Pregnancy 2.493213
-Eagle_Elite 223 Speed 1.497333 Hunger 0.05083875 Thirst 0.05036732 Birth 191 Death 190 Number_of_Babies_per_Pregnancy 2.435644
-Plant 4951
-Rabbit 1731 Speed 1.50137 Hunger 0.07305577 Thirst 0.08984566 Birth 1154 Death 1038 Number_of_Babies_per_Pregnancy 2.597101
-Fox 482 Speed 1.507764 Hunger 0.05480216 Thirst 0.0597709 Birth 387 Death 378 Number_of_Babies_per_Pregnancy 2.473451
-Eagle_Elite 223 Speed 1.497856 Hunger 0.05410885 Thirst 0.05522661 Birth 199 Death 199 Number_of_Babies_per_Pregnancy 2.441176
-Plant 4917
-Rabbit 1855 Speed 1.499565 Hunger 0.08387822 Thirst 0.1009117 Birth 1226 Death 1102 Number_of_Babies_per_Pregnancy 2.55618
-Fox 498 Speed 1.507215 Hunger 0.06364977 Thirst 0.06846375 Birth 423 Death 407 Number_of_Babies_per_Pregnancy 2.504464
-Eagle_Elite 227 Speed 1.49755 Hunger 0.05855822 Thirst 0.06342528 Birth 213 Death 209 Number_of_Babies_per_Pregnancy 2.425743
-Plant 4885
-Rabbit 1976 Speed 1.499212 Hunger 0.09417723 Thirst 0.1120803 Birth 1352 Death 1231 Number_of_Babies_per_Pregnancy 2.572186
-Fox 511 Speed 1.507733 Hunger 0.06914091 Thirst 0.07394923 Birth 418 Death 405 Number_of_Babies_per_Pregnancy 2.5
-Eagle_Elite 234 Speed 1.500788 Hunger 0.06641655 Thirst 0.07011553 Birth 219 Death 212 Number_of_Babies_per_Pregnancy 2.466667
-Plant 4868
-Rabbit 2079 Speed 1.498691 Hunger 0.1013187 Thirst 0.1206474 Birth 1081 Death 978 Number_of_Babies_per_Pregnancy 2.540506
-Fox 524 Speed 1.506948 Hunger 0.07437291 Thirst 0.07962593 Birth 314 Death 301 Number_of_Babies_per_Pregnancy 2.546256
-Eagle_Elite 234 Speed 1.499593 Hunger 0.06820002 Thirst 0.07094059 Birth 160 Death 160 Number_of_Babies_per_Pregnancy 2.423077
-Plant 4835
-Rabbit 2231 Speed 1.499988 Hunger 0.1121638 Thirst 0.1320569 Birth 1531 Death 1379 Number_of_Babies_per_Pregnancy 2.643885
-Fox 540 Speed 1.507494 Hunger 0.07802981 Thirst 0.08479222 Birth 419 Death 403 Number_of_Babies_per_Pregnancy 2.547826
-Eagle_Elite 237 Speed 1.502258 Hunger 0.07264284 Thirst 0.07685958 Birth 213 Death 210 Number_of_Babies_per_Pregnancy 2.420561
-Plant 4797
-Rabbit 2343 Speed 1.500592 Hunger 0.1202703 Thirst 0.1398202 Birth 1527 Death 1415 Number_of_Babies_per_Pregnancy 2.574419
-Fox 548 Speed 1.509009 Hunger 0.0840923 Thirst 0.0899092 Birth 427 Death 419 Number_of_Babies_per_Pregnancy 2.530172
-Eagle_Elite 241 Speed 1.500526 Hunger 0.07739829 Thirst 0.08251972 Birth 195 Death 191 Number_of_Babies_per_Pregnancy 2.396226
-Plant 4769
-Rabbit 2491 Speed 1.499312 Hunger 0.1288285 Thirst 0.1514569 Birth 1729 Death 1581 Number_of_Babies_per_Pregnancy 2.542411
-Fox 556 Speed 1.508515 Hunger 0.08885588 Thirst 0.09702205 Birth 420 Death 412 Number_of_Babies_per_Pregnancy 2.53913
-Eagle_Elite 247 Speed 1.501829 Hunger 0.08325554 Thirst 0.08810142 Birth 204 Death 198 Number_of_Babies_per_Pregnancy 2.432692
-Plant 4739
-Rabbit 2591 Speed 1.500075 Hunger 0.1381462 Thirst 0.1605696 Birth 1771 Death 1671 Number_of_Babies_per_Pregnancy 2.586061
-Fox 559 Speed 1.508274 Hunger 0.09289528 Thirst 0.1007701 Birth 431 Death 428 Number_of_Babies_per_Pregnancy 2.510823
-Eagle_Elite 254 Speed 1.504053 Hunger 0.09131017 Thirst 0.09751265 Birth 208 Death 201 Number_of_Babies_per_Pregnancy 2.418182
-Plant 4697
-Rabbit 2683 Speed 1.500321 Hunger 0.1440383 Thirst 0.167988 Birth 1400 Death 1308 Number_of_Babies_per_Pregnancy 2.549266
-Fox 564 Speed 1.509124 Hunger 0.09843908 Thirst 0.1061759 Birth 309 Death 304 Number_of_Babies_per_Pregnancy 2.506608
-Eagle_Elite 254 Speed 1.501334 Hunger 0.09328809 Thirst 0.09971346 Birth 160 Death 160 Number_of_Babies_per_Pregnancy 2.375
-Plant 4638
-Rabbit 2801 Speed 1.498993 Hunger 0.1546459 Thirst 0.1784346 Birth 1914 Death 1796 Number_of_Babies_per_Pregnancy 2.5923
-Fox 572 Speed 1.509307 Hunger 0.1044527 Thirst 0.1121862 Birth 460 Death 452 Number_of_Babies_per_Pregnancy 2.527426
-Eagle_Elite 257 Speed 1.50305 Hunger 0.09943091 Thirst 0.1050948 Birth 211 Death 208 Number_of_Babies_per_Pregnancy 2.385321
-Plant 4532
-Rabbit 2915 Speed 1.499343 Hunger 0.1644019 Thirst 0.1899128 Birth 1937 Death 1823 Number_of_Babies_per_Pregnancy 2.593536
-Fox 569 Speed 1.508002 Hunger 0.1099316 Thirst 0.1192073 Birth 415 Death 418 Number_of_Babies_per_Pregnancy 2.590717
-Eagle_Elite 257 Speed 1.502616 Hunger 0.1033222 Thirst 0.1107093 Birth 217 Death 217 Number_of_Babies_per_Pregnancy 2.387387
-Plant 4442
-Rabbit 3092 Speed 1.49959 Hunger 0.1770718 Thirst 0.2012508 Birth 2249 Death 2072 Number_of_Babies_per_Pregnancy 2.62946
-Fox 580 Speed 1.50812 Hunger 0.1161361 Thirst 0.1269064 Birth 461 Death 450 Number_of_Babies_per_Pregnancy 2.575221
-Eagle_Elite 260 Speed 1.503885 Hunger 0.1105831 Thirst 0.1185196 Birth 217 Death 214 Number_of_Babies_per_Pregnancy 2.391304
-Plant 4370
-Rabbit 3231 Speed 1.5005 Hunger 0.1916723 Thirst 0.215042 Birth 2366 Death 2227 Number_of_Babies_per_Pregnancy 2.627134
-Fox 584 Speed 1.507099 Hunger 0.1223606 Thirst 0.1339293 Birth 477 Death 473 Number_of_Babies_per_Pregnancy 2.545871
-Eagle_Elite 264 Speed 1.501953 Hunger 0.1159652 Thirst 0.1248439 Birth 211 Death 207 Number_of_Babies_per_Pregnancy 2.478632
-Plant 4319
-Rabbit 3404 Speed 1.500288 Hunger 0.2075851 Thirst 0.2285547 Birth 2410 Death 2237 Number_of_Babies_per_Pregnancy 2.654167
-Fox 598 Speed 1.507406 Hunger 0.1307102 Thirst 0.140573 Birth 463 Death 449 Number_of_Babies_per_Pregnancy 2.538813
-Eagle_Elite 266 Speed 1.502384 Hunger 0.1214335 Thirst 0.1323494 Birth 211 Death 209 Number_of_Babies_per_Pregnancy 2.495652
-Plant 4270
-Rabbit 3543 Speed 1.499105 Hunger 0.219904 Thirst 0.2385943 Birth 2551 Death 2412 Number_of_Babies_per_Pregnancy 2.63786
-Fox 596 Speed 1.507689 Hunger 0.1320451 Thirst 0.1436395 Birth 464 Death 466 Number_of_Babies_per_Pregnancy 2.536364
-Eagle_Elite 288 Speed 1.500168 Hunger 0.138197 Thirst 0.1467639 Birth 254 Death 232 Number_of_Babies_per_Pregnancy 2.589147
-Plant 4229
-Rabbit 3757 Speed 1.50123 Hunger 0.2378437 Thirst 0.2545398 Birth 2764 Death 2550 Number_of_Babies_per_Pregnancy 2.651341
-Fox 596 Speed 1.507567 Hunger 0.1363129 Thirst 0.1502112 Birth 483 Death 483 Number_of_Babies_per_Pregnancy 2.561905
-Eagle_Elite 289 Speed 1.500617 Hunger 0.1408553 Thirst 0.1485461 Birth 239 Death 238 Number_of_Babies_per_Pregnancy 2.476923
-Plant 4178
-Rabbit 3939 Speed 1.501353 Hunger 0.2512 Thirst 0.2641537 Birth 2804 Death 2622 Number_of_Babies_per_Pregnancy 2.639613
-Fox 595 Speed 1.507709 Hunger 0.1358278 Thirst 0.1538323 Birth 460 Death 461 Number_of_Babies_per_Pregnancy 2.554502
-Eagle_Elite 296 Speed 1.498038 Hunger 0.1488338 Thirst 0.1543101 Birth 272 Death 265 Number_of_Babies_per_Pregnancy 2.439394
-Plant 4120
-Rabbit 4138 Speed 1.500759 Hunger 0.2697116 Thirst 0.2796175 Birth 2811 Death 2612 Number_of_Babies_per_Pregnancy 2.662659
-Fox 598 Speed 1.508346 Hunger 0.1410885 Thirst 0.1606533 Birth 460 Death 457 Number_of_Babies_per_Pregnancy 2.553488
-Eagle_Elite 296 Speed 1.500975 Hunger 0.1508296 Thirst 0.1599585 Birth 239 Death 239 Number_of_Babies_per_Pregnancy 2.465649
-Plant 4070
-Rabbit 4307 Speed 1.50154 Hunger 0.2813826 Thirst 0.2908149 Birth 2978 Death 2809 Number_of_Babies_per_Pregnancy 2.640974
-Fox 597 Speed 1.507685 Hunger 0.1438306 Thirst 0.1651118 Birth 464 Death 465 Number_of_Babies_per_Pregnancy 2.549296
-Eagle_Elite 297 Speed 1.501171 Hunger 0.1502007 Thirst 0.1639556 Birth 241 Death 240 Number_of_Babies_per_Pregnancy 2.449612
-Plant 4015
-Rabbit 4509 Speed 1.502194 Hunger 0.2945449 Thirst 0.3011509 Birth 3101 Death 2899 Number_of_Babies_per_Pregnancy 2.648614
-Fox 605 Speed 1.509237 Hunger 0.150704 Thirst 0.1723427 Birth 470 Death 462 Number_of_Babies_per_Pregnancy 2.540284
-Eagle_Elite 299 Speed 1.499581 Hunger 0.1574417 Thirst 0.1703053 Birth 244 Death 242 Number_of_Babies_per_Pregnancy 2.449612
-Plant 3957
-Rabbit 4664 Speed 1.503342 Hunger 0.3085107 Thirst 0.314121 Birth 3249 Death 3094 Number_of_Babies_per_Pregnancy 2.646388
-Fox 602 Speed 1.507762 Hunger 0.1528039 Thirst 0.1761497 Birth 471 Death 474 Number_of_Babies_per_Pregnancy 2.544186
-Eagle_Elite 300 Speed 1.50028 Hunger 0.1627926 Thirst 0.1746247 Birth 247 Death 246 Number_of_Babies_per_Pregnancy 2.423077
-Plant 3903
-Rabbit 4894 Speed 1.503128 Hunger 0.3232574 Thirst 0.3242031 Birth 3390 Death 3160 Number_of_Babies_per_Pregnancy 2.66787
-Fox 612 Speed 1.506962 Hunger 0.1607084 Thirst 0.1840944 Birth 446 Death 436 Number_of_Babies_per_Pregnancy 2.537383
-Eagle_Elite 300 Speed 1.499839 Hunger 0.1667816 Thirst 0.1785847 Birth 229 Death 229 Number_of_Babies_per_Pregnancy 2.430769
-Plant 3843
-Rabbit 5086 Speed 1.503724 Hunger 0.3376045 Thirst 0.3366296 Birth 3574 Death 3382 Number_of_Babies_per_Pregnancy 2.664127
-Fox 615 Speed 1.506496 Hunger 0.1655323 Thirst 0.1897569 Birth 456 Death 453 Number_of_Babies_per_Pregnancy 2.555556
-Eagle_Elite 300 Speed 1.500607 Hunger 0.1708506 Thirst 0.1830509 Birth 257 Death 257 Number_of_Babies_per_Pregnancy 2.410853
-Plant 3781
-Rabbit 5285 Speed 1.503824 Hunger 0.3487875 Thirst 0.3446156 Birth 3706 Death 3507 Number_of_Babies_per_Pregnancy 2.643271
-Fox 622 Speed 1.50515 Hunger 0.1706822 Thirst 0.1969592 Birth 447 Death 440 Number_of_Babies_per_Pregnancy 2.581395
-Eagle_Elite 307 Speed 1.502889 Hunger 0.1768481 Thirst 0.1909109 Birth 246 Death 239 Number_of_Babies_per_Pregnancy 2.409091
-Plant 3727
-Rabbit 5454 Speed 1.504976 Hunger 0.3627284 Thirst 0.3554017 Birth 4027 Death 3858 Number_of_Babies_per_Pregnancy 2.644744
-Fox 620 Speed 1.504737 Hunger 0.1757981 Thirst 0.2029561 Birth 454 Death 456 Number_of_Babies_per_Pregnancy 2.602804
-Eagle_Elite 309 Speed 1.503527 Hunger 0.1784169 Thirst 0.1952004 Birth 239 Death 237 Number_of_Babies_per_Pregnancy 2.458015
-Plant 3666
-Rabbit 5635 Speed 1.504877 Hunger 0.3738672 Thirst 0.3626513 Birth 3923 Death 3742 Number_of_Babies_per_Pregnancy 2.654711
-Fox 628 Speed 1.504928 Hunger 0.1828379 Thirst 0.2106653 Birth 467 Death 459 Number_of_Babies_per_Pregnancy 2.636364
-Eagle_Elite 311 Speed 1.503099 Hunger 0.1837116 Thirst 0.2015245 Birth 271 Death 269 Number_of_Babies_per_Pregnancy 2.432836
-Plant 3605
-Rabbit 5813 Speed 1.50419 Hunger 0.386169 Thirst 0.3693892 Birth 3855 Death 3677 Number_of_Babies_per_Pregnancy 2.639691
-Fox 631 Speed 1.505808 Hunger 0.190575 Thirst 0.217189 Birth 483 Death 480 Number_of_Babies_per_Pregnancy 2.62844
-Eagle_Elite 311 Speed 1.50387 Hunger 0.189541 Thirst 0.2061592 Birth 254 Death 254 Number_of_Babies_per_Pregnancy 2.43609
-Plant 3528
-Rabbit 6034 Speed 1.504179 Hunger 0.399767 Thirst 0.3817674 Birth 4272 Death 4051 Number_of_Babies_per_Pregnancy 2.652326
-Fox 631 Speed 1.505109 Hunger 0.193193 Thirst 0.2212516 Birth 495 Death 495 Number_of_Babies_per_Pregnancy 2.642202
-Eagle_Elite 313 Speed 1.504005 Hunger 0.1947367 Thirst 0.2111894 Birth 264 Death 262 Number_of_Babies_per_Pregnancy 2.443609
-Plant 3451
-Rabbit 6250 Speed 1.503303 Hunger 0.4143829 Thirst 0.3906181 Birth 4523 Death 4307 Number_of_Babies_per_Pregnancy 2.672938
-Fox 638 Speed 1.505548 Hunger 0.1998655 Thirst 0.2272679 Birth 498 Death 491 Number_of_Babies_per_Pregnancy 2.64977
-Eagle_Elite 321 Speed 1.501572 Hunger 0.2043935 Thirst 0.2201572 Birth 274 Death 266 Number_of_Babies_per_Pregnancy 2.42446
-Plant 3361
-Rabbit 6478 Speed 1.503242 Hunger 0.4284091 Thirst 0.4009722 Birth 4690 Death 4462 Number_of_Babies_per_Pregnancy 2.655221
-Fox 644 Speed 1.504366 Hunger 0.2074655 Thirst 0.2339007 Birth 498 Death 492 Number_of_Babies_per_Pregnancy 2.63981
-Eagle_Elite 324 Speed 1.502666 Hunger 0.2076806 Thirst 0.2246607 Birth 263 Death 260 Number_of_Babies_per_Pregnancy 2.40146
-Plant 3295
-Rabbit 6708 Speed 1.504301 Hunger 0.4430214 Thirst 0.409742 Birth 4884 Death 4654 Number_of_Babies_per_Pregnancy 2.655032
-Fox 642 Speed 1.503531 Hunger 0.2113645 Thirst 0.2392855 Birth 451 Death 453 Number_of_Babies_per_Pregnancy 2.638095
-Eagle_Elite 328 Speed 1.502534 Hunger 0.2126034 Thirst 0.2299741 Birth 278 Death 274 Number_of_Babies_per_Pregnancy 2.430657
-Plant 3208
-Rabbit 6937 Speed 1.50336 Hunger 0.4560311 Thirst 0.4188441 Birth 5057 Death 4828 Number_of_Babies_per_Pregnancy 2.651621
-Fox 643 Speed 1.504548 Hunger 0.2148516 Thirst 0.2466445 Birth 452 Death 451 Number_of_Babies_per_Pregnancy 2.603865
-Eagle_Elite 336 Speed 1.499928 Hunger 0.2251626 Thirst 0.2399275 Birth 287 Death 279 Number_of_Babies_per_Pregnancy 2.471831
-Plant 3146
-Rabbit 7119 Speed 1.504017 Hunger 0.466676 Thirst 0.4241408 Birth 5134 Death 4952 Number_of_Babies_per_Pregnancy 2.640223
-Fox 646 Speed 1.503472 Hunger 0.2185788 Thirst 0.2479182 Birth 454 Death 451 Number_of_Babies_per_Pregnancy 2.643518
-Eagle_Elite 341 Speed 1.501801 Hunger 0.2298546 Thirst 0.2451727 Birth 279 Death 274 Number_of_Babies_per_Pregnancy 2.441379
-Plant 3079
-Rabbit 7341 Speed 1.501639 Hunger 0.4781881 Thirst 0.4316915 Birth 5396 Death 5174 Number_of_Babies_per_Pregnancy 2.61875
-Fox 651 Speed 1.50238 Hunger 0.2232421 Thirst 0.2540817 Birth 425 Death 420 Number_of_Babies_per_Pregnancy 2.683486
-Eagle_Elite 349 Speed 1.50155 Hunger 0.239383 Thirst 0.2546553 Birth 288 Death 280 Number_of_Babies_per_Pregnancy 2.4
-Plant 3013
-Rabbit 7508 Speed 1.502614 Hunger 0.4870306 Thirst 0.4386096 Birth 5229 Death 5062 Number_of_Babies_per_Pregnancy 2.60571
-Fox 657 Speed 1.501453 Hunger 0.2265474 Thirst 0.2607206 Birth 461 Death 455 Number_of_Babies_per_Pregnancy 2.66055
-Eagle_Elite 355 Speed 1.501393 Hunger 0.244939 Thirst 0.2599264 Birth 290 Death 284 Number_of_Babies_per_Pregnancy 2.5
-Plant 2948
-Rabbit 7723 Speed 1.502895 Hunger 0.4984493 Thirst 0.4474296 Birth 5548 Death 5333 Number_of_Babies_per_Pregnancy 2.61526
-Fox 658 Speed 1.502252 Hunger 0.229358 Thirst 0.2670445 Birth 471 Death 470 Number_of_Babies_per_Pregnancy 2.653333
-Eagle_Elite 373 Speed 1.497382 Hunger 0.2627012 Thirst 0.2778854 Birth 307 Death 289 Number_of_Babies_per_Pregnancy 2.446667
-Plant 2884
-Rabbit 7806 Speed 1.502313 Hunger 0.5029702 Thirst 0.4502224 Birth 5445 Death 5362 Number_of_Babies_per_Pregnancy 2.614617
-Fox 664 Speed 1.500862 Hunger 0.2334877 Thirst 0.2727085 Birth 468 Death 462 Number_of_Babies_per_Pregnancy 2.627803
-Eagle_Elite 379 Speed 1.500177 Hunger 0.2660664 Thirst 0.2840602 Birth 315 Death 309 Number_of_Babies_per_Pregnancy 2.503226
-Plant 2820
-Rabbit 7991 Speed 1.502485 Hunger 0.5110946 Thirst 0.4578347 Birth 5572 Death 5387 Number_of_Babies_per_Pregnancy 2.639796
-Fox 672 Speed 1.502134 Hunger 0.2405051 Thirst 0.2830576 Birth 458 Death 450 Number_of_Babies_per_Pregnancy 2.61086
-Eagle_Elite 389 Speed 1.499282 Hunger 0.2778411 Thirst 0.2962383 Birth 334 Death 324 Number_of_Babies_per_Pregnancy 2.496894
-Plant 2751
-Rabbit 8138 Speed 1.503256 Hunger 0.5158601 Thirst 0.4616507 Birth 5647 Death 5500 Number_of_Babies_per_Pregnancy 2.645987
-Fox 676 Speed 1.500721 Hunger 0.2437729 Thirst 0.2856503 Birth 455 Death 451 Number_of_Babies_per_Pregnancy 2.615385
-Eagle_Elite 395 Speed 1.504853 Hunger 0.2812105 Thirst 0.3011327 Birth 354 Death 348 Number_of_Babies_per_Pregnancy 2.451807
-Plant 2689
-Rabbit 8302 Speed 1.503029 Hunger 0.5224621 Thirst 0.4689604 Birth 5985 Death 5821 Number_of_Babies_per_Pregnancy 2.64755
-Fox 687 Speed 1.501977 Hunger 0.2519671 Thirst 0.2935418 Birth 484 Death 473 Number_of_Babies_per_Pregnancy 2.665217
-Eagle_Elite 409 Speed 1.504124 Hunger 0.2954542 Thirst 0.3169724 Birth 380 Death 366 Number_of_Babies_per_Pregnancy 2.396342
-Plant 2633
-Rabbit 8378 Speed 1.503305 Hunger 0.5266965 Thirst 0.4730579 Birth 5760 Death 5684 Number_of_Babies_per_Pregnancy 2.634128
-Fox 692 Speed 1.500154 Hunger 0.2578787 Thirst 0.2984484 Birth 464 Death 459 Number_of_Babies_per_Pregnancy 2.628205
-Eagle_Elite 424 Speed 1.504702 Hunger 0.3040609 Thirst 0.3266858 Birth 373 Death 358 Number_of_Babies_per_Pregnancy 2.502825
-Plant 2563
-Rabbit 8529 Speed 1.502752 Hunger 0.532104 Thirst 0.479299 Birth 5871 Death 5720 Number_of_Babies_per_Pregnancy 2.614022
-Fox 700 Speed 1.497924 Hunger 0.2684634 Thirst 0.3020578 Birth 463 Death 455 Number_of_Babies_per_Pregnancy 2.645299
-Eagle_Elite 427 Speed 1.503787 Hunger 0.3107019 Thirst 0.3341218 Birth 374 Death 371 Number_of_Babies_per_Pregnancy 2.479769
-Plant 2501
-Rabbit 8609 Speed 1.502956 Hunger 0.5359513 Thirst 0.4823652 Birth 5843 Death 5763 Number_of_Babies_per_Pregnancy 2.620871
-Fox 706 Speed 1.498086 Hunger 0.2753638 Thirst 0.3076304 Birth 456 Death 450 Number_of_Babies_per_Pregnancy 2.619658
-Eagle_Elite 454 Speed 1.50707 Hunger 0.3319005 Thirst 0.3568399 Birth 415 Death 388 Number_of_Babies_per_Pregnancy 2.5
-Plant 2431
-Rabbit 8705 Speed 1.50315 Hunger 0.5402948 Thirst 0.4871725 Birth 6010 Death 5914 Number_of_Babies_per_Pregnancy 2.634264
-Fox 731 Speed 1.497242 Hunger 0.2888172 Thirst 0.3144502 Birth 456 Death 431 Number_of_Babies_per_Pregnancy 2.615385
-Eagle_Elite 466 Speed 1.507459 Hunger 0.3443072 Thirst 0.368807 Birth 393 Death 381 Number_of_Babies_per_Pregnancy 2.478723
-Plant 2360
-Rabbit 8744 Speed 1.503165 Hunger 0.5444727 Thirst 0.4893698 Birth 6046 Death 6007 Number_of_Babies_per_Pregnancy 2.623516
-Fox 732 Speed 1.498077 Hunger 0.2942932 Thirst 0.320953 Birth 478 Death 477 Number_of_Babies_per_Pregnancy 2.625532
-Eagle_Elite 488 Speed 1.506554 Hunger 0.3528931 Thirst 0.3818746 Birth 437 Death 415 Number_of_Babies_per_Pregnancy 2.497436
-Plant 2293
-Rabbit 8854 Speed 1.502939 Hunger 0.5496507 Thirst 0.4926657 Birth 6245 Death 6135 Number_of_Babies_per_Pregnancy 2.639194
-Fox 763 Speed 1.497478 Hunger 0.3148962 Thirst 0.3271823 Birth 526 Death 495 Number_of_Babies_per_Pregnancy 2.627049
-Eagle_Elite 495 Speed 1.505477 Hunger 0.3586363 Thirst 0.3870867 Birth 452 Death 445 Number_of_Babies_per_Pregnancy 2.539267
-Plant 2238
-Rabbit 8857 Speed 1.50258 Hunger 0.5526887 Thirst 0.4938196 Birth 6021 Death 6018 Number_of_Babies_per_Pregnancy 2.626603
-Fox 763 Speed 1.498803 Hunger 0.3162783 Thirst 0.3278526 Birth 490 Death 490 Number_of_Babies_per_Pregnancy 2.684
-Eagle_Elite 511 Speed 1.50489 Hunger 0.3714807 Thirst 0.4006997 Birth 470 Death 454 Number_of_Babies_per_Pregnancy 2.547739
-Plant 2168
-Rabbit 8920 Speed 1.50297 Hunger 0.5569953 Thirst 0.4978394 Birth 6215 Death 6152 Number_of_Babies_per_Pregnancy 2.633602
-Fox 797 Speed 1.499224 Hunger 0.3371793 Thirst 0.3337469 Birth 506 Death 472 Number_of_Babies_per_Pregnancy 2.646154
-Eagle_Elite 518 Speed 1.50323 Hunger 0.3785462 Thirst 0.4048854 Birth 494 Death 487 Number_of_Babies_per_Pregnancy 2.568627
-Plant 2097
-Rabbit 8905 Speed 1.502588 Hunger 0.5611884 Thirst 0.5027362 Birth 6063 Death 6078 Number_of_Babies_per_Pregnancy 2.627695
-Fox 801 Speed 1.498232 Hunger 0.3436741 Thirst 0.335288 Birth 508 Death 504 Number_of_Babies_per_Pregnancy 2.593626
-Eagle_Elite 533 Speed 1.504833 Hunger 0.3899704 Thirst 0.4182995 Birth 509 Death 494 Number_of_Babies_per_Pregnancy 2.593302
-Plant 2039
-Rabbit 8967 Speed 1.502509 Hunger 0.5656629 Thirst 0.5060319 Birth 6063 Death 6001 Number_of_Babies_per_Pregnancy 2.638391
-Fox 836 Speed 1.498326 Hunger 0.3661644 Thirst 0.3395135 Birth 538 Death 503 Number_of_Babies_per_Pregnancy 2.657895
-Eagle_Elite 535 Speed 1.503655 Hunger 0.3944094 Thirst 0.4209341 Birth 535 Death 533 Number_of_Babies_per_Pregnancy 2.553921
-Plant 1974
-Rabbit 8928 Speed 1.502442 Hunger 0.5673451 Thirst 0.5075102 Birth 5774 Death 5813 Number_of_Babies_per_Pregnancy 2.648469
-Fox 844 Speed 1.497022 Hunger 0.3753007 Thirst 0.3412381 Birth 548 Death 540 Number_of_Babies_per_Pregnancy 2.657993
-Eagle_Elite 554 Speed 1.503813 Hunger 0.4101646 Thirst 0.4379002 Birth 505 Death 486 Number_of_Babies_per_Pregnancy 2.5
-Plant 1915
-Rabbit 8912 Speed 1.502836 Hunger 0.5712942 Thirst 0.5105784 Birth 5841 Death 5857 Number_of_Babies_per_Pregnancy 2.65625
-Fox 883 Speed 1.49817 Hunger 0.4007094 Thirst 0.3413156 Birth 581 Death 542 Number_of_Babies_per_Pregnancy 2.733788
-Eagle_Elite 560 Speed 1.5063 Hunger 0.4183767 Thirst 0.4456343 Birth 533 Death 527 Number_of_Babies_per_Pregnancy 2.474886
-Plant 1853
-Rabbit 8885 Speed 1.502333 Hunger 0.5730792 Thirst 0.5114284 Birth 5751 Death 5778 Number_of_Babies_per_Pregnancy 2.634594
-Fox 892 Speed 1.499423 Hunger 0.4059813 Thirst 0.3420696 Birth 603 Death 594 Number_of_Babies_per_Pregnancy 2.682759
-Eagle_Elite 563 Speed 1.504111 Hunger 0.4232337 Thirst 0.4464391 Birth 533 Death 530 Number_of_Babies_per_Pregnancy 2.483568
-Plant 1803
-Rabbit 8873 Speed 1.502445 Hunger 0.5770403 Thirst 0.5142054 Birth 5877 Death 5889 Number_of_Babies_per_Pregnancy 2.644394
-Fox 916 Speed 1.500991 Hunger 0.4252828 Thirst 0.346275 Birth 640 Death 616 Number_of_Babies_per_Pregnancy 2.680135
-Eagle_Elite 569 Speed 1.506745 Hunger 0.42953 Thirst 0.4550809 Birth 497 Death 491 Number_of_Babies_per_Pregnancy 2.5
-Plant 1753
-Rabbit 8889 Speed 1.502533 Hunger 0.5805568 Thirst 0.5159763 Birth 5908 Death 5892 Number_of_Babies_per_Pregnancy 2.654587
-Fox 938 Speed 1.500461 Hunger 0.4361722 Thirst 0.3457141 Birth 675 Death 653 Number_of_Babies_per_Pregnancy 2.691275
-Eagle_Elite 589 Speed 1.505507 Hunger 0.4458249 Thirst 0.4695396 Birth 529 Death 509 Number_of_Babies_per_Pregnancy 2.537778
-Plant 1712
-Rabbit 8871 Speed 1.502917 Hunger 0.5838816 Thirst 0.5172051 Birth 5697 Death 5715 Number_of_Babies_per_Pregnancy 2.653263
-Fox 986 Speed 1.501603 Hunger 0.4624362 Thirst 0.3534657 Birth 701 Death 653 Number_of_Babies_per_Pregnancy 2.726384
-Eagle_Elite 593 Speed 1.504815 Hunger 0.4575094 Thirst 0.4772375 Birth 542 Death 538 Number_of_Babies_per_Pregnancy 2.511211
-Plant 1658
-Rabbit 8854 Speed 1.502661 Hunger 0.5875348 Thirst 0.5201274 Birth 5733 Death 5750 Number_of_Babies_per_Pregnancy 2.65155
-Fox 997 Speed 1.501722 Hunger 0.4701165 Thirst 0.3573511 Birth 679 Death 668 Number_of_Babies_per_Pregnancy 2.691318
-Eagle_Elite 620 Speed 1.50648 Hunger 0.4745636 Thirst 0.4903897 Birth 534 Death 507 Number_of_Babies_per_Pregnancy 2.527197
-Plant 1615
-Rabbit 8811 Speed 1.502449 Hunger 0.5905853 Thirst 0.5229741 Birth 5475 Death 5518 Number_of_Babies_per_Pregnancy 2.648587
-Fox 1049 Speed 1.503708 Hunger 0.4894534 Thirst 0.3605409 Birth 747 Death 695 Number_of_Babies_per_Pregnancy 2.735385
-Eagle_Elite 638 Speed 1.50747 Hunger 0.4869753 Thirst 0.5030833 Birth 555 Death 537 Number_of_Babies_per_Pregnancy 2.5
-Plant 1563
-Rabbit 8778 Speed 1.502743 Hunger 0.593663 Thirst 0.5242615 Birth 5428 Death 5461 Number_of_Babies_per_Pregnancy 2.657295
-Fox 1071 Speed 1.503939 Hunger 0.5028717 Thirst 0.3664204 Birth 679 Death 657 Number_of_Babies_per_Pregnancy 2.695522
-Eagle_Elite 658 Speed 1.506074 Hunger 0.4980656 Thirst 0.5092937 Birth 587 Death 567 Number_of_Babies_per_Pregnancy 2.521368
-Plant 1522
-Rabbit 8750 Speed 1.50252 Hunger 0.5973333 Thirst 0.5266725 Birth 5475 Death 5503 Number_of_Babies_per_Pregnancy 2.655581
-Fox 1121 Speed 1.504187 Hunger 0.5200727 Thirst 0.3655236 Birth 715 Death 665 Number_of_Babies_per_Pregnancy 2.712676
-Eagle_Elite 663 Speed 1.504227 Hunger 0.5040988 Thirst 0.5108302 Birth 566 Death 561 Number_of_Babies_per_Pregnancy 2.547325
-Plant 1482
-Rabbit 8702 Speed 1.502295 Hunger 0.5998477 Thirst 0.5291348 Birth 5403 Death 5451 Number_of_Babies_per_Pregnancy 2.661414
-Fox 1124 Speed 1.501329 Hunger 0.5273981 Thirst 0.3682173 Birth 688 Death 685 Number_of_Babies_per_Pregnancy 2.721448
-Eagle_Elite 680 Speed 1.505806 Hunger 0.5103311 Thirst 0.515002 Birth 592 Death 575 Number_of_Babies_per_Pregnancy 2.518367
-Plant 1433
-Rabbit 8636 Speed 1.502362 Hunger 0.602967 Thirst 0.5304843 Birth 5399 Death 5465 Number_of_Babies_per_Pregnancy 2.667832
-Fox 1203 Speed 1.503468 Hunger 0.5533708 Thirst 0.3736674 Birth 791 Death 712 Number_of_Babies_per_Pregnancy 2.735135
-Eagle_Elite 683 Speed 1.505361 Hunger 0.5161101 Thirst 0.5171382 Birth 613 Death 610 Number_of_Babies_per_Pregnancy 2.520833
-Plant 1393
-Rabbit 8571 Speed 1.502093 Hunger 0.6056765 Thirst 0.5313722 Birth 5285 Death 5350 Number_of_Babies_per_Pregnancy 2.672137
-Fox 1214 Speed 1.502272 Hunger 0.5543665 Thirst 0.3773074 Birth 753 Death 742 Number_of_Babies_per_Pregnancy 2.727273
-Eagle_Elite 704 Speed 1.509163 Hunger 0.5276104 Thirst 0.527205 Birth 631 Death 610 Number_of_Babies_per_Pregnancy 2.53937
-Plant 1351
-Rabbit 8537 Speed 1.502113 Hunger 0.6093178 Thirst 0.5342005 Birth 5294 Death 5328 Number_of_Babies_per_Pregnancy 2.66825
-Fox 1272 Speed 1.503788 Hunger 0.5653118 Thirst 0.3839152 Birth 810 Death 752 Number_of_Babies_per_Pregnancy 2.770408
-Eagle_Elite 705 Speed 1.5069 Hunger 0.5315376 Thirst 0.5259577 Birth 659 Death 658 Number_of_Babies_per_Pregnancy 2.496
-Plant 1315
-Rabbit 8522 Speed 1.50405 Hunger 0.6142867 Thirst 0.5374756 Birth 5221 Death 5236 Number_of_Babies_per_Pregnancy 2.66826
-Fox 1261 Speed 1.501636 Hunger 0.5634843 Thirst 0.3884572 Birth 746 Death 757 Number_of_Babies_per_Pregnancy 2.658228
-Eagle_Elite 727 Speed 1.506091 Hunger 0.541077 Thirst 0.5367088 Birth 666 Death 644 Number_of_Babies_per_Pregnancy 2.539033
-Plant 1279
-Rabbit 8439 Speed 1.503964 Hunger 0.616195 Thirst 0.5392528 Birth 5051 Death 5134 Number_of_Babies_per_Pregnancy 2.666266
-Fox 1290 Speed 1.499891 Hunger 0.5687425 Thirst 0.3951641 Birth 833 Death 804 Number_of_Babies_per_Pregnancy 2.640587
-Eagle_Elite 725 Speed 1.505553 Hunger 0.5449712 Thirst 0.5386985 Birth 614 Death 616 Number_of_Babies_per_Pregnancy 2.509157
-Plant 1239
-Rabbit 8382 Speed 1.503667 Hunger 0.6190432 Thirst 0.5411967 Birth 5273 Death 5330 Number_of_Babies_per_Pregnancy 2.669519
-Fox 1305 Speed 1.500439 Hunger 0.5782917 Thirst 0.40099 Birth 792 Death 777 Number_of_Babies_per_Pregnancy 2.711823
-Eagle_Elite 727 Speed 1.504891 Hunger 0.5473475 Thirst 0.5348254 Birth 598 Death 596 Number_of_Babies_per_Pregnancy 2.490422
-Plant 1208
-Rabbit 8301 Speed 1.503589 Hunger 0.6213917 Thirst 0.5422752 Birth 5192 Death 5273 Number_of_Babies_per_Pregnancy 2.659119
-Fox 1327 Speed 1.499701 Hunger 0.5807407 Thirst 0.4168002 Birth 863 Death 841 Number_of_Babies_per_Pregnancy 2.705036
-Eagle_Elite 729 Speed 1.505621 Hunger 0.551776 Thirst 0.5391523 Birth 591 Death 589 Number_of_Babies_per_Pregnancy 2.520599
-Plant 1173
-Rabbit 8228 Speed 1.503295 Hunger 0.624333 Thirst 0.5440549 Birth 5042 Death 5115 Number_of_Babies_per_Pregnancy 2.65807
-Fox 1335 Speed 1.501414 Hunger 0.5824479 Thirst 0.4277232 Birth 848 Death 840 Number_of_Babies_per_Pregnancy 2.757869
-Eagle_Elite 729 Speed 1.503435 Hunger 0.5570333 Thirst 0.5398208 Birth 544 Death 544 Number_of_Babies_per_Pregnancy 2.496241
-Plant 1139
-Rabbit 8146 Speed 1.502835 Hunger 0.6272091 Thirst 0.5456995 Birth 4832 Death 4914 Number_of_Babies_per_Pregnancy 2.659485
-Fox 1339 Speed 1.499858 Hunger 0.5841047 Thirst 0.4364502 Birth 922 Death 918 Number_of_Babies_per_Pregnancy 2.736318
-Eagle_Elite 724 Speed 1.504161 Hunger 0.5560628 Thirst 0.5378278 Birth 505 Death 510 Number_of_Babies_per_Pregnancy 2.490422
-Plant 1116
-Rabbit 8062 Speed 1.502887 Hunger 0.6296015 Thirst 0.5473174 Birth 4721 Death 4805 Number_of_Babies_per_Pregnancy 2.6661
-Fox 1357 Speed 1.499365 Hunger 0.5888632 Thirst 0.4528247 Birth 801 Death 783 Number_of_Babies_per_Pregnancy 2.723971
-Eagle_Elite 725 Speed 1.503682 Hunger 0.5597897 Thirst 0.5371971 Birth 546 Death 545 Number_of_Babies_per_Pregnancy 2.439394
-Plant 1087
-Rabbit 7980 Speed 1.502976 Hunger 0.6315975 Thirst 0.5490085 Birth 4598 Death 4680 Number_of_Babies_per_Pregnancy 2.668667
-Fox 1363 Speed 1.498603 Hunger 0.5903736 Thirst 0.4615299 Birth 904 Death 898 Number_of_Babies_per_Pregnancy 2.669951
-Eagle_Elite 726 Speed 1.504051 Hunger 0.5661191 Thirst 0.5391009 Birth 492 Death 491 Number_of_Babies_per_Pregnancy 2.431734
-Plant 1049
-Rabbit 7912 Speed 1.502421 Hunger 0.63468 Thirst 0.5509911 Birth 4643 Death 4711 Number_of_Babies_per_Pregnancy 2.669404
-Fox 1372 Speed 1.498415 Hunger 0.593215 Thirst 0.4716631 Birth 868 Death 859 Number_of_Babies_per_Pregnancy 2.719807
-Eagle_Elite 724 Speed 1.503555 Hunger 0.5690033 Thirst 0.5384609 Birth 506 Death 508 Number_of_Babies_per_Pregnancy 2.434944
-Plant 1031
-Rabbit 7817 Speed 1.502768 Hunger 0.6367549 Thirst 0.5526049 Birth 4671 Death 4766 Number_of_Babies_per_Pregnancy 2.657756
-Fox 1385 Speed 1.496873 Hunger 0.5944281 Thirst 0.4816293 Birth 833 Death 820 Number_of_Babies_per_Pregnancy 2.727273
-Eagle_Elite 722 Speed 1.503245 Hunger 0.5688227 Thirst 0.5378679 Birth 484 Death 486 Number_of_Babies_per_Pregnancy 2.428571
-Plant 1000
-Rabbit 7745 Speed 1.502952 Hunger 0.6398881 Thirst 0.55362 Birth 4562 Death 4634 Number_of_Babies_per_Pregnancy 2.663866
-Fox 1379 Speed 1.497879 Hunger 0.5939758 Thirst 0.490046 Birth 848 Death 854 Number_of_Babies_per_Pregnancy 2.713604
-Eagle_Elite 720 Speed 1.503547 Hunger 0.5718229 Thirst 0.5370903 Birth 476 Death 478 Number_of_Babies_per_Pregnancy 2.446097
-Plant 975
-Rabbit 7669 Speed 1.502733 Hunger 0.6425619 Thirst 0.5559809 Birth 4554 Death 4630 Number_of_Babies_per_Pregnancy 2.660842
-Fox 1379 Speed 1.496835 Hunger 0.5920086 Thirst 0.4994283 Birth 812 Death 812 Number_of_Babies_per_Pregnancy 2.687042
-Eagle_Elite 714 Speed 1.50236 Hunger 0.5738882 Thirst 0.5362673 Birth 479 Death 485 Number_of_Babies_per_Pregnancy 2.450758
-Plant 949
-Rabbit 7578 Speed 1.502646 Hunger 0.6445081 Thirst 0.5564027 Birth 4484 Death 4575 Number_of_Babies_per_Pregnancy 2.661658
-Fox 1370 Speed 1.496775 Hunger 0.5952705 Thirst 0.5020193 Birth 804 Death 813 Number_of_Babies_per_Pregnancy 2.698493
-Eagle_Elite 712 Speed 1.502862 Hunger 0.577571 Thirst 0.542668 Birth 495 Death 497 Number_of_Babies_per_Pregnancy 2.455939
-Plant 924
-Rabbit 7499 Speed 1.502711 Hunger 0.6478261 Thirst 0.5581069 Birth 4314 Death 4393 Number_of_Babies_per_Pregnancy 2.663904
-Fox 1361 Speed 1.496241 Hunger 0.5971733 Thirst 0.5079882 Birth 811 Death 820 Number_of_Babies_per_Pregnancy 2.668367
-Eagle_Elite 711 Speed 1.502551 Hunger 0.5839782 Thirst 0.5445278 Birth 525 Death 526 Number_of_Babies_per_Pregnancy 2.444444
-Plant 905
-Rabbit 7430 Speed 1.502804 Hunger 0.6510468 Thirst 0.5592201 Birth 4507 Death 4576 Number_of_Babies_per_Pregnancy 2.668213
-Fox 1361 Speed 1.495531 Hunger 0.5979039 Thirst 0.5165194 Birth 771 Death 771 Number_of_Babies_per_Pregnancy 2.6943
-Eagle_Elite 707 Speed 1.503143 Hunger 0.5857103 Thirst 0.5455937 Birth 510 Death 514 Number_of_Babies_per_Pregnancy 2.450382
-Plant 877
-Rabbit 7353 Speed 1.503123 Hunger 0.6535788 Thirst 0.558887 Birth 4199 Death 4276 Number_of_Babies_per_Pregnancy 2.677147
-Fox 1348 Speed 1.495436 Hunger 0.5948826 Thirst 0.5197212 Birth 799 Death 812 Number_of_Babies_per_Pregnancy 2.712401
-Eagle_Elite 701 Speed 1.503699 Hunger 0.5872622 Thirst 0.5485983 Birth 518 Death 524 Number_of_Babies_per_Pregnancy 2.453488
-Plant 859
-Rabbit 7277 Speed 1.503084 Hunger 0.6562735 Thirst 0.5600054 Birth 3948 Death 4024 Number_of_Babies_per_Pregnancy 2.674573
-Fox 1341 Speed 1.496538 Hunger 0.5981731 Thirst 0.5273051 Birth 799 Death 806 Number_of_Babies_per_Pregnancy 2.719251
-Eagle_Elite 700 Speed 1.50367 Hunger 0.5899289 Thirst 0.5498505 Birth 508 Death 509 Number_of_Babies_per_Pregnancy 2.446565
-Plant 835
-Rabbit 7210 Speed 1.502693 Hunger 0.660122 Thirst 0.5613304 Birth 3879 Death 3946 Number_of_Babies_per_Pregnancy 2.691499
-Fox 1334 Speed 1.497043 Hunger 0.5948573 Thirst 0.5325221 Birth 835 Death 842 Number_of_Babies_per_Pregnancy 2.713137
-Eagle_Elite 694 Speed 1.504308 Hunger 0.5912867 Thirst 0.5491408 Birth 498 Death 504 Number_of_Babies_per_Pregnancy 2.447876
-Plant 818
-Rabbit 7136 Speed 1.502604 Hunger 0.6621193 Thirst 0.5627407 Birth 3818 Death 3892 Number_of_Babies_per_Pregnancy 2.69122
-Fox 1315 Speed 1.496405 Hunger 0.5967098 Thirst 0.537604 Birth 723 Death 742 Number_of_Babies_per_Pregnancy 2.695055
-Eagle_Elite 694 Speed 1.502586 Hunger 0.5930365 Thirst 0.5520999 Birth 498 Death 498 Number_of_Babies_per_Pregnancy 2.447876
-Plant 795
-Rabbit 7039 Speed 1.502683 Hunger 0.6656398 Thirst 0.5636948 Birth 3692 Death 3789 Number_of_Babies_per_Pregnancy 2.692917
-Fox 1293 Speed 1.495868 Hunger 0.5953135 Thirst 0.5413565 Birth 693 Death 715 Number_of_Babies_per_Pregnancy 2.70195
-Eagle_Elite 691 Speed 1.503103 Hunger 0.597523 Thirst 0.5527258 Birth 467 Death 470 Number_of_Babies_per_Pregnancy 2.444882
-Plant 779
-Rabbit 6959 Speed 1.502621 Hunger 0.6687577 Thirst 0.5650035 Birth 3655 Death 3735 Number_of_Babies_per_Pregnancy 2.700902
-Fox 1279 Speed 1.495314 Hunger 0.5947657 Thirst 0.5431094 Birth 696 Death 710 Number_of_Babies_per_Pregnancy 2.702549
-Eagle_Elite 690 Speed 1.503323 Hunger 0.6019046 Thirst 0.5570773 Birth 474 Death 475 Number_of_Babies_per_Pregnancy 2.434783
-Plant 758
-Rabbit 6892 Speed 1.502924 Hunger 0.6724117 Thirst 0.5658042 Birth 3591 Death 3658 Number_of_Babies_per_Pregnancy 2.70701
-Fox 1264 Speed 1.495986 Hunger 0.5986274 Thirst 0.5467491 Birth 642 Death 657 Number_of_Babies_per_Pregnancy 2.698006
-Eagle_Elite 687 Speed 1.503769 Hunger 0.6056471 Thirst 0.5567983 Birth 474 Death 477 Number_of_Babies_per_Pregnancy 2.456
-Plant 743
-Rabbit 6823 Speed 1.502729 Hunger 0.6763099 Thirst 0.568278 Birth 3464 Death 3533 Number_of_Babies_per_Pregnancy 2.711864
-Fox 1247 Speed 1.495043 Hunger 0.5991759 Thirst 0.5506303 Birth 630 Death 647 Number_of_Babies_per_Pregnancy 2.69341
-Eagle_Elite 682 Speed 1.503512 Hunger 0.6094286 Thirst 0.5564291 Birth 453 Death 458 Number_of_Babies_per_Pregnancy 2.461539
-Plant 720
-Rabbit 6739 Speed 1.502727 Hunger 0.6803931 Thirst 0.5711981 Birth 3484 Death 3568 Number_of_Babies_per_Pregnancy 2.714956
-Fox 1229 Speed 1.494818 Hunger 0.6006758 Thirst 0.553698 Birth 586 Death 604 Number_of_Babies_per_Pregnancy 2.699422
-Eagle_Elite 673 Speed 1.503013 Hunger 0.6090196 Thirst 0.5559248 Birth 430 Death 439 Number_of_Babies_per_Pregnancy 2.46473
-Plant 706
-Rabbit 6658 Speed 1.502379 Hunger 0.6835986 Thirst 0.57258 Birth 3345 Death 3426 Number_of_Babies_per_Pregnancy 2.714661
-Fox 1215 Speed 1.49507 Hunger 0.6035243 Thirst 0.5570077 Birth 624 Death 638 Number_of_Babies_per_Pregnancy 2.707602
-Eagle_Elite 668 Speed 1.502943 Hunger 0.6112607 Thirst 0.5563192 Birth 424 Death 429 Number_of_Babies_per_Pregnancy 2.466387
-Plant 688
-Rabbit 6563 Speed 1.501947 Hunger 0.686774 Thirst 0.5746121 Birth 3214 Death 3309 Number_of_Babies_per_Pregnancy 2.716434
-Fox 1199 Speed 1.494484 Hunger 0.6069941 Thirst 0.5593275 Birth 578 Death 594 Number_of_Babies_per_Pregnancy 2.718563
-Eagle_Elite 665 Speed 1.503816 Hunger 0.6163793 Thirst 0.5576371 Birth 436 Death 439 Number_of_Babies_per_Pregnancy 2.48718
-Plant 672
-Rabbit 6500 Speed 1.501777 Hunger 0.6898237 Thirst 0.5775166 Birth 3149 Death 3212 Number_of_Babies_per_Pregnancy 2.718378
-Fox 1197 Speed 1.495152 Hunger 0.6108882 Thirst 0.5664371 Birth 601 Death 603 Number_of_Babies_per_Pregnancy 2.754438
-Eagle_Elite 657 Speed 1.502385 Hunger 0.6195961 Thirst 0.5551692 Birth 409 Death 417 Number_of_Babies_per_Pregnancy 2.465217
-Plant 660
-Rabbit 6434 Speed 1.501512 Hunger 0.6923385 Thirst 0.5794228 Birth 3110 Death 3176 Number_of_Babies_per_Pregnancy 2.712719
-Fox 1182 Speed 1.494738 Hunger 0.6115987 Thirst 0.5720893 Birth 594 Death 609 Number_of_Babies_per_Pregnancy 2.757485
-Eagle_Elite 654 Speed 1.503055 Hunger 0.6219895 Thirst 0.5574442 Birth 393 Death 396 Number_of_Babies_per_Pregnancy 2.464912
-Plant 650
-Rabbit 6364 Speed 1.501618 Hunger 0.6958184 Thirst 0.5816897 Birth 3113 Death 3183 Number_of_Babies_per_Pregnancy 2.711677
-Fox 1187 Speed 1.495134 Hunger 0.6187724 Thirst 0.5798916 Birth 612 Death 607 Number_of_Babies_per_Pregnancy 2.745455
-Eagle_Elite 647 Speed 1.50308 Hunger 0.6254212 Thirst 0.5581604 Birth 393 Death 400 Number_of_Babies_per_Pregnancy 2.460177
-Plant 636
-Rabbit 6281 Speed 1.501639 Hunger 0.6985728 Thirst 0.5843126 Birth 3042 Death 3125 Number_of_Babies_per_Pregnancy 2.717733
-Fox 1178 Speed 1.495142 Hunger 0.6206278 Thirst 0.5861608 Birth 609 Death 618 Number_of_Babies_per_Pregnancy 2.748485
-Eagle_Elite 642 Speed 1.502033 Hunger 0.628352 Thirst 0.5576173 Birth 372 Death 377 Number_of_Babies_per_Pregnancy 2.473451
-Plant 626
-Rabbit 6220 Speed 1.501639 Hunger 0.7027491 Thirst 0.5862696 Birth 2987 Death 3048 Number_of_Babies_per_Pregnancy 2.723669
-Fox 1175 Speed 1.494649 Hunger 0.6285917 Thirst 0.5913654 Birth 576 Death 579 Number_of_Babies_per_Pregnancy 2.800604
-Eagle_Elite 634 Speed 1.502497 Hunger 0.6280494 Thirst 0.5609307 Birth 378 Death 386 Number_of_Babies_per_Pregnancy 2.45045
-Plant 616
-Rabbit 6149 Speed 1.501642 Hunger 0.7060055 Thirst 0.5888217 Birth 2986 Death 3057 Number_of_Babies_per_Pregnancy 2.73046
-Fox 1153 Speed 1.494502 Hunger 0.6305845 Thirst 0.5941709 Birth 548 Death 570 Number_of_Babies_per_Pregnancy 2.770186
-Eagle_Elite 633 Speed 1.502593 Hunger 0.6322448 Thirst 0.5650288 Birth 367 Death 368 Number_of_Babies_per_Pregnancy 2.448431
-Plant 604
-Rabbit 6061 Speed 1.501637 Hunger 0.7093277 Thirst 0.5904005 Birth 2896 Death 2984 Number_of_Babies_per_Pregnancy 2.733294
-Fox 1131 Speed 1.494953 Hunger 0.6326092 Thirst 0.5964151 Birth 544 Death 566 Number_of_Babies_per_Pregnancy 2.768987
-Eagle_Elite 629 Speed 1.502064 Hunger 0.6331578 Thirst 0.5681187 Birth 375 Death 379 Number_of_Babies_per_Pregnancy 2.452915
-Plant 597
-Rabbit 5998 Speed 1.501636 Hunger 0.7129492 Thirst 0.593797 Birth 2770 Death 2833 Number_of_Babies_per_Pregnancy 2.733961
-Fox 1116 Speed 1.495398 Hunger 0.6359031 Thirst 0.6027362 Birth 487 Death 502 Number_of_Babies_per_Pregnancy 2.775974
-Eagle_Elite 623 Speed 1.502146 Hunger 0.6341125 Thirst 0.5674759 Birth 368 Death 374 Number_of_Babies_per_Pregnancy 2.466063
-Plant 581
-Rabbit 5938 Speed 1.501582 Hunger 0.7157388 Thirst 0.5960368 Birth 2782 Death 2842 Number_of_Babies_per_Pregnancy 2.734087
-Fox 1101 Speed 1.495031 Hunger 0.6409369 Thirst 0.605449 Birth 505 Death 520 Number_of_Babies_per_Pregnancy 2.814935
-Eagle_Elite 619 Speed 1.502201 Hunger 0.6376946 Thirst 0.5712337 Birth 370 Death 374 Number_of_Babies_per_Pregnancy 2.45
-Plant 570
-Rabbit 5876 Speed 1.501744 Hunger 0.719096 Thirst 0.5971847 Birth 2757 Death 2819 Number_of_Babies_per_Pregnancy 2.73293
-Fox 1084 Speed 1.494595 Hunger 0.6437287 Thirst 0.605763 Birth 462 Death 479 Number_of_Babies_per_Pregnancy 2.816667
-Eagle_Elite 615 Speed 1.501574 Hunger 0.6409473 Thirst 0.5747013 Birth 337 Death 341 Number_of_Babies_per_Pregnancy 2.458716
-Plant 558
-Rabbit 5797 Speed 1.501647 Hunger 0.7223547 Thirst 0.599158 Birth 2710 Death 2789 Number_of_Babies_per_Pregnancy 2.73223
-Fox 1071 Speed 1.49475 Hunger 0.6499683 Thirst 0.6081725 Birth 452 Death 465 Number_of_Babies_per_Pregnancy 2.840136
-Eagle_Elite 611 Speed 1.502127 Hunger 0.6453292 Thirst 0.5770262 Birth 350 Death 354 Number_of_Babies_per_Pregnancy 2.467592
-Plant 551
-Rabbit 5729 Speed 1.501891 Hunger 0.7255879 Thirst 0.6017874 Birth 2563 Death 2631 Number_of_Babies_per_Pregnancy 2.736154
-Fox 1051 Speed 1.494772 Hunger 0.6532154 Thirst 0.60896 Birth 478 Death 498 Number_of_Babies_per_Pregnancy 2.847458
-Eagle_Elite 606 Speed 1.501802 Hunger 0.6493512 Thirst 0.5806695 Birth 344 Death 349 Number_of_Babies_per_Pregnancy 2.462963
-Plant 544
-Rabbit 5664 Speed 1.501603 Hunger 0.7294781 Thirst 0.6055936 Birth 2556 Death 2621 Number_of_Babies_per_Pregnancy 2.73535
-Fox 1034 Speed 1.495572 Hunger 0.65601 Thirst 0.6126417 Birth 466 Death 483 Number_of_Babies_per_Pregnancy 2.861111
-Eagle_Elite 598 Speed 1.501411 Hunger 0.6485229 Thirst 0.5807541 Birth 330 Death 338 Number_of_Babies_per_Pregnancy 2.430556
-Plant 538
-Rabbit 5600 Speed 1.501652 Hunger 0.7335318 Thirst 0.6079976 Birth 2548 Death 2612 Number_of_Babies_per_Pregnancy 2.742038
-Fox 1027 Speed 1.495689 Hunger 0.6596257 Thirst 0.6162928 Birth 441 Death 448 Number_of_Babies_per_Pregnancy 2.879725
-Eagle_Elite 598 Speed 1.502567 Hunger 0.6536653 Thirst 0.583024 Birth 324 Death 324 Number_of_Babies_per_Pregnancy 2.422018
-Plant 529
-Rabbit 5534 Speed 1.501601 Hunger 0.7382079 Thirst 0.6106196 Birth 2456 Death 2522 Number_of_Babies_per_Pregnancy 2.751125
-Fox 1004 Speed 1.495118 Hunger 0.662259 Thirst 0.6171259 Birth 461 Death 484 Number_of_Babies_per_Pregnancy 2.900709
-Eagle_Elite 595 Speed 1.502415 Hunger 0.6576976 Thirst 0.5842177 Birth 335 Death 338 Number_of_Babies_per_Pregnancy 2.427907
-Plant 521
-Rabbit 5474 Speed 1.501256 Hunger 0.741927 Thirst 0.6122227 Birth 2456 Death 2516 Number_of_Babies_per_Pregnancy 2.755512
-Fox 991 Speed 1.495325 Hunger 0.6666943 Thirst 0.6202726 Birth 458 Death 471 Number_of_Babies_per_Pregnancy 2.902878
-Eagle_Elite 597 Speed 1.50282 Hunger 0.6634071 Thirst 0.5815504 Birth 329 Death 327 Number_of_Babies_per_Pregnancy 2.418605
-Plant 516
-Rabbit 5391 Speed 1.501271 Hunger 0.7450483 Thirst 0.6152316 Birth 2317 Death 2400 Number_of_Babies_per_Pregnancy 2.760314
-Fox 977 Speed 1.495806 Hunger 0.6710281 Thirst 0.6208869 Birth 466 Death 480 Number_of_Babies_per_Pregnancy 2.898551
-Eagle_Elite 593 Speed 1.503208 Hunger 0.6671312 Thirst 0.5841112 Birth 332 Death 336 Number_of_Babies_per_Pregnancy 2.418605
-Plant 505
-Rabbit 5332 Speed 1.500935 Hunger 0.7483265 Thirst 0.6183933 Birth 2321 Death 2380 Number_of_Babies_per_Pregnancy 2.763576
-Fox 954 Speed 1.496108 Hunger 0.6764882 Thirst 0.6210756 Birth 431 Death 454 Number_of_Babies_per_Pregnancy 2.904412
-Eagle_Elite 589 Speed 1.504559 Hunger 0.6704075 Thirst 0.5879843 Birth 339 Death 343 Number_of_Babies_per_Pregnancy 2.433962
-Plant 497
-Rabbit 5256 Speed 1.500895 Hunger 0.7523257 Thirst 0.6201159 Birth 2308 Death 2384 Number_of_Babies_per_Pregnancy 2.766172
-Fox 933 Speed 1.49681 Hunger 0.6824467 Thirst 0.6184477 Birth 416 Death 437 Number_of_Babies_per_Pregnancy 2.912548
-Eagle_Elite 582 Speed 1.504276 Hunger 0.6728373 Thirst 0.5892761 Birth 330 Death 337 Number_of_Babies_per_Pregnancy 2.442308
-Plant 487
-Rabbit 5182 Speed 1.500558 Hunger 0.7561586 Thirst 0.6219731 Birth 2237 Death 2311 Number_of_Babies_per_Pregnancy 2.776792
-Fox 920 Speed 1.496913 Hunger 0.6838018 Thirst 0.6228203 Birth 387 Death 400 Number_of_Babies_per_Pregnancy 2.893536
-Eagle_Elite 571 Speed 1.504364 Hunger 0.6730064 Thirst 0.5862145 Birth 296 Death 307 Number_of_Babies_per_Pregnancy 2.427185
-Plant 483
-Rabbit 5119 Speed 1.500759 Hunger 0.7593479 Thirst 0.6250921 Birth 2183 Death 2246 Number_of_Babies_per_Pregnancy 2.770617
-Fox 908 Speed 1.49624 Hunger 0.6855049 Thirst 0.6216158 Birth 406 Death 418 Number_of_Babies_per_Pregnancy 2.892308
-Eagle_Elite 568 Speed 1.503998 Hunger 0.6773017 Thirst 0.5896581 Birth 317 Death 320 Number_of_Babies_per_Pregnancy 2.429268
-Plant 478
-Rabbit 5054 Speed 1.500812 Hunger 0.7627873 Thirst 0.6268939 Birth 2205 Death 2270 Number_of_Babies_per_Pregnancy 2.77177
-Fox 891 Speed 1.495847 Hunger 0.6922955 Thirst 0.6193383 Birth 392 Death 409 Number_of_Babies_per_Pregnancy 2.891473
-Eagle_Elite 561 Speed 1.503299 Hunger 0.6798953 Thirst 0.5918507 Birth 327 Death 334 Number_of_Babies_per_Pregnancy 2.423645
-Plant 472
-Rabbit 4988 Speed 1.500711 Hunger 0.7657782 Thirst 0.6295209 Birth 2138 Death 2204 Number_of_Babies_per_Pregnancy 2.775177
-Fox 870 Speed 1.495956 Hunger 0.6920904 Thirst 0.6202769 Birth 386 Death 407 Number_of_Babies_per_Pregnancy 2.900398
-Eagle_Elite 555 Speed 1.502913 Hunger 0.6823279 Thirst 0.5969906 Birth 299 Death 305 Number_of_Babies_per_Pregnancy 2.443877
-Plant 467
-Rabbit 4903 Speed 1.50076 Hunger 0.7689447 Thirst 0.6313309 Birth 2033 Death 2118 Number_of_Babies_per_Pregnancy 2.776249
-Fox 859 Speed 1.495741 Hunger 0.6941732 Thirst 0.6187614 Birth 385 Death 396 Number_of_Babies_per_Pregnancy 2.890688
-Eagle_Elite 550 Speed 1.502653 Hunger 0.6838832 Thirst 0.5997792 Birth 299 Death 304 Number_of_Babies_per_Pregnancy 2.447917
-Plant 462
-Rabbit 4833 Speed 1.500204 Hunger 0.7728333 Thirst 0.6337606 Birth 2002 Death 2072 Number_of_Babies_per_Pregnancy 2.776957
-Fox 842 Speed 1.494913 Hunger 0.6933158 Thirst 0.6206411 Birth 365 Death 382 Number_of_Babies_per_Pregnancy 2.879668
-Eagle_Elite 542 Speed 1.50215 Hunger 0.6887651 Thirst 0.5971781 Birth 289 Death 297 Number_of_Babies_per_Pregnancy 2.447917
-Plant 461
-Rabbit 4776 Speed 1.500111 Hunger 0.7756742 Thirst 0.6373376 Birth 1927 Death 1984 Number_of_Babies_per_Pregnancy 2.777198
-Fox 827 Speed 1.494482 Hunger 0.6961516 Thirst 0.6198328 Birth 378 Death 393 Number_of_Babies_per_Pregnancy 2.879668
-Eagle_Elite 529 Speed 1.501556 Hunger 0.6868989 Thirst 0.5988078 Birth 282 Death 295 Number_of_Babies_per_Pregnancy 2.446809
-Plant 458
-Rabbit 4696 Speed 1.500175 Hunger 0.7790416 Thirst 0.6381683 Birth 1892 Death 1972 Number_of_Babies_per_Pregnancy 2.77551
-Fox 815 Speed 1.493638 Hunger 0.6977808 Thirst 0.6217561 Birth 339 Death 351 Number_of_Babies_per_Pregnancy 2.868644
-Eagle_Elite 526 Speed 1.501253 Hunger 0.6883584 Thirst 0.60219 Birth 271 Death 274 Number_of_Babies_per_Pregnancy 2.438503
-Plant 450
-Rabbit 4636 Speed 1.499874 Hunger 0.7825224 Thirst 0.6393727 Birth 1838 Death 1898 Number_of_Babies_per_Pregnancy 2.779479
-Fox 800 Speed 1.493704 Hunger 0.7010209 Thirst 0.6245117 Birth 322 Death 337 Number_of_Babies_per_Pregnancy 2.884615
-Eagle_Elite 520 Speed 1.501618 Hunger 0.6887727 Thirst 0.6049775 Birth 268 Death 274 Number_of_Babies_per_Pregnancy 2.44086
-Plant 448
-Rabbit 4571 Speed 1.500199 Hunger 0.7870442 Thirst 0.6411394 Birth 1793 Death 1858 Number_of_Babies_per_Pregnancy 2.786159
-Fox 791 Speed 1.493064 Hunger 0.7066422 Thirst 0.624491 Birth 316 Death 325 Number_of_Babies_per_Pregnancy 2.903509
-Eagle_Elite 515 Speed 1.501364 Hunger 0.6939738 Thirst 0.6048094 Birth 283 Death 288 Number_of_Babies_per_Pregnancy 2.433155
-Plant 443
-Rabbit 4513 Speed 1.499785 Hunger 0.789708 Thirst 0.6432185 Birth 1693 Death 1751 Number_of_Babies_per_Pregnancy 2.794488
-Fox 777 Speed 1.493017 Hunger 0.7088667 Thirst 0.6252748 Birth 309 Death 323 Number_of_Babies_per_Pregnancy 2.914798
-Eagle_Elite 509 Speed 1.500334 Hunger 0.698112 Thirst 0.6057705 Birth 275 Death 281 Number_of_Babies_per_Pregnancy 2.443243
-Plant 437
-Rabbit 4457 Speed 1.499998 Hunger 0.7931688 Thirst 0.6443793 Birth 1679 Death 1735 Number_of_Babies_per_Pregnancy 2.798883
-Fox 763 Speed 1.492989 Hunger 0.7140913 Thirst 0.6256357 Birth 311 Death 325 Number_of_Babies_per_Pregnancy 2.922018
-Eagle_Elite 504 Speed 1.500721 Hunger 0.7014872 Thirst 0.6074271 Birth 273 Death 278 Number_of_Babies_per_Pregnancy 2.461539
-Plant 433
-Rabbit 4406 Speed 1.499802 Hunger 0.7971243 Thirst 0.6445923 Birth 1634 Death 1685 Number_of_Babies_per_Pregnancy 2.795984
-Fox 746 Speed 1.493411 Hunger 0.7186149 Thirst 0.6257408 Birth 294 Death 311 Number_of_Babies_per_Pregnancy 2.9447
-Eagle_Elite 496 Speed 1.50119 Hunger 0.7016777 Thirst 0.6057786 Birth 260 Death 268 Number_of_Babies_per_Pregnancy 2.47191
-Plant 426
-Rabbit 4344 Speed 1.499461 Hunger 0.7997331 Thirst 0.6476322 Birth 1560 Death 1622 Number_of_Babies_per_Pregnancy 2.800813
-Fox 733 Speed 1.493128 Hunger 0.725127 Thirst 0.62717 Birth 281 Death 294 Number_of_Babies_per_Pregnancy 2.985849
-Eagle_Elite 496 Speed 1.500265 Hunger 0.7087852 Thirst 0.6098771 Birth 263 Death 263 Number_of_Babies_per_Pregnancy 2.513661
-Plant 421
-Rabbit 4280 Speed 1.4993 Hunger 0.8034742 Thirst 0.6499863 Birth 1586 Death 1650 Number_of_Babies_per_Pregnancy 2.812919
-Fox 714 Speed 1.492722 Hunger 0.7278728 Thirst 0.6265404 Birth 269 Death 288 Number_of_Babies_per_Pregnancy 2.985507
-Eagle_Elite 486 Speed 1.498213 Hunger 0.7092041 Thirst 0.6146447 Birth 258 Death 268 Number_of_Babies_per_Pregnancy 2.5
-Plant 416
-Rabbit 4219 Speed 1.498922 Hunger 0.807977 Thirst 0.6523672 Birth 1495 Death 1556 Number_of_Babies_per_Pregnancy 2.816624
-Fox 703 Speed 1.492955 Hunger 0.7273043 Thirst 0.626951 Birth 247 Death 258 Number_of_Babies_per_Pregnancy 3
-Eagle_Elite 480 Speed 1.497038 Hunger 0.7158517 Thirst 0.6164715 Birth 253 Death 259 Number_of_Babies_per_Pregnancy 2.497207
-Plant 414
-Rabbit 4150 Speed 1.498308 Hunger 0.8112546 Thirst 0.6554301 Birth 1456 Death 1525 Number_of_Babies_per_Pregnancy 2.824348
-Fox 689 Speed 1.493545 Hunger 0.7333828 Thirst 0.6270362 Birth 235 Death 249 Number_of_Babies_per_Pregnancy 2.995025
-Eagle_Elite 469 Speed 1.495776 Hunger 0.7172618 Thirst 0.6139011 Birth 257 Death 268 Number_of_Babies_per_Pregnancy 2.460674
-Plant 409
-Rabbit 4095 Speed 1.498384 Hunger 0.8143729 Thirst 0.6573549 Birth 1379 Death 1434 Number_of_Babies_per_Pregnancy 2.823374
-Fox 677 Speed 1.494074 Hunger 0.7386939 Thirst 0.6247802 Birth 231 Death 243 Number_of_Babies_per_Pregnancy 3.00995
-Eagle_Elite 462 Speed 1.496015 Hunger 0.7198479 Thirst 0.6138961 Birth 254 Death 261 Number_of_Babies_per_Pregnancy 2.456647
-Plant 401
-Rabbit 4029 Speed 1.49831 Hunger 0.8184861 Thirst 0.6589684 Birth 1302 Death 1368 Number_of_Babies_per_Pregnancy 2.827986
-Fox 664 Speed 1.492806 Hunger 0.7408755 Thirst 0.6276683 Birth 224 Death 237 Number_of_Babies_per_Pregnancy 3.010257
-Eagle_Elite 446 Speed 1.493472 Hunger 0.7204562 Thirst 0.6161643 Birth 240 Death 256 Number_of_Babies_per_Pregnancy 2.428571
-Plant 396
-Rabbit 3950 Speed 1.497648 Hunger 0.8215704 Thirst 0.6621625 Birth 1289 Death 1368 Number_of_Babies_per_Pregnancy 2.834244
-Fox 650 Speed 1.49114 Hunger 0.7412319 Thirst 0.6279335 Birth 215 Death 229 Number_of_Babies_per_Pregnancy 3.010309
-Eagle_Elite 434 Speed 1.491098 Hunger 0.7231833 Thirst 0.6195231 Birth 226 Death 238 Number_of_Babies_per_Pregnancy 2.443114
-Plant 393
-Rabbit 3859 Speed 1.497195 Hunger 0.8244329 Thirst 0.6654208 Birth 1285 Death 1376 Number_of_Babies_per_Pregnancy 2.837058
-Fox 639 Speed 1.491289 Hunger 0.7479385 Thirst 0.625968 Birth 211 Death 222 Number_of_Babies_per_Pregnancy 3.036842
-Eagle_Elite 418 Speed 1.488857 Hunger 0.7239152 Thirst 0.6235108 Birth 219 Death 235 Number_of_Babies_per_Pregnancy 2.440994
-Plant 390
-Rabbit 3785 Speed 1.496624 Hunger 0.8289611 Thirst 0.6673849 Birth 1202 Death 1276 Number_of_Babies_per_Pregnancy 2.839015
-Fox 620 Speed 1.490744 Hunger 0.7454109 Thirst 0.6313296 Birth 195 Death 214 Number_of_Babies_per_Pregnancy 3.021277
-Eagle_Elite 409 Speed 1.487763 Hunger 0.7239621 Thirst 0.6315219 Birth 209 Death 218 Number_of_Babies_per_Pregnancy 2.433121
-Plant 388
-Rabbit 3715 Speed 1.496272 Hunger 0.8328855 Thirst 0.6700999 Birth 1154 Death 1224 Number_of_Babies_per_Pregnancy 2.8375
-Fox 609 Speed 1.491688 Hunger 0.7556224 Thirst 0.631119 Birth 181 Death 192 Number_of_Babies_per_Pregnancy 3.010811
-Eagle_Elite 398 Speed 1.486407 Hunger 0.7258601 Thirst 0.6427203 Birth 213 Death 224 Number_of_Babies_per_Pregnancy 2.46
-Plant 383
-Rabbit 3641 Speed 1.495778 Hunger 0.8380335 Thirst 0.6712077 Birth 1115 Death 1189 Number_of_Babies_per_Pregnancy 2.857708
-Fox 592 Speed 1.491235 Hunger 0.7604826 Thirst 0.6292744 Birth 190 Death 207 Number_of_Babies_per_Pregnancy 3.028409
-Eagle_Elite 385 Speed 1.485351 Hunger 0.7400315 Thirst 0.6388659 Birth 209 Death 222 Number_of_Babies_per_Pregnancy 2.455782
-Plant 381
-Rabbit 3579 Speed 1.495881 Hunger 0.8408037 Thirst 0.6756416 Birth 1054 Death 1116 Number_of_Babies_per_Pregnancy 2.864048
-Fox 577 Speed 1.48968 Hunger 0.7642831 Thirst 0.6244684 Birth 179 Death 194 Number_of_Babies_per_Pregnancy 3.046243
-Eagle_Elite 374 Speed 1.484459 Hunger 0.7450748 Thirst 0.6363508 Birth 184 Death 195 Number_of_Babies_per_Pregnancy 2.446809
-Plant 377
-Rabbit 3510 Speed 1.495487 Hunger 0.8437553 Thirst 0.67748 Birth 1002 Death 1071 Number_of_Babies_per_Pregnancy 2.875258
-Fox 561 Speed 1.489193 Hunger 0.7659466 Thirst 0.6267841 Birth 168 Death 184 Number_of_Babies_per_Pregnancy 3.047904
-Eagle_Elite 359 Speed 1.48357 Hunger 0.7499258 Thirst 0.6429729 Birth 183 Death 198 Number_of_Babies_per_Pregnancy 2.451852
-Plant 373
-Rabbit 3441 Speed 1.495762 Hunger 0.8468354 Thirst 0.679864 Birth 969 Death 1038 Number_of_Babies_per_Pregnancy 2.874089
-Fox 550 Speed 1.488845 Hunger 0.7691616 Thirst 0.6253721 Birth 151 Death 162 Number_of_Babies_per_Pregnancy 3.04908
-Eagle_Elite 347 Speed 1.481063 Hunger 0.7488521 Thirst 0.6556619 Birth 177 Death 189 Number_of_Babies_per_Pregnancy 2.473282
-Plant 373
-Rabbit 3385 Speed 1.495634 Hunger 0.8515721 Thirst 0.6814569 Birth 918 Death 974 Number_of_Babies_per_Pregnancy 2.889244
-Fox 537 Speed 1.488637 Hunger 0.7764608 Thirst 0.6221474 Birth 141 Death 154 Number_of_Babies_per_Pregnancy 3.062893
-Eagle_Elite 327 Speed 1.478782 Hunger 0.7602985 Thirst 0.6595613 Birth 155 Death 175 Number_of_Babies_per_Pregnancy 2.46281
-Plant 372
-Rabbit 3325 Speed 1.495403 Hunger 0.855709 Thirst 0.6835194 Birth 892 Death 952 Number_of_Babies_per_Pregnancy 2.89738
-Fox 525 Speed 1.488295 Hunger 0.7796288 Thirst 0.6259367 Birth 128 Death 140 Number_of_Babies_per_Pregnancy 3.075949
-Eagle_Elite 304 Speed 1.476577 Hunger 0.7691178 Thirst 0.650924 Birth 149 Death 172 Number_of_Babies_per_Pregnancy 2.46789
-Plant 371
-Rabbit 3269 Speed 1.495375 Hunger 0.8605475 Thirst 0.6840651 Birth 866 Death 922 Number_of_Babies_per_Pregnancy 2.899889
-Fox 509 Speed 1.488281 Hunger 0.7858358 Thirst 0.6221587 Birth 121 Death 137 Number_of_Babies_per_Pregnancy 3.105263
-Eagle_Elite 292 Speed 1.473449 Hunger 0.7599374 Thirst 0.6736266 Birth 135 Death 147 Number_of_Babies_per_Pregnancy 2.472222
-Plant 370
-Rabbit 3200 Speed 1.495312 Hunger 0.8649031 Thirst 0.6861922 Birth 764 Death 833 Number_of_Babies_per_Pregnancy 2.897611
-Fox 497 Speed 1.487545 Hunger 0.7852156 Thirst 0.6256443 Birth 107 Death 119 Number_of_Babies_per_Pregnancy 3.099338
-Eagle_Elite 276 Speed 1.47287 Hunger 0.7607881 Thirst 0.6862667 Birth 133 Death 149 Number_of_Babies_per_Pregnancy 2.520408
-Plant 370
-Rabbit 3143 Speed 1.495242 Hunger 0.868741 Thirst 0.6889054 Birth 748 Death 805 Number_of_Babies_per_Pregnancy 2.900817
-Fox 489 Speed 1.486519 Hunger 0.7865471 Thirst 0.6275122 Birth 101 Death 109 Number_of_Babies_per_Pregnancy 3.093333
-Eagle_Elite 260 Speed 1.471489 Hunger 0.7579039 Thirst 0.696216 Birth 125 Death 141 Number_of_Babies_per_Pregnancy 2.542553
-Plant 369
-Rabbit 3083 Speed 1.495286 Hunger 0.8734827 Thirst 0.6933984 Birth 719 Death 779 Number_of_Babies_per_Pregnancy 2.922249
-Fox 479 Speed 1.486662 Hunger 0.7948819 Thirst 0.6262179 Birth 99 Death 109 Number_of_Babies_per_Pregnancy 3.123288
-Eagle_Elite 250 Speed 1.470353 Hunger 0.7635721 Thirst 0.7027553 Birth 105 Death 115 Number_of_Babies_per_Pregnancy 2.566667
-Plant 369
-Rabbit 3023 Speed 1.495446 Hunger 0.8768891 Thirst 0.6972491 Birth 672 Death 732 Number_of_Babies_per_Pregnancy 2.921665
-Fox 464 Speed 1.487485 Hunger 0.7944842 Thirst 0.6331279 Birth 93 Death 108 Number_of_Babies_per_Pregnancy 3.156028
-Eagle_Elite 236 Speed 1.470272 Hunger 0.7634901 Thirst 0.7089339 Birth 97 Death 111 Number_of_Babies_per_Pregnancy 2.55814
-Plant 365
-Rabbit 2965 Speed 1.495883 Hunger 0.8797287 Thirst 0.7016253 Birth 648 Death 706 Number_of_Babies_per_Pregnancy 2.924224
-Fox 452 Speed 1.488044 Hunger 0.8002601 Thirst 0.6311517 Birth 93 Death 105 Number_of_Babies_per_Pregnancy 3.15
-Eagle_Elite 226 Speed 1.469093 Hunger 0.7616665 Thirst 0.7253862 Birth 101 Death 111 Number_of_Babies_per_Pregnancy 2.518072
-Plant 364
-Rabbit 2902 Speed 1.496537 Hunger 0.8835874 Thirst 0.706498 Birth 624 Death 687 Number_of_Babies_per_Pregnancy 2.938144
-Fox 444 Speed 1.488451 Hunger 0.8028294 Thirst 0.6328695 Birth 88 Death 96 Number_of_Babies_per_Pregnancy 3.154412
-Eagle_Elite 216 Speed 1.468974 Hunger 0.7697102 Thirst 0.7384022 Birth 90 Death 100 Number_of_Babies_per_Pregnancy 2.51282
-Plant 362
-Rabbit 2860 Speed 1.497034 Hunger 0.8867869 Thirst 0.7091663 Birth 564 Death 606 Number_of_Babies_per_Pregnancy 2.946265
-Fox 433 Speed 1.48974 Hunger 0.8033898 Thirst 0.6347435 Birth 85 Death 96 Number_of_Babies_per_Pregnancy 3.159091
-Eagle_Elite 205 Speed 1.469645 Hunger 0.7778664 Thirst 0.74135 Birth 85 Death 96 Number_of_Babies_per_Pregnancy 2.513889
-Plant 362
-Rabbit 2810 Speed 1.497676 Hunger 0.8903294 Thirst 0.7125677 Birth 550 Death 600 Number_of_Babies_per_Pregnancy 2.957047
-Fox 422 Speed 1.49051 Hunger 0.8053554 Thirst 0.6403375 Birth 77 Death 88 Number_of_Babies_per_Pregnancy 3.140625
-Eagle_Elite 194 Speed 1.470949 Hunger 0.7780495 Thirst 0.744737 Birth 70 Death 81 Number_of_Babies_per_Pregnancy 2.455882
-Plant 360
-Rabbit 2762 Speed 1.49844 Hunger 0.8937446 Thirst 0.7162467 Birth 531 Death 579 Number_of_Babies_per_Pregnancy 2.960382
-Fox 418 Speed 1.492196 Hunger 0.8066341 Thirst 0.6418933 Birth 80 Death 84 Number_of_Babies_per_Pregnancy 3.140625
-Eagle_Elite 188 Speed 1.471458 Hunger 0.7782568 Thirst 0.7547325 Birth 69 Death 75 Number_of_Babies_per_Pregnancy 2.430769
-Plant 359
-Rabbit 2718 Speed 1.498659 Hunger 0.8959647 Thirst 0.7207477 Birth 523 Death 567 Number_of_Babies_per_Pregnancy 2.967787
-Fox 413 Speed 1.492284 Hunger 0.809067 Thirst 0.6460162 Birth 73 Death 78 Number_of_Babies_per_Pregnancy 3.16
-Eagle_Elite 182 Speed 1.471623 Hunger 0.7752786 Thirst 0.7677829 Birth 61 Death 67 Number_of_Babies_per_Pregnancy 2.483871
-Plant 359
-Rabbit 2680 Speed 1.499393 Hunger 0.8997418 Thirst 0.7231394 Birth 498 Death 536 Number_of_Babies_per_Pregnancy 2.982857
-Fox 408 Speed 1.493114 Hunger 0.813395 Thirst 0.6453526 Birth 67 Death 72 Number_of_Babies_per_Pregnancy 3.147541
-Eagle_Elite 176 Speed 1.472561 Hunger 0.7926245 Thirst 0.7676792 Birth 61 Death 67 Number_of_Babies_per_Pregnancy 2.465517
-Plant 358
-Rabbit 2640 Speed 1.500385 Hunger 0.9032589 Thirst 0.7271369 Birth 482 Death 522 Number_of_Babies_per_Pregnancy 2.998536
-Fox 398 Speed 1.494441 Hunger 0.8172396 Thirst 0.649929 Birth 59 Death 69 Number_of_Babies_per_Pregnancy 3.155738
-Eagle_Elite 171 Speed 1.474107 Hunger 0.8062606 Thirst 0.7628831 Birth 51 Death 56 Number_of_Babies_per_Pregnancy 2.473684
-Plant 358
-Rabbit 2602 Speed 1.500988 Hunger 0.9061096 Thirst 0.7293169 Birth 452 Death 490 Number_of_Babies_per_Pregnancy 3.013433
-Fox 393 Speed 1.495408 Hunger 0.8190017 Thirst 0.654471 Birth 65 Death 70 Number_of_Babies_per_Pregnancy 3.158333
-Eagle_Elite 166 Speed 1.475871 Hunger 0.8134957 Thirst 0.7696234 Birth 45 Death 50 Number_of_Babies_per_Pregnancy 2.473684
-Plant 356
-Rabbit 2566 Speed 1.501775 Hunger 0.9086475 Thirst 0.733856 Birth 427 Death 463 Number_of_Babies_per_Pregnancy 3.027439
-Fox 391 Speed 1.495145 Hunger 0.8247918 Thirst 0.6540307 Birth 60 Death 62 Number_of_Babies_per_Pregnancy 3.158333
-Eagle_Elite 162 Speed 1.476396 Hunger 0.8234261 Thirst 0.7718844 Birth 41 Death 45 Number_of_Babies_per_Pregnancy 2.527273
-Plant 356
-Rabbit 2544 Speed 1.502184 Hunger 0.9117095 Thirst 0.7367294 Birth 413 Death 435 Number_of_Babies_per_Pregnancy 3.043011
-Fox 388 Speed 1.496241 Hunger 0.8255135 Thirst 0.6572065 Birth 52 Death 55 Number_of_Babies_per_Pregnancy 3.158333
-Eagle_Elite 158 Speed 1.47783 Hunger 0.8213071 Thirst 0.7813436 Birth 42 Death 46 Number_of_Babies_per_Pregnancy 2.555556
-Plant 356
-Rabbit 2519 Speed 1.503003 Hunger 0.913775 Thirst 0.7415712 Birth 404 Death 429 Number_of_Babies_per_Pregnancy 3.059098
-Fox 385 Speed 1.497154 Hunger 0.8281825 Thirst 0.6584178 Birth 56 Death 59 Number_of_Babies_per_Pregnancy 3.158333
-Eagle_Elite 153 Speed 1.480528 Hunger 0.8319744 Thirst 0.7824358 Birth 38 Death 43 Number_of_Babies_per_Pregnancy 2.615385
-Plant 356
-Rabbit 2499 Speed 1.50362 Hunger 0.9157991 Thirst 0.7429574 Birth 369 Death 389 Number_of_Babies_per_Pregnancy 3.062893
-Fox 382 Speed 1.498203 Hunger 0.8284879 Thirst 0.6622549 Birth 52 Death 55 Number_of_Babies_per_Pregnancy 3.158333
-Eagle_Elite 150 Speed 1.481604 Hunger 0.8352062 Thirst 0.7930267 Birth 38 Death 41 Number_of_Babies_per_Pregnancy 2.591837
-Plant 356
-Rabbit 2481 Speed 1.503544 Hunger 0.9177713 Thirst 0.7456259 Birth 375 Death 393 Number_of_Babies_per_Pregnancy 3.055732
-Fox 374 Speed 1.499496 Hunger 0.8298828 Thirst 0.6668001 Birth 53 Death 61 Number_of_Babies_per_Pregnancy 3.144068
-Eagle_Elite 143 Speed 1.486312 Hunger 0.8390474 Thirst 0.7914661 Birth 35 Death 42 Number_of_Babies_per_Pregnancy 2.586957
-Plant 356
-Rabbit 2465 Speed 1.503818 Hunger 0.9202787 Thirst 0.7474458 Birth 363 Death 379 Number_of_Babies_per_Pregnancy 3.060606
-Fox 373 Speed 1.499866 Hunger 0.830559 Thirst 0.6665023 Birth 50 Death 51 Number_of_Babies_per_Pregnancy 3.144068
-Eagle_Elite 141 Speed 1.488257 Hunger 0.8441134 Thirst 0.7898744 Birth 32 Death 34 Number_of_Babies_per_Pregnancy 2.555556
-Plant 356
-Rabbit 2451 Speed 1.504418 Hunger 0.9225525 Thirst 0.7502599 Birth 351 Death 365 Number_of_Babies_per_Pregnancy 3.064412
-Fox 372 Speed 1.499619 Hunger 0.8334073 Thirst 0.6668214 Birth 48 Death 49 Number_of_Babies_per_Pregnancy 3.144068
-Eagle_Elite 137 Speed 1.491484 Hunger 0.8505948 Thirst 0.7923274 Birth 26 Death 30 Number_of_Babies_per_Pregnancy 2.581395
-Plant 356
-Rabbit 2437 Speed 1.504289 Hunger 0.9246286 Thirst 0.7517889 Birth 342 Death 356 Number_of_Babies_per_Pregnancy 3.069692
-Fox 370 Speed 1.499845 Hunger 0.8358801 Thirst 0.6689231 Birth 43 Death 45 Number_of_Babies_per_Pregnancy 3.144068
-Eagle_Elite 135 Speed 1.493645 Hunger 0.8557365 Thirst 0.7904509 Birth 24 Death 26 Number_of_Babies_per_Pregnancy 2.581395
-Plant 355
-Rabbit 2419 Speed 1.50463 Hunger 0.9266675 Thirst 0.7543133 Birth 348 Death 366 Number_of_Babies_per_Pregnancy 3.08046
-Fox 367 Speed 1.499909 Hunger 0.8362715 Thirst 0.6703697 Birth 43 Death 46 Number_of_Babies_per_Pregnancy 3.153846
-Eagle_Elite 135 Speed 1.493645 Hunger 0.8573506 Thirst 0.7916273 Birth 22 Death 22 Number_of_Babies_per_Pregnancy 2.581395
-Plant 355
-Rabbit 2408 Speed 1.505125 Hunger 0.9288406 Thirst 0.7556324 Birth 315 Death 326 Number_of_Babies_per_Pregnancy 3.092869
-Fox 366 Speed 1.499911 Hunger 0.8395766 Thirst 0.6706228 Birth 49 Death 50 Number_of_Babies_per_Pregnancy 3.153846
-Eagle_Elite 131 Speed 1.498364 Hunger 0.8549336 Thirst 0.8114362 Birth 25 Death 29 Number_of_Babies_per_Pregnancy 2.65
-Plant 353
-Rabbit 2384 Speed 1.505427 Hunger 0.9303432 Thirst 0.7596597 Birth 301 Death 325 Number_of_Babies_per_Pregnancy 3.089226
-Fox 363 Speed 1.50014 Hunger 0.8424885 Thirst 0.6727696 Birth 38 Death 41 Number_of_Babies_per_Pregnancy 3.173913
-Eagle_Elite 130 Speed 1.499506 Hunger 0.8595051 Thirst 0.8090655 Birth 26 Death 27 Number_of_Babies_per_Pregnancy 2.65
-Plant 353
-Rabbit 2361 Speed 1.506029 Hunger 0.9315034 Thirst 0.7637087 Birth 310 Death 333 Number_of_Babies_per_Pregnancy 3.091993
-Fox 362 Speed 1.500309 Hunger 0.8437597 Thirst 0.6757545 Birth 48 Death 49 Number_of_Babies_per_Pregnancy 3.173913
-Eagle_Elite 127 Speed 1.504161 Hunger 0.8647125 Thirst 0.8156587 Birth 19 Death 22 Number_of_Babies_per_Pregnancy 2.641026
-Plant 353
-Rabbit 2347 Speed 1.50607 Hunger 0.9335936 Thirst 0.7653596 Birth 279 Death 293 Number_of_Babies_per_Pregnancy 3.101549
-Fox 360 Speed 1.500465 Hunger 0.8461404 Thirst 0.6778476 Birth 40 Death 42 Number_of_Babies_per_Pregnancy 3.173913
-Eagle_Elite 126 Speed 1.505727 Hunger 0.8649587 Thirst 0.815236 Birth 20 Death 21 Number_of_Babies_per_Pregnancy 2.641026
-Plant 352
-Rabbit 2339 Speed 1.506184 Hunger 0.9338248 Thirst 0.767611 Birth 273 Death 281 Number_of_Babies_per_Pregnancy 3.107452
-Fox 359 Speed 1.500177 Hunger 0.8472213 Thirst 0.6790506 Birth 45 Death 46 Number_of_Babies_per_Pregnancy 3.173913
-Eagle_Elite 126 Speed 1.505727 Hunger 0.8662677 Thirst 0.8162653 Birth 18 Death 18 Number_of_Babies_per_Pregnancy 2.641026
-Plant 352
-Rabbit 2328 Speed 1.506271 Hunger 0.9355366 Thirst 0.7690983 Birth 279 Death 290 Number_of_Babies_per_Pregnancy 3.109756
-Fox 356 Speed 1.500347 Hunger 0.8473318 Thirst 0.6839427 Birth 41 Death 44 Number_of_Babies_per_Pregnancy 3.173913
-Eagle_Elite 124 Speed 1.509201 Hunger 0.8653893 Thirst 0.8223998 Birth 20 Death 22 Number_of_Babies_per_Pregnancy 2.605263
-Plant 352
-Rabbit 2320 Speed 1.506654 Hunger 0.9363943 Thirst 0.7703639 Birth 255 Death 263 Number_of_Babies_per_Pregnancy 3.11775
-Fox 354 Speed 1.501402 Hunger 0.8478722 Thirst 0.6865412 Birth 45 Death 47 Number_of_Babies_per_Pregnancy 3.184211
-Eagle_Elite 124 Speed 1.509201 Hunger 0.8666269 Thirst 0.8233996 Birth 16 Death 16 Number_of_Babies_per_Pregnancy 2.605263
-Plant 352
-Rabbit 2310 Speed 1.50669 Hunger 0.9382082 Thirst 0.7734369 Birth 246 Death 256 Number_of_Babies_per_Pregnancy 3.128114
-Fox 353 Speed 1.501513 Hunger 0.8488553 Thirst 0.6895687 Birth 41 Death 42 Number_of_Babies_per_Pregnancy 3.184211
-Eagle_Elite 124 Speed 1.509201 Hunger 0.8678645 Thirst 0.8243994 Birth 19 Death 19 Number_of_Babies_per_Pregnancy 2.605263
-Plant 351
-Rabbit 2298 Speed 1.507168 Hunger 0.9394298 Thirst 0.7741737 Birth 264 Death 276 Number_of_Babies_per_Pregnancy 3.113106
-Fox 352 Speed 1.501562 Hunger 0.8493199 Thirst 0.6914468 Birth 42 Death 43 Number_of_Babies_per_Pregnancy 3.184211
-Eagle_Elite 122 Speed 1.511146 Hunger 0.8731706 Thirst 0.8232608 Birth 17 Death 19 Number_of_Babies_per_Pregnancy 2.567568
-Plant 350
-Rabbit 2278 Speed 1.507762 Hunger 0.9414583 Thirst 0.7753779 Birth 230 Death 250 Number_of_Babies_per_Pregnancy 3.124774
-Fox 348 Speed 1.502105 Hunger 0.8489591 Thirst 0.6976001 Birth 41 Death 45 Number_of_Babies_per_Pregnancy 3.198198
-Eagle_Elite 122 Speed 1.511146 Hunger 0.8743825 Thirst 0.824231 Birth 16 Death 16 Number_of_Babies_per_Pregnancy 2.567568
-Plant 350
-Rabbit 2265 Speed 1.50775 Hunger 0.9428805 Thirst 0.777121 Birth 218 Death 231 Number_of_Babies_per_Pregnancy 3.140255
-Fox 347 Speed 1.502394 Hunger 0.849829 Thirst 0.700677 Birth 35 Death 36 Number_of_Babies_per_Pregnancy 3.209091
-Eagle_Elite 122 Speed 1.511146 Hunger 0.8755942 Thirst 0.8252011 Birth 16 Death 16 Number_of_Babies_per_Pregnancy 2.567568
-Plant 349
-Rabbit 2256 Speed 1.507932 Hunger 0.9438396 Thirst 0.7794123 Birth 206 Death 215 Number_of_Babies_per_Pregnancy 3.146252
-Fox 347 Speed 1.502394 Hunger 0.8511706 Thirst 0.7017432 Birth 38 Death 38 Number_of_Babies_per_Pregnancy 3.209091
-Eagle_Elite 120 Speed 1.515808 Hunger 0.8816862 Thirst 0.8315749 Birth 15 Death 17 Number_of_Babies_per_Pregnancy 2.583333
-Plant 349
-Rabbit 2249 Speed 1.508095 Hunger 0.9453039 Thirst 0.7804583 Birth 207 Death 214 Number_of_Babies_per_Pregnancy 3.152574
-Fox 346 Speed 1.503251 Hunger 0.8517456 Thirst 0.7019359 Birth 41 Death 42 Number_of_Babies_per_Pregnancy 3.209091
-Eagle_Elite 120 Speed 1.515808 Hunger 0.882827 Thirst 0.8325178 Birth 18 Death 18 Number_of_Babies_per_Pregnancy 2.583333
-Plant 349
-Rabbit 2240 Speed 1.508313 Hunger 0.9472988 Thirst 0.7812019 Birth 204 Death 213 Number_of_Babies_per_Pregnancy 3.157116
-Fox 343 Speed 1.503822 Hunger 0.8517066 Thirst 0.7091383 Birth 33 Death 36 Number_of_Babies_per_Pregnancy 3.212963
-Eagle_Elite 120 Speed 1.515808 Hunger 0.8839679 Thirst 0.8334608 Birth 15 Death 15 Number_of_Babies_per_Pregnancy 2.583333
-Plant 349
-Rabbit 2227 Speed 1.508618 Hunger 0.9491655 Thirst 0.7822342 Birth 182 Death 195 Number_of_Babies_per_Pregnancy 3.153989
-Fox 342 Speed 1.504137 Hunger 0.8540637 Thirst 0.7093528 Birth 32 Death 33 Number_of_Babies_per_Pregnancy 3.212963
-Eagle_Elite 120 Speed 1.51555 Hunger 0.8846874 Thirst 0.8321342 Birth 18 Death 18 Number_of_Babies_per_Pregnancy 2.583333
-Plant 349
-Rabbit 2222 Speed 1.508894 Hunger 0.9501551 Thirst 0.7818858 Birth 166 Death 171 Number_of_Babies_per_Pregnancy 3.156716
-Fox 342 Speed 1.504137 Hunger 0.855269 Thirst 0.7103825 Birth 37 Death 37 Number_of_Babies_per_Pregnancy 3.212963
-Eagle_Elite 120 Speed 1.51555 Hunger 0.8858272 Thirst 0.8330761 Birth 16 Death 16 Number_of_Babies_per_Pregnancy 2.583333
-Plant 349
-Rabbit 2207 Speed 1.509253 Hunger 0.951001 Thirst 0.7842433 Birth 160 Death 175 Number_of_Babies_per_Pregnancy 3.161351
-Fox 342 Speed 1.504137 Hunger 0.8564748 Thirst 0.7114125 Birth 31 Death 31 Number_of_Babies_per_Pregnancy 3.212963
-Eagle_Elite 120 Speed 1.51555 Hunger 0.8869668 Thirst 0.8340179 Birth 17 Death 17 Number_of_Babies_per_Pregnancy 2.583333
-Plant 348
-Rabbit 2199 Speed 1.509434 Hunger 0.9525607 Thirst 0.7848985 Birth 155 Death 163 Number_of_Babies_per_Pregnancy 3.162264
-Fox 342 Speed 1.504137 Hunger 0.8572566 Thirst 0.7124425 Birth 35 Death 35 Number_of_Babies_per_Pregnancy 3.212963
-Eagle_Elite 119 Speed 1.517835 Hunger 0.8871217 Thirst 0.8419761 Birth 18 Death 19 Number_of_Babies_per_Pregnancy 2.571429
-Plant 348
-Rabbit 2191 Speed 1.509536 Hunger 0.9538036 Thirst 0.7870328 Birth 133 Death 141 Number_of_Babies_per_Pregnancy 3.166667
-Fox 341 Speed 1.503973 Hunger 0.8606401 Thirst 0.7126155 Birth 35 Death 36 Number_of_Babies_per_Pregnancy 3.212963
-Eagle_Elite 119 Speed 1.518095 Hunger 0.8886539 Thirst 0.8452191 Birth 15 Death 15 Number_of_Babies_per_Pregnancy 2.571429
-Plant 347
-Rabbit 2183 Speed 1.509818 Hunger 0.9544164 Thirst 0.7889868 Birth 142 Death 150 Number_of_Babies_per_Pregnancy 3.16826
-Fox 339 Speed 1.503235 Hunger 0.8609526 Thirst 0.7178385 Birth 31 Death 33 Number_of_Babies_per_Pregnancy 3.212963
-Eagle_Elite 118 Speed 1.520466 Hunger 0.8888178 Thirst 0.8533409 Birth 18 Death 19 Number_of_Babies_per_Pregnancy 2.617647
-Plant 347
-Rabbit 2181 Speed 1.510035 Hunger 0.9554117 Thirst 0.7894096 Birth 134 Death 136 Number_of_Babies_per_Pregnancy 3.168582
-Fox 339 Speed 1.503235 Hunger 0.862086 Thirst 0.7188569 Birth 35 Death 35 Number_of_Babies_per_Pregnancy 3.212963
-Eagle_Elite 118 Speed 1.520466 Hunger 0.8898845 Thirst 0.8543 Birth 15 Death 15 Number_of_Babies_per_Pregnancy 2.617647
-Plant 347
-Rabbit 2173 Speed 1.510207 Hunger 0.9563778 Thirst 0.7900192 Birth 128 Death 136 Number_of_Babies_per_Pregnancy 3.176923
-Fox 338 Speed 1.503051 Hunger 0.864248 Thirst 0.7190358 Birth 33 Death 34 Number_of_Babies_per_Pregnancy 3.212963
-Eagle_Elite 118 Speed 1.520466 Hunger 0.8909513 Thirst 0.8552589 Birth 14 Death 14 Number_of_Babies_per_Pregnancy 2.617647
-Plant 347
-Rabbit 2163 Speed 1.510149 Hunger 0.9574249 Thirst 0.7911233 Birth 132 Death 142 Number_of_Babies_per_Pregnancy 3.185687
-Fox 336 Speed 1.502776 Hunger 0.8692135 Thirst 0.7183418 Birth 28 Death 30 Number_of_Babies_per_Pregnancy 3.214953
-Eagle_Elite 118 Speed 1.520205 Hunger 0.8915803 Thirst 0.8539005 Birth 18 Death 18 Number_of_Babies_per_Pregnancy 2.617647
-Plant 346
-Rabbit 2160 Speed 1.510035 Hunger 0.9581187 Thirst 0.7921731 Birth 112 Death 115 Number_of_Babies_per_Pregnancy 3.190291
-Fox 333 Speed 1.503836 Hunger 0.8694133 Thirst 0.7257877 Birth 31 Death 34 Number_of_Babies_per_Pregnancy 3.259615
-Eagle_Elite 117 Speed 1.520044 Hunger 0.892787 Thirst 0.855954 Birth 16 Death 17 Number_of_Babies_per_Pregnancy 2.617647
-Plant 346
-Rabbit 2156 Speed 1.510034 Hunger 0.9591476 Thirst 0.7928151 Birth 109 Death 113 Number_of_Babies_per_Pregnancy 3.193359
-Fox 330 Speed 1.50419 Hunger 0.8741714 Thirst 0.7272981 Birth 35 Death 38 Number_of_Babies_per_Pregnancy 3.271845
-Eagle_Elite 116 Speed 1.521093 Hunger 0.8949386 Thirst 0.8567581 Birth 13 Death 14 Number_of_Babies_per_Pregnancy 2.575758
-Plant 346
-Rabbit 2153 Speed 1.510154 Hunger 0.9597966 Thirst 0.7943795 Birth 110 Death 113 Number_of_Babies_per_Pregnancy 3.193359
-Fox 329 Speed 1.503735 Hunger 0.874854 Thirst 0.7280365 Birth 28 Death 29 Number_of_Babies_per_Pregnancy 3.27451
-Eagle_Elite 116 Speed 1.521093 Hunger 0.8957295 Thirst 0.8574395 Birth 14 Death 14 Number_of_Babies_per_Pregnancy 2.575758
-Plant 345
-Rabbit 2147 Speed 1.510272 Hunger 0.9607819 Thirst 0.795356 Birth 105 Death 111 Number_of_Babies_per_Pregnancy 3.190945
-Fox 326 Speed 1.503405 Hunger 0.8802597 Thirst 0.7295237 Birth 31 Death 34 Number_of_Babies_per_Pregnancy 3.32
-Eagle_Elite 116 Speed 1.521093 Hunger 0.8965204 Thirst 0.8581207 Birth 13 Death 13 Number_of_Babies_per_Pregnancy 2.575758
-Plant 344
-Rabbit 2141 Speed 1.510492 Hunger 0.9619809 Thirst 0.7966978 Birth 106 Death 112 Number_of_Babies_per_Pregnancy 3.19246
-Fox 323 Speed 1.503806 Hunger 0.8836471 Thirst 0.7309888 Birth 25 Death 28 Number_of_Babies_per_Pregnancy 3.336735
-Eagle_Elite 116 Speed 1.521093 Hunger 0.8973113 Thirst 0.858802 Birth 15 Death 15 Number_of_Babies_per_Pregnancy 2.575758
-Plant 344
-Rabbit 2141 Speed 1.510492 Hunger 0.9626546 Thirst 0.7971709 Birth 96 Death 96 Number_of_Babies_per_Pregnancy 3.19246
-Fox 322 Speed 1.504034 Hunger 0.8869972 Thirst 0.7310001 Birth 25 Death 26 Number_of_Babies_per_Pregnancy 3.340206
-Eagle_Elite 116 Speed 1.521093 Hunger 0.8981022 Thirst 0.8594833 Birth 14 Death 14 Number_of_Babies_per_Pregnancy 2.575758
-Plant 344
-Rabbit 2140 Speed 1.510409 Hunger 0.9634144 Thirst 0.7974519 Birth 97 Death 98 Number_of_Babies_per_Pregnancy 3.194444
-Fox 322 Speed 1.504034 Hunger 0.8878942 Thirst 0.7318409 Birth 22 Death 22 Number_of_Babies_per_Pregnancy 3.340206
-Eagle_Elite 116 Speed 1.521093 Hunger 0.8988931 Thirst 0.8601647 Birth 12 Death 12 Number_of_Babies_per_Pregnancy 2.575758
-Plant 344
-Rabbit 2137 Speed 1.510565 Hunger 0.964017 Thirst 0.7992666 Birth 93 Death 96 Number_of_Babies_per_Pregnancy 3.191235
-Fox 321 Speed 1.504098 Hunger 0.888449 Thirst 0.731888 Birth 25 Death 26 Number_of_Babies_per_Pregnancy 3.364583
-Eagle_Elite 114 Speed 1.522934 Hunger 0.900532 Thirst 0.8583691 Birth 12 Death 14 Number_of_Babies_per_Pregnancy 2.625
-Plant 342
-Rabbit 2135 Speed 1.510548 Hunger 0.9647567 Thirst 0.7987075 Birth 103 Death 105 Number_of_Babies_per_Pregnancy 3.189621
-Fox 319 Speed 1.503975 Hunger 0.893014 Thirst 0.7310125 Birth 18 Death 20 Number_of_Babies_per_Pregnancy 3.368421
-Eagle_Elite 113 Speed 1.523304 Hunger 0.9056484 Thirst 0.8576695 Birth 10 Death 11 Number_of_Babies_per_Pregnancy 2.677419
-Plant 342
-Rabbit 2134 Speed 1.5106 Hunger 0.9653986 Thirst 0.7988197 Birth 88 Death 89 Number_of_Babies_per_Pregnancy 3.188
-Fox 319 Speed 1.503975 Hunger 0.8938813 Thirst 0.7317979 Birth 19 Death 19 Number_of_Babies_per_Pregnancy 3.368421
-Eagle_Elite 112 Speed 1.522341 Hunger 0.9054337 Thirst 0.8658618 Birth 8 Death 9 Number_of_Babies_per_Pregnancy 2.677419
-Plant 342
-Rabbit 2130 Speed 1.5106 Hunger 0.96617 Thirst 0.8001186 Birth 86 Death 90 Number_of_Babies_per_Pregnancy 3.195171
-Fox 319 Speed 1.503975 Hunger 0.8947483 Thirst 0.7325835 Birth 20 Death 20 Number_of_Babies_per_Pregnancy 3.368421
-Eagle_Elite 112 Speed 1.522341 Hunger 0.9060169 Thirst 0.8663962 Birth 10 Death 10 Number_of_Babies_per_Pregnancy 2.677419
-Plant 341
-Rabbit 2128 Speed 1.510732 Hunger 0.9667655 Thirst 0.8013924 Birth 90 Death 92 Number_of_Babies_per_Pregnancy 3.19596
-Fox 319 Speed 1.503975 Hunger 0.8956159 Thirst 0.7333688 Birth 14 Death 14 Number_of_Babies_per_Pregnancy 3.368421
-Eagle_Elite 112 Speed 1.522341 Hunger 0.9066001 Thirst 0.8669307 Birth 9 Death 9 Number_of_Babies_per_Pregnancy 2.677419
-Plant 341
-Rabbit 2127 Speed 1.510851 Hunger 0.9673913 Thirst 0.8022914 Birth 102 Death 103 Number_of_Babies_per_Pregnancy 3.196356
-Fox 316 Speed 1.503906 Hunger 0.900329 Thirst 0.7317965 Birth 19 Death 22 Number_of_Babies_per_Pregnancy 3.387097
-Eagle_Elite 112 Speed 1.522341 Hunger 0.9071833 Thirst 0.8674651 Birth 6 Death 6 Number_of_Babies_per_Pregnancy 2.677419
-Plant 340
-Rabbit 2125 Speed 1.51083 Hunger 0.9681121 Thirst 0.8030953 Birth 94 Death 96 Number_of_Babies_per_Pregnancy 3.194726
-Fox 314 Speed 1.503676 Hunger 0.9005339 Thirst 0.7371913 Birth 15 Death 17 Number_of_Babies_per_Pregnancy 3.387097
-Eagle_Elite 112 Speed 1.522341 Hunger 0.9077665 Thirst 0.8679997 Birth 9 Death 9 Number_of_Babies_per_Pregnancy 2.677419
-Plant 340
-Rabbit 2124 Speed 1.510814 Hunger 0.9687334 Thirst 0.8037643 Birth 88 Death 89 Number_of_Babies_per_Pregnancy 3.194726
-Fox 314 Speed 1.503676 Hunger 0.9013073 Thirst 0.7379252 Birth 14 Death 14 Number_of_Babies_per_Pregnancy 3.387097
-Eagle_Elite 112 Speed 1.522341 Hunger 0.9083498 Thirst 0.8685341 Birth 9 Death 9 Number_of_Babies_per_Pregnancy 2.677419
-Plant 340
-Rabbit 2122 Speed 1.510836 Hunger 0.9694282 Thirst 0.8045707 Birth 92 Death 94 Number_of_Babies_per_Pregnancy 3.194726
-Fox 313 Speed 1.503578 Hunger 0.9017653 Thirst 0.740258 Birth 16 Death 17 Number_of_Babies_per_Pregnancy 3.387097
-Eagle_Elite 112 Speed 1.522341 Hunger 0.908933 Thirst 0.8690686 Birth 7 Death 7 Number_of_Babies_per_Pregnancy 2.677419
-Plant 340
-Rabbit 2121 Speed 1.51085 Hunger 0.9700792 Thirst 0.8049931 Birth 82 Death 83 Number_of_Babies_per_Pregnancy 3.194726
-Fox 313 Speed 1.503578 Hunger 0.9025409 Thirst 0.7409942 Birth 15 Death 15 Number_of_Babies_per_Pregnancy 3.387097
-Eagle_Elite 112 Speed 1.522341 Hunger 0.9095163 Thirst 0.8696031 Birth 10 Death 10 Number_of_Babies_per_Pregnancy 2.677419
-Plant 340
-Rabbit 2118 Speed 1.510906 Hunger 0.9708549 Thirst 0.8057003 Birth 76 Death 79 Number_of_Babies_per_Pregnancy 3.194726
-Fox 313 Speed 1.503578 Hunger 0.9033169 Thirst 0.7417303 Birth 13 Death 13 Number_of_Babies_per_Pregnancy 3.387097
-Eagle_Elite 112 Speed 1.522341 Hunger 0.9100996 Thirst 0.8701376 Birth 8 Death 8 Number_of_Babies_per_Pregnancy 2.677419
-Plant 340
-Rabbit 2118 Speed 1.510906 Hunger 0.971468 Thirst 0.8062093 Birth 80 Death 80 Number_of_Babies_per_Pregnancy 3.194726
-Fox 313 Speed 1.503578 Hunger 0.9040925 Thirst 0.7424664 Birth 16 Death 16 Number_of_Babies_per_Pregnancy 3.387097
-Eagle_Elite 112 Speed 1.522341 Hunger 0.9106828 Thirst 0.8706721 Birth 10 Death 10 Number_of_Babies_per_Pregnancy 2.677419
-Plant 340
-Rabbit 2118 Speed 1.510906 Hunger 0.9720809 Thirst 0.8061021 Birth 86 Death 86 Number_of_Babies_per_Pregnancy 3.194726
-Fox 313 Speed 1.503578 Hunger 0.9048682 Thirst 0.7432026 Birth 14 Death 14 Number_of_Babies_per_Pregnancy 3.387097
-Eagle_Elite 112 Speed 1.522341 Hunger 0.911266 Thirst 0.8712066 Birth 9 Death 9 Number_of_Babies_per_Pregnancy 2.677419
-Plant 340
-Rabbit 2118 Speed 1.510906 Hunger 0.972694 Thirst 0.8063436 Birth 86 Death 86 Number_of_Babies_per_Pregnancy 3.194726
-Fox 313 Speed 1.503578 Hunger 0.9056439 Thirst 0.7439389 Birth 12 Death 12 Number_of_Babies_per_Pregnancy 3.387097
-Eagle_Elite 111 Speed 1.522387 Hunger 0.9110472 Thirst 0.871484 Birth 8 Death 9 Number_of_Babies_per_Pregnancy 2.677419
-Plant 339
-Rabbit 2114 Speed 1.511036 Hunger 0.9734781 Thirst 0.8074278 Birth 73 Death 77 Number_of_Babies_per_Pregnancy 3.193483
-Fox 313 Speed 1.503578 Hunger 0.9064196 Thirst 0.744675 Birth 15 Death 15 Number_of_Babies_per_Pregnancy 3.387097
-Eagle_Elite 111 Speed 1.522387 Hunger 0.9115749 Thirst 0.8719626 Birth 7 Death 7 Number_of_Babies_per_Pregnancy 2.677419
-Plant 338
-Rabbit 2112 Speed 1.511152 Hunger 0.9743059 Thirst 0.8077423 Birth 73 Death 75 Number_of_Babies_per_Pregnancy 3.193483
-Fox 312 Speed 1.504123 Hunger 0.9084125 Thirst 0.7445765 Birth 15 Death 16 Number_of_Babies_per_Pregnancy 3.402174
-Eagle_Elite 111 Speed 1.522387 Hunger 0.9121027 Thirst 0.8724411 Birth 8 Death 8 Number_of_Babies_per_Pregnancy 2.677419
-Plant 338
-Rabbit 2112 Speed 1.511152 Hunger 0.9748971 Thirst 0.8082377 Birth 82 Death 82 Number_of_Babies_per_Pregnancy 3.193483
-Fox 310 Speed 1.504931 Hunger 0.9111081 Thirst 0.7436257 Birth 12 Death 14 Number_of_Babies_per_Pregnancy 3.422222
-Eagle_Elite 111 Speed 1.522387 Hunger 0.9126304 Thirst 0.8729197 Birth 9 Death 9 Number_of_Babies_per_Pregnancy 2.677419
-Plant 338
-Rabbit 2110 Speed 1.511222 Hunger 0.9754893 Thirst 0.8090609 Birth 85 Death 87 Number_of_Babies_per_Pregnancy 3.193483
-Fox 308 Speed 1.505279 Hunger 0.9144917 Thirst 0.7458888 Birth 11 Death 13 Number_of_Babies_per_Pregnancy 3.438202
-Eagle_Elite 111 Speed 1.522387 Hunger 0.9131581 Thirst 0.8733982 Birth 6 Death 6 Number_of_Babies_per_Pregnancy 2.677419
-Plant 338
-Rabbit 2108 Speed 1.511243 Hunger 0.9761552 Thirst 0.8096418 Birth 69 Death 71 Number_of_Babies_per_Pregnancy 3.195918
-Fox 308 Speed 1.505279 Hunger 0.9152003 Thirst 0.7465571 Birth 11 Death 11 Number_of_Babies_per_Pregnancy 3.438202
-Eagle_Elite 109 Speed 1.52215 Hunger 0.9146771 Thirst 0.8724116 Birth 6 Death 8 Number_of_Babies_per_Pregnancy 2.677419
-Plant 338
-Rabbit 2107 Speed 1.511354 Hunger 0.9767477 Thirst 0.8097214 Birth 77 Death 78 Number_of_Babies_per_Pregnancy 3.196319
-Fox 308 Speed 1.505279 Hunger 0.9159084 Thirst 0.7472253 Birth 11 Death 11 Number_of_Babies_per_Pregnancy 3.438202
-Eagle_Elite 109 Speed 1.52215 Hunger 0.9150893 Thirst 0.8727738 Birth 5 Death 5 Number_of_Babies_per_Pregnancy 2.677419
-Plant 338
-Rabbit 2106 Speed 1.511369 Hunger 0.9773094 Thirst 0.8105906 Birth 71 Death 72 Number_of_Babies_per_Pregnancy 3.20082
-Fox 308 Speed 1.505279 Hunger 0.9166169 Thirst 0.7478935 Birth 9 Death 9 Number_of_Babies_per_Pregnancy 3.438202
-Eagle_Elite 109 Speed 1.52215 Hunger 0.9155015 Thirst 0.8731359 Birth 6 Death 6 Number_of_Babies_per_Pregnancy 2.677419
-Plant 337
-Rabbit 2106 Speed 1.511369 Hunger 0.9778832 Thirst 0.8110751 Birth 76 Death 76 Number_of_Babies_per_Pregnancy 3.20082
-Fox 308 Speed 1.505279 Hunger 0.9173251 Thirst 0.7485618 Birth 11 Death 11 Number_of_Babies_per_Pregnancy 3.438202
-Eagle_Elite 109 Speed 1.52215 Hunger 0.9159137 Thirst 0.873498 Birth 4 Death 4 Number_of_Babies_per_Pregnancy 2.677419
-Plant 335
-Rabbit 2106 Speed 1.511369 Hunger 0.9784541 Thirst 0.8115594 Birth 63 Death 63 Number_of_Babies_per_Pregnancy 3.20082
-Fox 308 Speed 1.505279 Hunger 0.9180334 Thirst 0.74923 Birth 8 Death 8 Number_of_Babies_per_Pregnancy 3.438202
-Eagle_Elite 109 Speed 1.52215 Hunger 0.9163259 Thirst 0.8738601 Birth 4 Death 4 Number_of_Babies_per_Pregnancy 2.677419
-Plant 334
-Rabbit 2106 Speed 1.511369 Hunger 0.9790322 Thirst 0.812044 Birth 78 Death 78 Number_of_Babies_per_Pregnancy 3.20082
-Fox 307 Speed 1.505283 Hunger 0.9210269 Thirst 0.7490768 Birth 10 Death 11 Number_of_Babies_per_Pregnancy 3.438202
-Eagle_Elite 108 Speed 1.522161 Hunger 0.9159485 Thirst 0.873476 Birth 4 Death 5 Number_of_Babies_per_Pregnancy 2.677419
-Plant 334
-Rabbit 2106 Speed 1.511369 Hunger 0.9796133 Thirst 0.8125288 Birth 78 Death 78 Number_of_Babies_per_Pregnancy 3.20082
-Fox 307 Speed 1.505283 Hunger 0.9217157 Thirst 0.7497255 Birth 9 Death 9 Number_of_Babies_per_Pregnancy 3.438202
-Eagle_Elite 108 Speed 1.522161 Hunger 0.9163018 Thirst 0.8737788 Birth 3 Death 3 Number_of_Babies_per_Pregnancy 2.677419
-Plant 334
-Rabbit 2106 Speed 1.511369 Hunger 0.9801664 Thirst 0.813013 Birth 77 Death 77 Number_of_Babies_per_Pregnancy 3.20082
-Fox 307 Speed 1.505283 Hunger 0.9224043 Thirst 0.750374 Birth 9 Death 9 Number_of_Babies_per_Pregnancy 3.438202
-Eagle_Elite 108 Speed 1.522161 Hunger 0.9166553 Thirst 0.8740817 Birth 3 Death 3 Number_of_Babies_per_Pregnancy 2.677419
-Plant 334
-Rabbit 2105 Speed 1.511301 Hunger 0.9808864 Thirst 0.8134078 Birth 67 Death 68 Number_of_Babies_per_Pregnancy 3.20082
-Fox 307 Speed 1.505283 Hunger 0.9230935 Thirst 0.7510228 Birth 9 Death 9 Number_of_Babies_per_Pregnancy 3.438202
-Eagle_Elite 108 Speed 1.522161 Hunger 0.9170087 Thirst 0.8743846 Birth 2 Death 2 Number_of_Babies_per_Pregnancy 2.677419
-Plant 334
-Rabbit 2105 Speed 1.511301 Hunger 0.981455 Thirst 0.8138895 Birth 68 Death 68 Number_of_Babies_per_Pregnancy 3.20082
-Fox 307 Speed 1.505283 Hunger 0.9237821 Thirst 0.7516711 Birth 11 Death 11 Number_of_Babies_per_Pregnancy 3.438202
-Eagle_Elite 108 Speed 1.522161 Hunger 0.9173622 Thirst 0.8746875 Birth 2 Death 2 Number_of_Babies_per_Pregnancy 2.677419
-Plant 334
-Rabbit 2104 Speed 1.511284 Hunger 0.98249 Thirst 0.8142821 Birth 74 Death 75 Number_of_Babies_per_Pregnancy 3.199179
-Fox 307 Speed 1.505283 Hunger 0.9244709 Thirst 0.7523198 Birth 6 Death 6 Number_of_Babies_per_Pregnancy 3.438202
-Eagle_Elite 108 Speed 1.522161 Hunger 0.9177155 Thirst 0.8749903 Birth 3 Death 3 Number_of_Babies_per_Pregnancy 2.677419
-Plant 334
-Rabbit 2103 Speed 1.511294 Hunger 0.9830488 Thirst 0.8151479 Birth 70 Death 71 Number_of_Babies_per_Pregnancy 3.197531
-Fox 306 Speed 1.505489 Hunger 0.9253812 Thirst 0.7521451 Birth 9 Death 10 Number_of_Babies_per_Pregnancy 3.431818
-Eagle_Elite 108 Speed 1.522161 Hunger 0.9180691 Thirst 0.8752933 Birth 3 Death 3 Number_of_Babies_per_Pregnancy 2.677419
-Plant 334
-Rabbit 2103 Speed 1.511294 Hunger 0.9836144 Thirst 0.8156258 Birth 75 Death 75 Number_of_Babies_per_Pregnancy 3.197531
-Fox 306 Speed 1.505489 Hunger 0.9260512 Thirst 0.7527748 Birth 8 Death 8 Number_of_Babies_per_Pregnancy 3.431818
-Eagle_Elite 108 Speed 1.522161 Hunger 0.9184225 Thirst 0.8755962 Birth 3 Death 3 Number_of_Babies_per_Pregnancy 2.677419
+Plant 5040.409
+Rabbit 1000 Speed 1.499284 Hunger 0.004536906 Thirst 0.004665297 Birth 1828 Death 828 Number_of_Babies_per_Pregnancy 2.426587
+Fox 400 Speed 1.501181 Hunger 0.004673515 Thirst 0.004715876 Birth 710 Death 310 Number_of_Babies_per_Pregnancy 2.546341
+Eagle_Elite 200 Speed 1.50476 Hunger 0.004788941 Thirst 0.004679457 Birth 358 Death 158 Number_of_Babies_per_Pregnancy 2.586539
+Plant 5078.946
+Rabbit 1000 Speed 1.499283 Hunger 0.007840967 Thirst 0.009127154 Birth 888 Death 888 Number_of_Babies_per_Pregnancy 2.426587
+Fox 400 Speed 1.501181 Hunger 0.00894342 Thirst 0.00927261 Birth 388 Death 388 Number_of_Babies_per_Pregnancy 2.546341
+Eagle_Elite 200 Speed 1.50476 Hunger 0.009272482 Thirst 0.009060667 Birth 191 Death 191 Number_of_Babies_per_Pregnancy 2.586539
+Plant 5100.685
+Rabbit 1026 Speed 1.500261 Hunger 0.01252023 Thirst 0.01623722 Birth 940 Death 914 Number_of_Babies_per_Pregnancy 2.424658
+Fox 404 Speed 1.500978 Hunger 0.01447825 Thirst 0.01547771 Birth 475 Death 471 Number_of_Babies_per_Pregnancy 2.526829
+Eagle_Elite 200 Speed 1.50476 Hunger 0.01494316 Thirst 0.01496256 Birth 260 Death 260 Number_of_Babies_per_Pregnancy 2.586539
+Plant 5121.462
+Rabbit 1066 Speed 1.498791 Hunger 0.01735511 Thirst 0.02240662 Birth 788 Death 748 Number_of_Babies_per_Pregnancy 2.44084
+Fox 417 Speed 1.50007 Hunger 0.01971058 Thirst 0.02146661 Birth 397 Death 384 Number_of_Babies_per_Pregnancy 2.529703
+Eagle_Elite 200 Speed 1.50476 Hunger 0.01958696 Thirst 0.01960756 Birth 216 Death 216 Number_of_Babies_per_Pregnancy 2.586539
+Plant 5146.697
+Rabbit 1133 Speed 1.50088 Hunger 0.02409389 Thirst 0.03022498 Birth 800 Death 733 Number_of_Babies_per_Pregnancy 2.473684
+Fox 445 Speed 1.50155 Hunger 0.02732165 Thirst 0.02957178 Birth 431 Death 403 Number_of_Babies_per_Pregnancy 2.495455
+Eagle_Elite 204 Speed 1.505165 Hunger 0.02545782 Thirst 0.02522258 Birth 224 Death 220 Number_of_Babies_per_Pregnancy 2.598039
+Plant 5171.732
+Rabbit 1203 Speed 1.500261 Hunger 0.0300839 Thirst 0.03727515 Birth 788 Death 718 Number_of_Babies_per_Pregnancy 2.480287
+Fox 460 Speed 1.501108 Hunger 0.03215872 Thirst 0.03469387 Birth 399 Death 384 Number_of_Babies_per_Pregnancy 2.518018
+Eagle_Elite 208 Speed 1.506586 Hunger 0.02984005 Thirst 0.03035274 Birth 196 Death 192 Number_of_Babies_per_Pregnancy 2.586539
+Plant 5182.23
+Rabbit 1279 Speed 1.501901 Hunger 0.03789067 Thirst 0.04639332 Birth 781 Death 705 Number_of_Babies_per_Pregnancy 2.519525
+Fox 465 Speed 1.499771 Hunger 0.03487169 Thirst 0.0386976 Birth 388 Death 383 Number_of_Babies_per_Pregnancy 2.484305
+Eagle_Elite 213 Speed 1.508751 Hunger 0.03626034 Thirst 0.03495183 Birth 182 Death 177 Number_of_Babies_per_Pregnancy 2.586539
+Plant 5201.843
+Rabbit 1359 Speed 1.498849 Hunger 0.04725219 Thirst 0.05649161 Birth 888 Death 808 Number_of_Babies_per_Pregnancy 2.462437
+Fox 486 Speed 1.502137 Hunger 0.04433626 Thirst 0.04777 Birth 438 Death 417 Number_of_Babies_per_Pregnancy 2.576419
+Eagle_Elite 222 Speed 1.506746 Hunger 0.04464832 Thirst 0.04417817 Birth 225 Death 216 Number_of_Babies_per_Pregnancy 2.570093
+Plant 5217.802
+Rabbit 1458 Speed 1.498392 Hunger 0.05732437 Thirst 0.06838143 Birth 978 Death 879 Number_of_Babies_per_Pregnancy 2.436364
+Fox 503 Speed 1.500005 Hunger 0.05073193 Thirst 0.05521004 Birth 469 Death 452 Number_of_Babies_per_Pregnancy 2.551724
+Eagle_Elite 227 Speed 1.506009 Hunger 0.04990378 Thirst 0.05090927 Birth 232 Death 227 Number_of_Babies_per_Pregnancy 2.564815
+Plant 5229.534
+Rabbit 1552 Speed 1.495631 Hunger 0.06659513 Thirst 0.07830849 Birth 993 Death 899 Number_of_Babies_per_Pregnancy 2.466129
+Fox 514 Speed 1.501442 Hunger 0.05469368 Thirst 0.06122742 Birth 435 Death 424 Number_of_Babies_per_Pregnancy 2.50211
+Eagle_Elite 242 Speed 1.507468 Hunger 0.05973729 Thirst 0.06230895 Birth 242 Death 227 Number_of_Babies_per_Pregnancy 2.590476
+Plant 5242.707
+Rabbit 1652 Speed 1.497063 Hunger 0.07344688 Thirst 0.08701798 Birth 1072 Death 972 Number_of_Babies_per_Pregnancy 2.525346
+Fox 533 Speed 1.499632 Hunger 0.06358164 Thirst 0.07081991 Birth 457 Death 438 Number_of_Babies_per_Pregnancy 2.508333
+Eagle_Elite 245 Speed 1.504635 Hunger 0.063955 Thirst 0.06461918 Birth 245 Death 242 Number_of_Babies_per_Pregnancy 2.587156
+Plant 5257.339
+Rabbit 1736 Speed 1.496275 Hunger 0.08146526 Thirst 0.09671999 Birth 1103 Death 1019 Number_of_Babies_per_Pregnancy 2.50514
+Fox 551 Speed 1.50147 Hunger 0.06956892 Thirst 0.07758126 Birth 478 Death 460 Number_of_Babies_per_Pregnancy 2.574297
+Eagle_Elite 252 Speed 1.499245 Hunger 0.07285013 Thirst 0.07271414 Birth 251 Death 244 Number_of_Babies_per_Pregnancy 2.53913
+Plant 5268.869
+Rabbit 1829 Speed 1.496136 Hunger 0.09095386 Thirst 0.1063819 Birth 1106 Death 1013 Number_of_Babies_per_Pregnancy 2.522111
+Fox 576 Speed 1.49991 Hunger 0.07833014 Thirst 0.08523168 Birth 465 Death 440 Number_of_Babies_per_Pregnancy 2.478261
+Eagle_Elite 254 Speed 1.501258 Hunger 0.07597779 Thirst 0.07779352 Birth 238 Death 236 Number_of_Babies_per_Pregnancy 2.547826
+Plant 5289.207
+Rabbit 1922 Speed 1.495288 Hunger 0.09915966 Thirst 0.1161922 Birth 1151 Death 1058 Number_of_Babies_per_Pregnancy 2.50142
+Fox 605 Speed 1.501742 Hunger 0.08947141 Thirst 0.09510854 Birth 503 Death 474 Number_of_Babies_per_Pregnancy 2.533074
+Eagle_Elite 260 Speed 1.503216 Hunger 0.08127474 Thirst 0.08414167 Birth 244 Death 238 Number_of_Babies_per_Pregnancy 2.561404
+Plant 5296.639
+Rabbit 2006 Speed 1.495366 Hunger 0.1087897 Thirst 0.1254829 Birth 1158 Death 1074 Number_of_Babies_per_Pregnancy 2.510204
+Fox 639 Speed 1.501927 Hunger 0.09870113 Thirst 0.103237 Birth 541 Death 507 Number_of_Babies_per_Pregnancy 2.48421
+Eagle_Elite 272 Speed 1.506965 Hunger 0.09289034 Thirst 0.09796649 Birth 258 Death 246 Number_of_Babies_per_Pregnancy 2.59322
+Plant 5306.817
+Rabbit 2093 Speed 1.495589 Hunger 0.1183226 Thirst 0.1338079 Birth 1109 Death 1022 Number_of_Babies_per_Pregnancy 2.501366
+Fox 657 Speed 1.50183 Hunger 0.1068337 Thirst 0.1120213 Birth 533 Death 515 Number_of_Babies_per_Pregnancy 2.5
+Eagle_Elite 282 Speed 1.506003 Hunger 0.100111 Thirst 0.1053237 Birth 245 Death 235 Number_of_Babies_per_Pregnancy 2.5
+Plant 5319.231
+Rabbit 2197 Speed 1.496311 Hunger 0.1308003 Thirst 0.1434465 Birth 1214 Death 1110 Number_of_Babies_per_Pregnancy 2.515272
+Fox 704 Speed 1.499305 Hunger 0.1221797 Thirst 0.1284829 Birth 581 Death 534 Number_of_Babies_per_Pregnancy 2.567568
+Eagle_Elite 286 Speed 1.50658 Hunger 0.1061683 Thirst 0.1088989 Birth 250 Death 246 Number_of_Babies_per_Pregnancy 2.495868
+Plant 5323.097
+Rabbit 2261 Speed 1.495898 Hunger 0.1396183 Thirst 0.1497793 Birth 1191 Death 1127 Number_of_Babies_per_Pregnancy 2.496749
+Fox 730 Speed 1.500404 Hunger 0.1247108 Thirst 0.1368641 Birth 567 Death 541 Number_of_Babies_per_Pregnancy 2.553459
+Eagle_Elite 300 Speed 1.506758 Hunger 0.1221781 Thirst 0.1247577 Birth 256 Death 242 Number_of_Babies_per_Pregnancy 2.52459
+Plant 5343.75
+Rabbit 2317 Speed 1.497622 Hunger 0.1505329 Thirst 0.1593163 Birth 1188 Death 1132 Number_of_Babies_per_Pregnancy 2.470893
+Fox 778 Speed 1.501714 Hunger 0.1372175 Thirst 0.1549773 Birth 605 Death 557 Number_of_Babies_per_Pregnancy 2.558558
+Eagle_Elite 302 Speed 1.508313 Hunger 0.1263235 Thirst 0.1283696 Birth 259 Death 257 Number_of_Babies_per_Pregnancy 2.574803
+Plant 5356.64
+Rabbit 2401 Speed 1.497683 Hunger 0.1631434 Thirst 0.1673763 Birth 1210 Death 1126 Number_of_Babies_per_Pregnancy 2.517792
+Fox 797 Speed 1.499955 Hunger 0.1418352 Thirst 0.1613683 Birth 622 Death 603 Number_of_Babies_per_Pregnancy 2.49848
+Eagle_Elite 305 Speed 1.508525 Hunger 0.1322504 Thirst 0.1342162 Birth 259 Death 256 Number_of_Babies_per_Pregnancy 2.576923
+Plant 5380.593
+Rabbit 2518 Speed 1.4969 Hunger 0.1772992 Thirst 0.1791603 Birth 1328 Death 1211 Number_of_Babies_per_Pregnancy 2.523132
+Fox 850 Speed 1.50018 Hunger 0.1604293 Thirst 0.1809451 Birth 689 Death 636 Number_of_Babies_per_Pregnancy 2.543103
+Eagle_Elite 314 Speed 1.510905 Hunger 0.1450432 Thirst 0.1453736 Birth 280 Death 271 Number_of_Babies_per_Pregnancy 2.651852
+Plant 5413.091
+Rabbit 2626 Speed 1.497553 Hunger 0.1928988 Thirst 0.1888177 Birth 1288 Death 1180 Number_of_Babies_per_Pregnancy 2.519814
+Fox 875 Speed 1.502269 Hunger 0.1665878 Thirst 0.1870714 Birth 728 Death 703 Number_of_Babies_per_Pregnancy 2.540845
+Eagle_Elite 320 Speed 1.511756 Hunger 0.1538454 Thirst 0.1564325 Birth 284 Death 278 Number_of_Babies_per_Pregnancy 2.666667
+Plant 5441.155
+Rabbit 2746 Speed 1.498551 Hunger 0.207953 Thirst 0.2000801 Birth 1382 Death 1262 Number_of_Babies_per_Pregnancy 2.521935
+Fox 921 Speed 1.502155 Hunger 0.1807967 Thirst 0.2013182 Birth 794 Death 748 Number_of_Babies_per_Pregnancy 2.605405
+Eagle_Elite 322 Speed 1.510481 Hunger 0.1608809 Thirst 0.1625182 Birth 286 Death 284 Number_of_Babies_per_Pregnancy 2.581395
+Plant 5463.943
+Rabbit 2869 Speed 1.498693 Hunger 0.2243194 Thirst 0.2101313 Birth 1339 Death 1216 Number_of_Babies_per_Pregnancy 2.5623
+Fox 951 Speed 1.502034 Hunger 0.1862818 Thirst 0.2096674 Birth 868 Death 838 Number_of_Babies_per_Pregnancy 2.595687
+Eagle_Elite 329 Speed 1.509003 Hunger 0.1710015 Thirst 0.1711454 Birth 293 Death 286 Number_of_Babies_per_Pregnancy 2.58209
+Plant 5501.726
+Rabbit 3007 Speed 1.49964 Hunger 0.2423468 Thirst 0.2225259 Birth 1372 Death 1234 Number_of_Babies_per_Pregnancy 2.559217
+Fox 1024 Speed 1.506731 Hunger 0.2047403 Thirst 0.2294987 Birth 919 Death 846 Number_of_Babies_per_Pregnancy 2.591479
+Eagle_Elite 336 Speed 1.511012 Hunger 0.179671 Thirst 0.1791111 Birth 315 Death 308 Number_of_Babies_per_Pregnancy 2.580882
+Plant 5531.094
+Rabbit 3117 Speed 1.499138 Hunger 0.2554125 Thirst 0.2328668 Birth 1060 Death 950 Number_of_Babies_per_Pregnancy 2.595358
+Fox 1044 Speed 1.502973 Hunger 0.2111176 Thirst 0.2332669 Birth 686 Death 666 Number_of_Babies_per_Pregnancy 2.570024
+Eagle_Elite 341 Speed 1.509713 Hunger 0.1884886 Thirst 0.1878976 Birth 228 Death 223 Number_of_Babies_per_Pregnancy 2.560284
+Plant 5551.706
+Rabbit 3300 Speed 1.499872 Hunger 0.2747232 Thirst 0.2458708 Birth 1508 Death 1325 Number_of_Babies_per_Pregnancy 2.639692
+Fox 1083 Speed 1.503321 Hunger 0.2253184 Thirst 0.2442215 Birth 987 Death 948 Number_of_Babies_per_Pregnancy 2.60514
+Eagle_Elite 346 Speed 1.509487 Hunger 0.1965871 Thirst 0.1888198 Birth 315 Death 310 Number_of_Babies_per_Pregnancy 2.548611
+Plant 5573.674
+Rabbit 3455 Speed 1.499597 Hunger 0.2912066 Thirst 0.2536188 Birth 1476 Death 1321 Number_of_Babies_per_Pregnancy 2.570076
+Fox 1147 Speed 1.502511 Hunger 0.2435218 Thirst 0.2618694 Birth 1002 Death 938 Number_of_Babies_per_Pregnancy 2.656885
+Eagle_Elite 353 Speed 1.510713 Hunger 0.2028599 Thirst 0.1921652 Birth 314 Death 307 Number_of_Babies_per_Pregnancy 2.536424
+Plant 5602.16
+Rabbit 3598 Speed 1.499592 Hunger 0.3065166 Thirst 0.2624037 Birth 1467 Death 1324 Number_of_Babies_per_Pregnancy 2.583033
+Fox 1203 Speed 1.505959 Hunger 0.2589126 Thirst 0.2785311 Birth 987 Death 931 Number_of_Babies_per_Pregnancy 2.658898
+Eagle_Elite 364 Speed 1.510873 Hunger 0.2185697 Thirst 0.2029793 Birth 329 Death 318 Number_of_Babies_per_Pregnancy 2.603896
+Plant 5630.72
+Rabbit 3746 Speed 1.498185 Hunger 0.3226526 Thirst 0.2713007 Birth 1540 Death 1392 Number_of_Babies_per_Pregnancy 2.571429
+Fox 1261 Speed 1.502687 Hunger 0.2777821 Thirst 0.2910635 Birth 1109 Death 1051 Number_of_Babies_per_Pregnancy 2.632353
+Eagle_Elite 371 Speed 1.511162 Hunger 0.2279447 Thirst 0.2106436 Birth 330 Death 323 Number_of_Babies_per_Pregnancy 2.559211
+Plant 5674.037
+Rabbit 3866 Speed 1.498901 Hunger 0.338762 Thirst 0.2772807 Birth 1529 Death 1409 Number_of_Babies_per_Pregnancy 2.572864
+Fox 1335 Speed 1.503276 Hunger 0.2962442 Thirst 0.308549 Birth 1138 Death 1064 Number_of_Babies_per_Pregnancy 2.592814
+Eagle_Elite 383 Speed 1.505739 Hunger 0.2439657 Thirst 0.2191654 Birth 347 Death 335 Number_of_Babies_per_Pregnancy 2.559211
+Plant 5699.97
+Rabbit 4071 Speed 1.497648 Hunger 0.3592077 Thirst 0.2889313 Birth 1615 Death 1410 Number_of_Babies_per_Pregnancy 2.622938
+Fox 1404 Speed 1.503058 Hunger 0.3078769 Thirst 0.3158101 Birth 1152 Death 1083 Number_of_Babies_per_Pregnancy 2.632495
+Eagle_Elite 388 Speed 1.506468 Hunger 0.2490518 Thirst 0.2239698 Birth 332 Death 327 Number_of_Babies_per_Pregnancy 2.552632
+Plant 5734.932
+Rabbit 4230 Speed 1.497844 Hunger 0.3779329 Thirst 0.3001608 Birth 1612 Death 1453 Number_of_Babies_per_Pregnancy 2.633922
+Fox 1478 Speed 1.502183 Hunger 0.3230328 Thirst 0.3257491 Birth 1267 Death 1193 Number_of_Babies_per_Pregnancy 2.634981
+Eagle_Elite 396 Speed 1.507133 Hunger 0.2638609 Thirst 0.2297642 Birth 318 Death 310 Number_of_Babies_per_Pregnancy 2.557823
+Plant 5760.444
+Rabbit 4456 Speed 1.496633 Hunger 0.3979879 Thirst 0.3154745 Birth 1712 Death 1486 Number_of_Babies_per_Pregnancy 2.655555
+Fox 1544 Speed 1.49883 Hunger 0.3422632 Thirst 0.3397911 Birth 1323 Death 1257 Number_of_Babies_per_Pregnancy 2.627057
+Eagle_Elite 400 Speed 1.508916 Hunger 0.2730075 Thirst 0.2337422 Birth 364 Death 360 Number_of_Babies_per_Pregnancy 2.519737
+Plant 5778.602
+Rabbit 4618 Speed 1.49824 Hunger 0.4166073 Thirst 0.3256935 Birth 1614 Death 1452 Number_of_Babies_per_Pregnancy 2.688028
+Fox 1626 Speed 1.499425 Hunger 0.3575783 Thirst 0.352867 Birth 1345 Death 1263 Number_of_Babies_per_Pregnancy 2.540034
+Eagle_Elite 403 Speed 1.510565 Hunger 0.2795822 Thirst 0.2374072 Birth 351 Death 348 Number_of_Babies_per_Pregnancy 2.564935
+Plant 5802.489
+Rabbit 4864 Speed 1.497705 Hunger 0.4382606 Thirst 0.3420212 Birth 1721 Death 1475 Number_of_Babies_per_Pregnancy 2.724321
+Fox 1706 Speed 1.497405 Hunger 0.3753843 Thirst 0.3653436 Birth 1453 Death 1373 Number_of_Babies_per_Pregnancy 2.567213
+Eagle_Elite 409 Speed 1.510568 Hunger 0.2851813 Thirst 0.2395839 Birth 347 Death 341 Number_of_Babies_per_Pregnancy 2.534591
+Plant 5826.001
+Rabbit 5118 Speed 1.498089 Hunger 0.4608562 Thirst 0.3574906 Birth 1781 Death 1527 Number_of_Babies_per_Pregnancy 2.717432
+Fox 1792 Speed 1.497443 Hunger 0.3918196 Thirst 0.3744893 Birth 1515 Death 1429 Number_of_Babies_per_Pregnancy 2.583201
+Eagle_Elite 415 Speed 1.511273 Hunger 0.2980094 Thirst 0.2506224 Birth 356 Death 350 Number_of_Babies_per_Pregnancy 2.561728
+Plant 5841.602
+Rabbit 5369 Speed 1.496782 Hunger 0.4795562 Thirst 0.3734159 Birth 1897 Death 1646 Number_of_Babies_per_Pregnancy 2.704113
+Fox 1911 Speed 1.496882 Hunger 0.4183322 Thirst 0.3925583 Birth 1529 Death 1410 Number_of_Babies_per_Pregnancy 2.642527
+Eagle_Elite 420 Speed 1.509692 Hunger 0.3026745 Thirst 0.2508574 Birth 340 Death 335 Number_of_Babies_per_Pregnancy 2.551515
+Plant 5853.916
+Rabbit 5566 Speed 1.497674 Hunger 0.4956143 Thirst 0.3811986 Birth 1940 Death 1743 Number_of_Babies_per_Pregnancy 2.68727
+Fox 2006 Speed 1.495229 Hunger 0.4325073 Thirst 0.3995711 Birth 1640 Death 1545 Number_of_Babies_per_Pregnancy 2.604076
+Eagle_Elite 432 Speed 1.511062 Hunger 0.318977 Thirst 0.2606406 Birth 339 Death 327 Number_of_Babies_per_Pregnancy 2.570588
+Plant 5889.517
+Rabbit 5802 Speed 1.49609 Hunger 0.5155237 Thirst 0.3957818 Birth 2026 Death 1790 Number_of_Babies_per_Pregnancy 2.715983
+Fox 2082 Speed 1.495778 Hunger 0.4467494 Thirst 0.4090671 Birth 1704 Death 1628 Number_of_Babies_per_Pregnancy 2.624484
+Eagle_Elite 435 Speed 1.509994 Hunger 0.3292365 Thirst 0.2633911 Birth 330 Death 327 Number_of_Babies_per_Pregnancy 2.57485
+Plant 5921.242
+Rabbit 5999 Speed 1.495592 Hunger 0.531954 Thirst 0.403781 Birth 1970 Death 1773 Number_of_Babies_per_Pregnancy 2.702965
+Fox 2175 Speed 1.495524 Hunger 0.4633736 Thirst 0.4170784 Birth 1725 Death 1632 Number_of_Babies_per_Pregnancy 2.585333
+Eagle_Elite 454 Speed 1.510809 Hunger 0.3483342 Thirst 0.2762641 Birth 377 Death 358 Number_of_Babies_per_Pregnancy 2.587209
+Plant 5945.678
+Rabbit 6166 Speed 1.495426 Hunger 0.5450031 Thirst 0.4085142 Birth 1921 Death 1754 Number_of_Babies_per_Pregnancy 2.747835
+Fox 2253 Speed 1.496213 Hunger 0.4769005 Thirst 0.4281215 Birth 1855 Death 1777 Number_of_Babies_per_Pregnancy 2.60705
+Eagle_Elite 453 Speed 1.510204 Hunger 0.3503892 Thirst 0.2735811 Birth 324 Death 325 Number_of_Babies_per_Pregnancy 2.590643
+Plant 5968.313
+Rabbit 6302 Speed 1.495436 Hunger 0.5570825 Thirst 0.4131278 Birth 1928 Death 1792 Number_of_Babies_per_Pregnancy 2.739667
+Fox 2336 Speed 1.493625 Hunger 0.4906883 Thirst 0.4389409 Birth 1916 Death 1833 Number_of_Babies_per_Pregnancy 2.594185
+Eagle_Elite 470 Speed 1.50866 Hunger 0.3615509 Thirst 0.2841409 Birth 350 Death 333 Number_of_Babies_per_Pregnancy 2.551351
+Plant 5994.259
+Rabbit 6426 Speed 1.495343 Hunger 0.5699779 Thirst 0.4157495 Birth 1893 Death 1769 Number_of_Babies_per_Pregnancy 2.759023
+Fox 2373 Speed 1.493024 Hunger 0.4939429 Thirst 0.4453112 Birth 1841 Death 1804 Number_of_Babies_per_Pregnancy 2.579208
+Eagle_Elite 478 Speed 1.508858 Hunger 0.370154 Thirst 0.2877268 Birth 372 Death 364 Number_of_Babies_per_Pregnancy 2.553763
+Plant 6016.391
+Rabbit 6479 Speed 1.494958 Hunger 0.5787078 Thirst 0.4200396 Birth 1820 Death 1767 Number_of_Babies_per_Pregnancy 2.735152
+Fox 2445 Speed 1.49137 Hunger 0.5089082 Thirst 0.4596874 Birth 1950 Death 1878 Number_of_Babies_per_Pregnancy 2.546651
+Eagle_Elite 489 Speed 1.508123 Hunger 0.3784226 Thirst 0.2936639 Birth 350 Death 339 Number_of_Babies_per_Pregnancy 2.569832
+Plant 6047.887
+Rabbit 6541 Speed 1.494312 Hunger 0.5878097 Thirst 0.4224083 Birth 1718 Death 1656 Number_of_Babies_per_Pregnancy 2.710753
+Fox 2507 Speed 1.49034 Hunger 0.5184129 Thirst 0.4717983 Birth 1922 Death 1860 Number_of_Babies_per_Pregnancy 2.596177
+Eagle_Elite 493 Speed 1.510892 Hunger 0.3835908 Thirst 0.2991988 Birth 364 Death 360 Number_of_Babies_per_Pregnancy 2.568306
+Plant 6065.287
+Rabbit 6550 Speed 1.494855 Hunger 0.5937226 Thirst 0.4234803 Birth 1661 Death 1652 Number_of_Babies_per_Pregnancy 2.728548
+Fox 2551 Speed 1.489297 Hunger 0.5271121 Thirst 0.477971 Birth 2059 Death 2015 Number_of_Babies_per_Pregnancy 2.603995
+Eagle_Elite 504 Speed 1.509764 Hunger 0.3886562 Thirst 0.3015058 Birth 350 Death 339 Number_of_Babies_per_Pregnancy 2.543956
+Plant 6089.804
+Rabbit 6574 Speed 1.494111 Hunger 0.6003618 Thirst 0.4275207 Birth 1588 Death 1564 Number_of_Babies_per_Pregnancy 2.71875
+Fox 2624 Speed 1.488006 Hunger 0.5348369 Thirst 0.4878974 Birth 2228 Death 2155 Number_of_Babies_per_Pregnancy 2.615741
+Eagle_Elite 507 Speed 1.510182 Hunger 0.3925128 Thirst 0.2986818 Birth 357 Death 354 Number_of_Babies_per_Pregnancy 2.561497
+Plant 6109.006
+Rabbit 6581 Speed 1.493624 Hunger 0.6062816 Thirst 0.4295786 Birth 1577 Death 1570 Number_of_Babies_per_Pregnancy 2.712121
+Fox 2695 Speed 1.4889 Hunger 0.5449104 Thirst 0.4992042 Birth 2256 Death 2185 Number_of_Babies_per_Pregnancy 2.61062
+Eagle_Elite 512 Speed 1.508675 Hunger 0.3987083 Thirst 0.30736 Birth 374 Death 369 Number_of_Babies_per_Pregnancy 2.633333
+Plant 6132.226
+Rabbit 6600 Speed 1.493746 Hunger 0.6127349 Thirst 0.4350145 Birth 1615 Death 1596 Number_of_Babies_per_Pregnancy 2.718295
+Fox 2765 Speed 1.485317 Hunger 0.554107 Thirst 0.5113086 Birth 2222 Death 2152 Number_of_Babies_per_Pregnancy 2.62183
+Eagle_Elite 519 Speed 1.5101 Hunger 0.4046413 Thirst 0.3123308 Birth 364 Death 357 Number_of_Babies_per_Pregnancy 2.638418
+Plant 6162.29
+Rabbit 6595 Speed 1.493785 Hunger 0.6183177 Thirst 0.4394548 Birth 1539 Death 1544 Number_of_Babies_per_Pregnancy 2.722892
+Fox 2803 Speed 1.48554 Hunger 0.5624529 Thirst 0.5196159 Birth 2287 Death 2249 Number_of_Babies_per_Pregnancy 2.641593
+Eagle_Elite 523 Speed 1.509592 Hunger 0.4101912 Thirst 0.3171059 Birth 395 Death 391 Number_of_Babies_per_Pregnancy 2.644068
+Plant 6185.564
+Rabbit 6617 Speed 1.494124 Hunger 0.624982 Thirst 0.4431764 Birth 1594 Death 1572 Number_of_Babies_per_Pregnancy 2.722101
+Fox 2878 Speed 1.486467 Hunger 0.5720167 Thirst 0.530224 Birth 2271 Death 2196 Number_of_Babies_per_Pregnancy 2.656522
+Eagle_Elite 521 Speed 1.509538 Hunger 0.4097803 Thirst 0.3209296 Birth 398 Death 400 Number_of_Babies_per_Pregnancy 2.657303
+Plant 6209.586
+Rabbit 6587 Speed 1.493767 Hunger 0.628619 Thirst 0.4456958 Birth 1646 Death 1676 Number_of_Babies_per_Pregnancy 2.717822
+Fox 2934 Speed 1.488685 Hunger 0.5796502 Thirst 0.5357587 Birth 2428 Death 2372 Number_of_Babies_per_Pregnancy 2.641026
+Eagle_Elite 528 Speed 1.510761 Hunger 0.41288 Thirst 0.3252236 Birth 370 Death 363 Number_of_Babies_per_Pregnancy 2.639344
+Plant 6228.136
+Rabbit 6560 Speed 1.493795 Hunger 0.6345756 Thirst 0.4478762 Birth 1685 Death 1712 Number_of_Babies_per_Pregnancy 2.695676
+Fox 2959 Speed 1.486655 Hunger 0.5844052 Thirst 0.5427825 Birth 2419 Death 2394 Number_of_Babies_per_Pregnancy 2.644444
+Eagle_Elite 527 Speed 1.51103 Hunger 0.4152676 Thirst 0.3280313 Birth 362 Death 363 Number_of_Babies_per_Pregnancy 2.644809
+Plant 6253.997
+Rabbit 6558 Speed 1.493753 Hunger 0.64076 Thirst 0.4523224 Birth 1620 Death 1622 Number_of_Babies_per_Pregnancy 2.693684
+Fox 3020 Speed 1.486722 Hunger 0.5965793 Thirst 0.5513196 Birth 2419 Death 2358 Number_of_Babies_per_Pregnancy 2.673216
+Eagle_Elite 541 Speed 1.512555 Hunger 0.423793 Thirst 0.3384184 Birth 387 Death 373 Number_of_Babies_per_Pregnancy 2.704301

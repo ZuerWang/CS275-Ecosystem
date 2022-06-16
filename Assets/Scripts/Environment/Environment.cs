@@ -42,8 +42,10 @@ public class Environment : MonoBehaviour {
     static Dictionary<Species, Map> speciesMaps;
 
     static float lastReportTime;
+    static float lastRegenerationTime;
     static string logFilePath = "./Logs/Census.txt";
     public static float resourceLevel = 4;
+    public static float plantRegnerateChance = 0.01f;
 
     void Start () {
         prng = new System.Random ();
@@ -52,7 +54,8 @@ public class Environment : MonoBehaviour {
 
         Init ();
         SpawnInitialPopulations ();
-
+        lastReportTime = Time.time;
+        lastRegenerationTime = Time.time;
     }
 
     void OnDrawGizmos () {
@@ -84,8 +87,8 @@ public class Environment : MonoBehaviour {
     public static void reportPopulation () {
         float timeSinceLastReport = Time.time - lastReportTime;
         if (timeSinceLastReport > 1) {
-
-            string plantLog = "Plant " + speciesMaps[(Species) (1 << 1)].numEntities;
+            speciesMaps[(Species) (1 << 1)].updatInfor();
+            string plantLog = "Plant " + speciesMaps[(Species) (1 << 1)].plantRemaining;
             writeLogToFile(plantLog, true);
             
             foreach(Species spe in speciesMaps.Keys)
@@ -104,7 +107,7 @@ public class Environment : MonoBehaviour {
                 }
             }
 
-            string logString = "Plant: " + speciesMaps[(Species) (1 << 1)].numEntities 
+            string logString = "Plant: " + speciesMaps[(Species) (1 << 1)].plantRemaining 
                   + " Rabbit: " + speciesMaps[(Species) (1 << 2)].numEntities 
                   + " Fox: " + speciesMaps[(Species) (1 << 3)].numEntities
                   + " Eagle_Elite: " + speciesMaps[(Species) (1 << 4)].numEntities;
@@ -129,8 +132,48 @@ public class Environment : MonoBehaviour {
             var child = Instantiate (childEntity);
             Coord spawnCoord = GetNextTileRandom(entity.coord);
             child.Init (spawnCoord);
+            
+            speciesMaps[entity.species].Add (childEntity, spawnCoord);
+        }
+    }
 
-            speciesMaps[entity.species].Add (entity, spawnCoord);
+    // public static void SpawnPlants () {
+    //     float timeSinceLastRegeneration = Time.time - lastRegenerationTime;
+    //     if (timeSinceLastRegeneration > 1) {
+    //         for (int y = 0; y < speciesMaps[(Species) (1 << 1)].numRegions; y++) {
+    //             for (int x = 0; x < speciesMaps[(Species) (1 << 1)].numRegions; x++) {
+    //                 for(int i = 0; i < (speciesMaps[(Species) (1 << 1)].map)[x, y].Count; i++) {
+    //                     if ((speciesMaps[(Species) (1 << 1)].map)[x, y][i] is not null && 
+    //                         (float) prng.NextDouble () < plantRegnerateChance) {
+    //                         LivingEntity childEntity = (speciesMaps[(Species) (1 << 1)].map)[x, y][i];
+    //                         var child = Instantiate (childEntity);
+    //                         Coord spawnCoord = GetNextTileRandom((speciesMaps[(Species) (1 << 1)].map)[x, y][i].coord);
+    //                         child.Init (spawnCoord);
+    //                         // Debug.Log ("Generate Plant");
+    //                         speciesMaps[(Species) (1 << 1)].Add (childEntity, spawnCoord);
+    //                     } 
+    //                 } 
+    //             }
+    //         }
+    //         lastRegenerationTime = Time.time;    
+    //     }
+    // }
+
+    public static void regeneratePlant () {
+        float timeSinceLastRegeneration = Time.time - lastRegenerationTime;
+        if (timeSinceLastRegeneration > 1) {
+            for (int y = 0; y < speciesMaps[(Species) (1 << 1)].numRegions; y++) {
+                for (int x = 0; x < speciesMaps[(Species) (1 << 1)].numRegions; x++) {
+                    for(int i = 0; i < (speciesMaps[(Species) (1 << 1)].map)[x, y].Count; i++) {
+                        if ((speciesMaps[(Species) (1 << 1)].map)[x, y][i] is not null && 
+                            (speciesMaps[(Species) (1 << 1)].map)[x, y][i].amountRemaining < 2 &&
+                            (float) prng.NextDouble () < plantRegnerateChance) {
+                                (speciesMaps[(Species) (1 << 1)].map)[x, y][i].amountRemaining += 1f;
+                        } 
+                    } 
+                }
+            }
+            lastRegenerationTime = Time.time;    
         }
     }
 

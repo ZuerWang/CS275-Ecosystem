@@ -8,7 +8,7 @@ public class Map {
     public readonly List<LivingEntity>[, ] map;
     readonly Vector2[, ] centres;
     readonly int regionSize;
-    readonly int numRegions;
+    public readonly int numRegions;
     public int numEntities;
 
     public float avgSpeed = 0;
@@ -17,6 +17,7 @@ public class Map {
     public int numBirth = 0;
     public int numDeath = 0;
     public float avgNumBabies;
+    public float plantRemaining;
 
 
     public Map (int size, int regionSize) {
@@ -42,15 +43,20 @@ public class Map {
         float totalSpeed = 0;
         float totalNumBabies = 0;
         float femaleCount = 0;
+        plantRemaining = 0;
         for (int y = 0; y < numRegions; y++) {
             for (int x = 0; x < numRegions; x++) {
                 for(int i = 0; i < map[x, y].Count; i++) {
-                    totalHunger += ((Animal) map[x, y][i]).hunger;
-                    totalThirst += ((Animal) map[x, y][i]).thirst;
-                    totalSpeed += ((Animal) map[x, y][i]).genes.speed;
-                    if (!((Animal) map[x, y][i]).genes.isMale) {
-                        totalNumBabies += ((Animal) map[x, y][i]).genes.numBabies;
-                        femaleCount += 1;
+                    if (map[x, y][i] is Animal) {
+                        totalHunger += ((Animal) map[x, y][i]).hunger;
+                        totalThirst += ((Animal) map[x, y][i]).thirst;
+                        totalSpeed += ((Animal) map[x, y][i]).genes.speed;
+                        if (!((Animal) map[x, y][i]).genes.isMale) {
+                            totalNumBabies += ((Animal) map[x, y][i]).genes.numBabies;
+                            femaleCount += 1;
+                        }
+                    } else {
+                        plantRemaining += map[x, y][i].AmountRemaining;
                     }
                 } 
             }

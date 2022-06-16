@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
 public class LivingEntity : MonoBehaviour {
-    float amountRemaining = 1;
+    public float amountRemaining = 1;
     const float consumeSpeed = 8;
 
     public int colourMaterialIndex;
@@ -17,6 +17,7 @@ public class LivingEntity : MonoBehaviour {
     public Coord mapCoord;
 
     protected bool dead;
+    public static float minPlantRemaning = 0.1f;
 
     public virtual void Init (Coord coord) {
         this.coord = coord;
@@ -37,29 +38,29 @@ public class LivingEntity : MonoBehaviour {
         if (!dead) {
             dead = true;
             Environment.RegisterDeath (this);
+            // if (species != (Species) (1 << 1)) {
+            //     Destroy (gameObject);
+            // }
             Destroy (gameObject);
         }
     }
 
-    protected virtual void Baby () {
-        //LivingEntity child = (LivingEntity) this.MemberwiseClone();
-        //Environment.RegisterBirth (child);
-        // Environment.RegisterBirth (this);
-        // Create (gameObject);
-    }
-
     // add Consume function from Plant
     public float Consume (float amount) {
-        float amountConsumed = Mathf.Max (0, Mathf.Min (amountRemaining, amount));
-        amountRemaining -= amount * consumeSpeed;
+        if (amountRemaining > 0) {
+            float amountConsumed = Mathf.Max (0, Mathf.Min (amountRemaining, amount));
+            amountRemaining -= amount * consumeSpeed;
 
-        transform.localScale = Vector3.one * amountRemaining;
+            transform.localScale = Vector3.one * amountRemaining;
 
-        if (amountRemaining <= 0) {
-            Die (CauseOfDeath.Eaten);
+            if (amountRemaining <= 0) {
+                if (species != (Species) (1 << 1)) {
+                    Die (CauseOfDeath.Eaten);
+                } 
+            }
+            return amountConsumed;
         }
-
-        return amountConsumed;
+        return 0;
     }
 
     public float AmountRemaining {

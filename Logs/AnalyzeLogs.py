@@ -13,7 +13,7 @@ species_to_color = {'Rabbit':'b', 'Plant':'g', 'Fox':'r', 'Eagle_Elite':'k'}
 for line in Lines:
     tokens = line.split()
     species = tokens[0]
-    population = int(tokens[1])
+    population = float(tokens[1])
     if species not in logs:
         logs[species] = {"population":[population]}
     else:

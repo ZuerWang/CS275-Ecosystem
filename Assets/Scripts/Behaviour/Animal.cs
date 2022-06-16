@@ -77,8 +77,8 @@ public class Animal : LivingEntity {
 
 
     protected virtual void Update () {
+        Environment.regeneratePlant();
         Environment.reportPopulation();
-
         // Increase hunger and thirst over time
         hunger += genes.consumptionRate * Time.deltaTime * 1 / timeToDeathByHunger;
         thirst += genes.consumptionRate * Time.deltaTime * 1 / timeToDeathByThirst;

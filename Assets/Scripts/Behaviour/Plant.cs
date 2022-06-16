@@ -3,26 +3,26 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Plant : LivingEntity {
-    float amountRemaining = 1;
-    const float consumeSpeed = 1;
+    // float amountRemaining = 1;
+    // const float consumeSpeed = 1;
 
-    public float Consume (float amount) {
-        Debug.Log ("Plant.cs");
-        float amountConsumed = Mathf.Max (0, Mathf.Min (amountRemaining, amount));
-        amountRemaining -= amount * consumeSpeed;
+    // public float Consume (float amount) {
+    //     Debug.Log ("Plant.cs");
+    //     float amountConsumed = Mathf.Max (0, Mathf.Min (amountRemaining, amount));
+    //     amountRemaining -= amount * consumeSpeed;
 
-        transform.localScale = Vector3.one * amountRemaining;
+    //     transform.localScale = Vector3.one * amountRemaining;
 
-        if (amountRemaining <= 0) {
-            Die (CauseOfDeath.Eaten);
-        }
+    //     if (amountRemaining <= 0) {
+    //         Die (CauseOfDeath.Eaten);
+    //     }
 
-        return amountConsumed;
-    }
+    //     return amountConsumed;
+    // }
 
-    public float AmountRemaining {
-        get {
-            return amountRemaining;
-        }
-    }
+    // public float AmountRemaining {
+    //     get {
+    //         return amountRemaining;
+    //     }
+    // }
 }
