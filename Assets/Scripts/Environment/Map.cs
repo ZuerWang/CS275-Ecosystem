@@ -16,6 +16,7 @@ public class Map {
     public float avgThirstLevel = 0;
     public int numBirth = 0;
     public int numDeath = 0;
+    public float avgNumBabies;
 
 
     public Map (int size, int regionSize) {
@@ -39,18 +40,25 @@ public class Map {
         float totalHunger = 0;
         float totalThirst = 0;
         float totalSpeed = 0;
+        float totalNumBabies = 0;
+        float femaleCount = 0;
         for (int y = 0; y < numRegions; y++) {
             for (int x = 0; x < numRegions; x++) {
                 for(int i = 0; i < map[x, y].Count; i++) {
                     totalHunger += ((Animal) map[x, y][i]).hunger;
                     totalThirst += ((Animal) map[x, y][i]).thirst;
                     totalSpeed += ((Animal) map[x, y][i]).genes.speed;
-                }
+                    if (!((Animal) map[x, y][i]).genes.isMale) {
+                        totalNumBabies += ((Animal) map[x, y][i]).genes.numBabies;
+                        femaleCount += 1;
+                    }
+                } 
             }
         }
         avgHungerLevel = totalHunger/numEntities;
         avgThirstLevel = totalThirst/numEntities;
         avgSpeed = totalSpeed/numEntities;
+        avgNumBabies = totalNumBabies/femaleCount;
     }
 
     public void updateAfterReport() {

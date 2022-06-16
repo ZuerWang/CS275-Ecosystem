@@ -10,9 +10,7 @@ public class Animal : LivingEntity {
 
     [EnumFlags]
     public Species diet;
-
     public CreatureAction currentAction;
-    public Genes genes;
     public Genes partnerGenes;
     public Color maleColour;
     public Color femaleColour;
@@ -23,9 +21,9 @@ public class Animal : LivingEntity {
     float moveSpeed = 1.5f;
     float timeToDeathByHunger = 200;
     float timeToDeathByThirst = 200;
-    float timeToReproduce = 10;
-    float reprodHungerCost = 50;
-    float reprodThirstCost = 50;
+    float timeToReproduce = 2.5f;
+    float reprodHungerCost = 15;
+    float reprodThirstCost = 15;
 
     float drinkDuration = 6;
     float eatDuration = 10;
@@ -108,9 +106,11 @@ public class Animal : LivingEntity {
             if (timeSinceLastRreporduction > timeToReproduce) {
                 lastReproductionTime = Time.time;
                 // Debug.Log ("timeSinceLastRreporduction: " + timeSinceLastRreporduction);
-                Environment.RegisterBirth (this);
-                hunger += genes.consumptionRate * Time.deltaTime * reprodHungerCost / timeToDeathByHunger;
-                thirst += genes.consumptionRate * Time.deltaTime * reprodThirstCost / timeToDeathByThirst;
+                for (int i = 0; i < genes.numBabies; i++) {
+                    Environment.RegisterBirth (this);
+                    hunger += genes.consumptionRate * Time.deltaTime * reprodHungerCost / timeToDeathByHunger;
+                    thirst += genes.consumptionRate * Time.deltaTime * reprodThirstCost / timeToDeathByThirst;
+                }
             } 
             wantToMate = 0;
             newBaby = 0;
@@ -292,11 +292,12 @@ public class Animal : LivingEntity {
                 float eatAmount = Mathf.Min (hunger, Time.deltaTime * 1 / eatDuration);
                 // eatAmount = ((Plant) foodTarget).Consume (eatAmount);
                 eatAmount = (foodTarget).Consume (eatAmount);
-                hunger -= eatAmount;
+                hunger -= Environment.resourceLevel*eatAmount;
+                hunger = Mathf.Clamp01 (hunger);
             }
         } else if (currentAction == CreatureAction.Drinking) {
             if (thirst > 0) {
-                thirst -= Time.deltaTime * 1 / drinkDuration;
+                thirst -= Environment.resourceLevel * Time.deltaTime * 1 / drinkDuration;
                 thirst = Mathf.Clamp01 (thirst);
             }
         } else if (currentAction == CreatureAction.Mating) {

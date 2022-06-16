@@ -1,5 +1,6 @@
 ﻿using static System.Math;
 using NumSharp;
+using System;
 
 public class Genes {
 
@@ -22,9 +23,12 @@ public class Genes {
     public NDArray weights;
 
     public float consumptionRate;
+    public int numBabies;
+    static Random rnd = new Random();
 
     // constructor
-    public Genes (bool isMale, bool isCarnivore, float size, float speed, float aggressiveness, int inputSize, int outputSize, NDArray weights) {
+    public Genes (bool isMale, bool isCarnivore, float size, float speed, float aggressiveness, 
+                  int inputSize, int outputSize, NDArray weights, int numBabies) {
         this.isMale = isMale;
         this.isCarnivore = isCarnivore;
         this.size = size;
@@ -38,6 +42,7 @@ public class Genes {
         this.colorG = colors[1];
         this.colorB = colors[2];
         this.consumptionRate = speed/1.5f;
+        this.numBabies = numBabies;
     }
 
     // get random genes
@@ -47,8 +52,9 @@ public class Genes {
         float size = RandomValue ();
         float speed = 1.5f + 0.1f * RandomGaussian ();
         float aggressiveness = RandomValue ();
+        int numBabies = rnd.Next(1, 5);
         NDArray weights = np.random.rand((outputSize, inputSize))-0.5;
-        return new Genes (isMale, isCarnivore, size, speed, aggressiveness, inputSize, outputSize, weights);
+        return new Genes (isMale, isCarnivore, size, speed, aggressiveness, inputSize, outputSize, weights, numBabies);
     }
 
     // display genes information
@@ -84,7 +90,15 @@ public class Genes {
 
     // randomly mutate genes
     public void mutate(){
-        this.speed += 0.1f * RandomGaussian ();
+        if (RandomValue () < mutationChance) {
+            this.speed += 0.1f * RandomGaussian ();
+        }
+        if ((RandomValue () < mutationChance)) {
+            this.numBabies += RandomValue () < 0.5f ? -1 : 1;
+            if (this.numBabies < 1) {
+                this.numBabies = 1;
+            }
+        }
         for (int i = 0; i < this.weights.shape[0]; i++) 
         {
             for (int j = 0; j < this.weights.shape[1]; j++) 
@@ -110,6 +124,7 @@ public class Genes {
         this.colorR = colors[0];
         this.colorG = colors[1];
         this.colorB = colors[2];
+        this.numBabies = RandomValue () < 0.5f ? g1.numBabies : g2.numBabies;
         mutate();
     }
 

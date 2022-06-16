@@ -9,6 +9,7 @@ public class Rabbit : Animal {
     public static readonly string[] GeneNames = { "A", "B" };
 
     public float Consume (float amount) {
+        Debug.Log ("Rabbit.cs");
         float amountConsumed = Mathf.Max (0, Mathf.Min (amountRemaining, amount));
         amountRemaining -= amount * consumeSpeed;
 

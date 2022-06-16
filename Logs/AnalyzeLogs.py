@@ -28,13 +28,19 @@ indices = [i for i in range(len(logs["Rabbit"]["population"]))]
 
 print(list(logs["Rabbit"].keys()))
 
+for species in logs:
+    if species != "Plant":
+        logs[species]["Birth Rate"] = [0]
+        logs[species]["Death Rate"] = [0]
+        for i in range (len(indices)-1):
+            logs[species]["Birth Rate"].append(logs[species]["Birth"][i+1]/logs[species]["population"][i])
+            logs[species]["Death Rate"].append(logs[species]["Death"][i+1]/logs[species]["population"][i])
+
+
 for key in list(logs["Rabbit"].keys()):
     for species in logs:
         if species != "Plant" or key == "population":
             plt.plot(indices, logs[species][key], species_to_color[species])
-        
     plt.xlabel('time')        
     plt.ylabel(key)
     plt.show()
-    
-    

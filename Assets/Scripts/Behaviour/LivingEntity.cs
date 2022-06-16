@@ -6,6 +6,7 @@ public class LivingEntity : MonoBehaviour {
 
     public int colourMaterialIndex;
     public Species species;
+    public Genes genes;
     public Material material;
 
     public Coord coord;

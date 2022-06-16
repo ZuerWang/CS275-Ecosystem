@@ -43,6 +43,7 @@ public class Environment : MonoBehaviour {
 
     static float lastReportTime;
     static string logFilePath = "./Logs/Census.txt";
+    public static float resourceLevel = 4;
 
     void Start () {
         prng = new System.Random ();
@@ -96,7 +97,8 @@ public class Environment : MonoBehaviour {
                                     + " Hunger " + speciesMaps[spe].avgHungerLevel
                                     + " Thirst " + speciesMaps[spe].avgThirstLevel
                                     + " Birth " + speciesMaps[spe].numBirth
-                                    + " Death " + speciesMaps[spe].numDeath;
+                                    + " Death " + speciesMaps[spe].numDeath
+                                    + " Number_of_Babies_per_Pregnancy " + speciesMaps[spe].avgNumBabies;
                     speciesMaps[spe].updateAfterReport();
                     writeLogToFile(speLog, true);
                 }
@@ -294,6 +296,8 @@ public class Environment : MonoBehaviour {
                     }
                 }
             }
+
+
 
             //LogPredatorPreyRelationships ();
 

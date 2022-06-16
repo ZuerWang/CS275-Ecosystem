@@ -7,6 +7,7 @@ public class Plant : LivingEntity {
     const float consumeSpeed = 1;
 
     public float Consume (float amount) {
+        Debug.Log ("Plant.cs");
         float amountConsumed = Mathf.Max (0, Mathf.Min (amountRemaining, amount));
         amountRemaining -= amount * consumeSpeed;
 

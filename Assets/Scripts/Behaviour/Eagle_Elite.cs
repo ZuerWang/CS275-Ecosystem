@@ -9,6 +9,7 @@ public class Eagle_Elite : Animal {
     public static readonly string[] GeneNames = { "A", "B" };
 
     public float Consume (float amount) {
+        Debug.Log ("Fox.cs");
         float amountConsumed = Mathf.Max (0, Mathf.Min (amountRemaining, amount));
         amountRemaining -= amount * consumeSpeed;
 
