@@ -1,10 +1,10 @@
 # CS275-Ecosystem
 ## Instructions to run the code
-1.Open the project in Unity and click start
+1. Open the project in Unity and click start
 
-2.To show statistics, run CS275-Ecosystem/Logs/AnalyzeLogs.py
+2. To show statistics, run CS275-Ecosystem/Logs/AnalyzeLogs.py
 
-3.To plot statistics of multiple world in the same figure, put all generated log file (default named Census.txt) in the same folder and run CS275-Ecosystem/Logs/PlotMultipleWorld.py
+3. To plot statistics of multiple world in the same figure, put all generated log file (default named Census.txt) in the same folder and run CS275-Ecosystem/Logs/PlotMultipleWorld.py
 
 ## Experimental results
 All experimenetal results (plots and log files) can be found in CS275-Ecosystem/Logs/
