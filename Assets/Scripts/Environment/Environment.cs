@@ -44,7 +44,7 @@ public class Environment : MonoBehaviour {
     static float lastReportTime;
     static float lastRegenerationTime;
     static string logFilePath = "./Logs/Census.txt";
-    public static float resourceLevel = 2;
+    public static float resourceLevel = 2f;
     public static float plantRegnerateChance = 0.001f;
     static float timeBetweenPlantRegeneration = 20;
 

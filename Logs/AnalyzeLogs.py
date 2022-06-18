@@ -36,11 +36,11 @@ for species in logs:
             logs[species]["Birth Rate"].append(logs[species]["Birth"][i+1]/logs[species]["population"][i])
             logs[species]["Death Rate"].append(logs[species]["Death"][i+1]/logs[species]["population"][i])
 
-
+max_timestep = -1
 for key in list(logs["Rabbit"].keys()):
     for species in logs:
         if species != "Plant" or key == "population":
-            plt.plot(indices, logs[species][key], species_to_color[species])
+            plt.plot(indices[:max_timestep], logs[species][key][:max_timestep], species_to_color[species])
     plt.xlabel('time')        
     plt.ylabel(key)
     plt.savefig(key+'.png')
