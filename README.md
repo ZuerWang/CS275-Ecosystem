@@ -1,6 +1,6 @@
 # CS275-Ecosystem
 ## Instructions to run the code
-1.open the project in Unity and click start
+1.Open the project in Unity and click start
 
 2.To show statistics, run CS275-Ecosystem/Logs/AnalyzeLogs.py
 
